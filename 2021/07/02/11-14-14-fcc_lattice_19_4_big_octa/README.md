@@ -58,8 +58,8 @@ this is how you would share that web page.
 
 
 [quick]: <https://vzome.com/app/?url=https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>
-[embed]: <https://vzome.com/app/embed.py?url=https://nanma80.github.io/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>
+[embed]: <https://vzome.com/app/embed.py?url=https://www.nan.ma/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>
 [source]: <https://github.com/nanma80/vzome-sharing/tree/main/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/>
-[pages]: <https://nanma80.github.io/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/>
+[pages]: <https://www.nan.ma/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/>
 [raw]: <https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>
-[rawPages]: <https://nanma80.github.io/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>
+[rawPages]: <https://www.nan.ma/vzome-sharing/2021/07/02/11-14-14-fcc_lattice_19_4_big_octa/fcc_lattice_19_4_big_octa.vZome>

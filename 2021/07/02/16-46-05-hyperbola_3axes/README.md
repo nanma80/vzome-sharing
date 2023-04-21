@@ -58,8 +58,8 @@ this is how you would share that web page.
 
 
 [quick]: <https://vzome.com/app/?url=https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
-[embed]: <https://vzome.com/app/embed.py?url=https://nanma80.github.io/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
+[embed]: <https://vzome.com/app/embed.py?url=https://www.nan.ma/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
 [source]: <https://github.com/nanma80/vzome-sharing/tree/main/2021/07/02/16-46-05-hyperbola_3axes/>
-[pages]: <https://nanma80.github.io/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/>
+[pages]: <https://www.nan.ma/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/>
 [raw]: <https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
-[rawPages]: <https://nanma80.github.io/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
+[rawPages]: <https://www.nan.ma/vzome-sharing/2021/07/02/16-46-05-hyperbola_3axes/hyperbola_3axes.vZome>
