@@ -6,7 +6,7 @@ published: true
 layout: vzome
 ---
 
-Two 3D designs created in vZome. I used them to guide me to assemble my models with 30 pencils.
+Two 3D designs created in vZome. I used them to guide me to assemble my models with 30 pencils. Use your mouse or touch to interact with the virtual models.
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh" 
