@@ -1,13 +1,13 @@
 ---
 title: associahedron_tiling
 description: Recreating this picture by Armin Gips: https://www.facebook.com/photo/?fbid=2179134862506489
-image: https://nanma80.github.io/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.png
+image: https://www.nan.ma/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.png
 published: true
 layout: vzome
 ---
 
 {% comment %}
- - [***web page generated from this source***](<https://nanma80.github.io/vzome-sharing/2025/02/01/associahedron_tiling-14-49-01.html>)
+ - [***web page generated from this source***](<https://www.nan.ma/vzome-sharing/2025/02/01/associahedron_tiling-14-49-01.html>)
  - [data assets and more info](<https://github.com/nanma80/vzome-sharing/tree/main/2025/02/01/14-49-01-associahedron_tiling/>)
  
 {% endcomment %}
@@ -18,12 +18,13 @@ Recreating this picture by Armin Gips: https://www.facebook.com/photo/?fbid=2179
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.png" >
+        src="https://www.nan.ma/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
     associahedron_tiling
   </figcaption>
 </figure>
+
