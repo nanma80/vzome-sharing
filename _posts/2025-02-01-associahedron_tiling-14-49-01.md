@@ -1,6 +1,6 @@
 ---
 title: associahedron_tiling
-description: Recreating this picture by Armin Gips: https://www.facebook.com/photo/?fbid=2179134862506489
+description: Recreating this picture by Armin Gips
 image: https://www.nan.ma/vzome-sharing/2025/02/01/14-49-01-associahedron_tiling/associahedron_tiling.png
 published: true
 layout: vzome
@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-Recreating this picture by Armin Gips: https://www.facebook.com/photo/?fbid=2179134862506489
+Recreating this picture by Armin Gips
 
 <figure style="width: 87%; margin: 5%">
   
