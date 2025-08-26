@@ -12,7 +12,7 @@ layout: vzome
  
 {% endcomment %}
 
-A 3D design created in vZome.  Use your mouse or touch to interact.
+Comparison between the new Puma Premier League soccer ball for the 2025/26 season, and the puzzle Blast-hedron 12. They look similar.
 
 <figure style="width: 87%; margin: 5%">
   
@@ -24,7 +24,17 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
-    premier_league_soccer_ball
+    the new Puma Premier League soccer ball for the 2025/26 season
+  </figcaption>
+
+  <vzome-viewer style="width: 100%; height: 60dvh" 
+        src="https://www.nan.ma/vzome-sharing/2025/08/25/16-50-31-premier_league_soccer_bh12/premier_league_soccer_bh12.vZome" >
+    <img  style="width: 100%"
+        src="https://www.nan.ma/vzome-sharing/2025/08/25/16-50-31-premier_league_soccer_bh12/premier_league_soccer_bh12.png" >
+  </vzome-viewer>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    the puzzle Blast-hedron 12
   </figcaption>
 </figure>
 
