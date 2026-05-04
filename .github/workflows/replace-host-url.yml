@@ -1,0 +1,61 @@
+name: Replace host URL
+
+# Rewrites https://nanma80.github.io/ to https://www.nan.ma/ in
+# vZome-shared posts so the embedded vzome-viewer fetches the .vZome
+# file from the canonical custom-domain host (avoids 301 redirect
+# issues with absolute resource URLs).
+#
+# Original manual script: replace_host_url.ps1
+# Loop-safe: the workflow's own commits use the [skip ci] marker, and
+# the path filter excludes .github/ so workflow edits don't trigger
+# the rewrite either.
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/**'
+      - 'replace_host_url.ps1'
+
+permissions:
+  contents: write
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    # Skip when the last commit was made by this workflow itself
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace nanma80.github.io with www.nan.ma
+        run: |
+          set -e
+          # Find files containing the old host (excluding .git, .github, the script itself)
+          mapfile -t files < <(grep -rl --exclude-dir=.git --exclude-dir=.github \
+              --exclude=replace_host_url.ps1 \
+              'https://nanma80\.github\.io/' . || true)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No files contain the old host; nothing to do."
+            exit 0
+          fi
+          echo "Rewriting ${#files[@]} files..."
+          for f in "${files[@]}"; do
+            sed -i 's#https://nanma80\.github\.io/#https://www.nan.ma/#g' "$f"
+            echo "  $f"
+          done
+
+      - name: Commit and push if changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Auto: rewrite nanma80.github.io -> www.nan.ma [skip ci]"
+          git push
