@@ -1,16 +1,16 @@
 ---
 title: nonagon1
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.png
+image: https://www.nan.ma/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.png
 layout: design
 ---
 
   
   <div style='display:flex;'><div style='margin: auto;'><vzome-viewer-previous label='prev step'></vzome-viewer-previous><vzome-viewer-next label='next step'></vzome-viewer-next></div></div>
   <vzome-viewer style="width: 100%; height: 60dvh" indexed='true'
-        src="https://nanma80.github.io/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/05/04/09-57-07-nonagon1/nonagon1.png" >
   </vzome-viewer>
 
 
