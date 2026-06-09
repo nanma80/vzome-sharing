@@ -6,22 +6,10 @@ published: true
 layout: vzome
 ---
 
-These five models are zomeable orthographic projections of the 6-dimensional cube.  Each model is determined by six equal-length projected cube-edge vectors forming a tight frame in 3D.  Some projections identify multiple cube vertices or edges, so the visible ball and strut counts can be smaller than the abstract 6-cube's 64 vertices and 192 edges.
-
-Paulo Freire independently created the pyritohedral yellow model.
-
-| model | symmetry | visible balls | visible struts |
-|---|---:|---:|---:|
-| red | `H3 / Ih` | 64 | 192 |
-| green 2 | `Oh` | 38 | 144 |
-| yellow Paulo | `Th` | 64 | 192 |
-| blue | `D3d` | 63 | 192 |
-| green 1 | `C3i / S6` | 56 | 180 |
-
 <style>
   .six-cube-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: 1fr;
     gap: 2rem;
     margin: 2rem 0;
   }
@@ -30,61 +18,73 @@ Paulo Freire independently created the pyritohedral yellow model.
     border-radius: 0.75rem;
     padding: 1rem;
     background: #fff;
-  }
-  .six-cube-card h2 {
-    margin-top: 0;
+    max-width: 60dvh;
+    margin: 0 auto;
+    width: 100%;
   }
   .six-cube-card vzome-viewer {
+    display: block;
     width: 100%;
-    height: 52dvh;
-    min-height: 360px;
+    aspect-ratio: 1 / 1;
+    height: auto;
+  }
+  @media (min-width: 900px) {
+    .six-cube-card vzome-viewer {
+      margin: 0 auto;
+    }
   }
   .six-cube-meta {
-    margin: 0.5rem 0 0;
+    margin: 0.75rem 0 0;
     color: #555;
+    text-align: center;
   }
 </style>
 
 <div class="six-cube-gallery">
   <section class="six-cube-card">
-    <h2>Red: H3 / Ih</h2>
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-33-08-6_cube_red_H3/6_cube_red_H3.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-33-08-6_cube_red_H3/6_cube_red_H3.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Full icosahedral symmetry; 64 balls and 192 struts.</p>
+    <p class="six-cube-meta">Red: full icosahedral symmetry (<code>H3 / Ih</code>).</p>
   </section>
 
   <section class="six-cube-card">
-    <h2>Green 2: Oh</h2>
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Full octahedral symmetry; 38 visible balls and 144 visible struts after projection coincidences.</p>
+    <p class="six-cube-meta">Green 2: full octahedral symmetry (<code>Oh</code>).</p>
   </section>
 
   <section class="six-cube-card">
-    <h2>Yellow Paulo: Th</h2>
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Pyritohedral symmetry; 64 balls and 192 struts.  This is Paulo Freire's model.</p>
+    <p class="six-cube-meta">Yellow: pyritohedral symmetry (<code>Th</code>).</p>
   </section>
 
   <section class="six-cube-card">
-    <h2>Blue: D3d</h2>
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-34-32-6_cube_blue_D3d/6_cube_blue_D3d.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-34-32-6_cube_blue_D3d/6_cube_blue_D3d.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Dihedral 3-fold symmetry with inversion; 63 visible balls and 192 visible struts.</p>
+    <p class="six-cube-meta">Blue: dihedral three-fold symmetry with inversion (<code>D3d</code>).</p>
   </section>
 
   <section class="six-cube-card">
-    <h2>Green 1: C3i / S6</h2>
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-35-33-6_cube_green_1_C3i/6_cube_green_1_C3i.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-35-33-6_cube_green_1_C3i/6_cube_green_1_C3i.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Three-fold roto-inversion symmetry; 56 visible balls and 180 visible struts.</p>
+    <p class="six-cube-meta">Green 1: three-fold roto-inversion symmetry (<code>C3i / S6</code>).</p>
   </section>
 </div>
 
-The final exported shapes were checked against their projected 6-cube edge skeletons: the visible ball and strut counts match the expected collapsed projections, with no extra or missing visible struts.
+These five models are zomeable orthographic projections of the 6-dimensional cube.  Each model is determined by six equal-length projected cube-edge vectors forming a tight frame in 3D.  Some projections identify multiple cube vertices or edges, so the visible model may be a collapsed projection of the abstract 6-cube.
+
+| model | symmetry |
+|---|---:|
+| red | `H3 / Ih` |
+| green 2 | `Oh` |
+| yellow | `Th` |
+| blue | `D3d` |
+| green 1 | `C3i / S6` |
+
+The final exported shapes were checked against their projected 6-cube edge skeletons, with no extra or missing visible struts.
