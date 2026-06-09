@@ -1,14 +1,14 @@
 
 ## Blog Post Generated
 
- - [***custom blog post***](<https://nanma80.github.io/vzome-sharing/2026/06/09/6_cube_yellow_paulo_Th-15-32-17.html>) about this design; *try it before you share it!*
+ - [***custom blog post***](<https://www.nan.ma/vzome-sharing/2026/06/09/6_cube_yellow_paulo_Th-15-32-17.html>) about this design; *try it before you share it!*
  - [source file for that blog post](<https://github.com/nanma80/vzome-sharing/edit/main/_posts/2026-06-09-6_cube_yellow_paulo_Th-15-32-17.md>); click to customize
  
 
 
 ## How to Use or Share this Design
 
- - [***simple web page***](<https://nanma80.github.io/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/>) to just share this design; *try it before you share it!*
+ - [***simple web page***](<https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/>) to just share this design; *try it before you share it!*
  - [source file for that web page](<https://github.com/nanma80/vzome-sharing/edit/main/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/index.md>); click to customize
  - [raw vZome file](<https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.vZome>) to use in vZome desktop or vZome Online
  
@@ -18,9 +18,9 @@
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
