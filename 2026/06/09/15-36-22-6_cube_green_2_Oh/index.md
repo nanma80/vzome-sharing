@@ -1,16 +1,16 @@
 ---
 title: 6_cube_green_2_Oh
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png
+image: https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png
 layout: design
 ---
 
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png" >
   </vzome-viewer>
 
 
