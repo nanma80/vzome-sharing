@@ -2,7 +2,7 @@
 title: 6_cube_yellow_paulo_Th
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://www.nan.ma/vzome-sharing/2026/06/09/15-32-17-6_cube_yellow_paulo_Th/6_cube_yellow_paulo_Th.png
-published: false
+published: true
 layout: vzome
 ---
 
