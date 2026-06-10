@@ -14,11 +14,12 @@ layout: vzome
     margin: 2rem 0;
   }
   .six-cube-card {
+    box-sizing: border-box;
     border: 1px solid #ddd;
-    border-radius: 0.75rem;
-    padding: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.25rem;
     background: #fff;
-    max-width: 60dvh;
+    max-width: min(100%, 72dvh);
     margin: 0 auto;
     width: 100%;
   }
@@ -34,7 +35,7 @@ layout: vzome
     }
   }
   .six-cube-meta {
-    margin: 0.75rem 0 0;
+    margin: 0.75rem 0 0.5rem;
     color: #555;
     text-align: center;
   }
@@ -46,13 +47,6 @@ layout: vzome
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-33-08-6_cube_red_H3/6_cube_red_H3.png">
     </vzome-viewer>
     <p class="six-cube-meta">Red: full icosahedral symmetry (<code>H3 / Ih</code>).</p>
-  </section>
-
-  <section class="six-cube-card">
-    <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.vZome">
-      <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png">
-    </vzome-viewer>
-    <p class="six-cube-meta">Green 2: full octahedral symmetry (<code>Oh</code>).</p>
   </section>
 
   <section class="six-cube-card">
@@ -73,7 +67,14 @@ layout: vzome
     <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-35-33-6_cube_green_1_C3i/6_cube_green_1_C3i.vZome">
       <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-35-33-6_cube_green_1_C3i/6_cube_green_1_C3i.png">
     </vzome-viewer>
-    <p class="six-cube-meta">Green 1: three-fold roto-inversion symmetry (<code>C3i / S6</code>).</p>
+    <p class="six-cube-meta">Green 1: three-fold roto-inversion symmetry (<code>C3i</code>).</p>
+  </section>
+
+  <section class="six-cube-card">
+    <vzome-viewer src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.vZome">
+      <img style="width: 100%" src="https://www.nan.ma/vzome-sharing/2026/06/09/15-36-22-6_cube_green_2_Oh/6_cube_green_2_Oh.png">
+    </vzome-viewer>
+    <p class="six-cube-meta">Green 2: full octahedral symmetry (<code>Oh</code>).</p>
   </section>
 </div>
 
@@ -82,9 +83,9 @@ These five models are zomeable orthographic projections of the 6-dimensional cub
 | model | symmetry |
 |---|---:|
 | red | `H3 / Ih` |
-| green 2 | `Oh` |
 | yellow | `Th` |
 | blue | `D3d` |
-| green 1 | `C3i / S6` |
+| green 1 | `C3i` |
+| green 2 | `Oh` |
 
 The final exported shapes were checked against their projected 6-cube edge skeletons, with no extra or missing visible struts.
