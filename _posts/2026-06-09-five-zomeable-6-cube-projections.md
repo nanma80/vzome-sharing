@@ -93,3 +93,21 @@ Each model is determined by six equal-length projected cube-edge vectors forming
 We treat these as abstract strut graphs and ignore strut crossings as if they impose no physical constraint.  In a physical build, one might scale up the model and add balls at crossings, but that would change the equal-length property.  On this page, the original projected 6-cube edges are the objects of interest.
 
 We count only nondegenerate 6-cube projections, where the six projected coordinate directions are nonzero and distinct; lower-dimensional degeneracies are excluded.  With this convention, these five models are the complete same-color, equal-strut classes.
+
+The same tight-frame analysis also classifies other cube dimensions where same-color, equal-strut orthographic projections can occur.  The entries below count symmetry classes of nonzero, distinct projected coordinate directions.
+
+| cube dimension | red | yellow | blue | green |
+|---:|---:|---:|---:|---:|
+| 3 |  |  | 1 |  |
+| 4 |  | 1 |  |  |
+| 6 | 1 | 1 | 1 | 2 |
+| 9 |  |  | 1 | 1 |
+| 10 |  | 1 |  |  |
+| 12 |  |  | 1 | 12 |
+| 15 |  |  | 1 | 2 |
+| 18 |  |  |  | 12 |
+| 21 |  |  |  | 1 |
+| 24 |  |  |  | 2 |
+| 30 |  |  |  | 1 |
+
+The five models on this page are exactly the dimension-6 row of this table.
