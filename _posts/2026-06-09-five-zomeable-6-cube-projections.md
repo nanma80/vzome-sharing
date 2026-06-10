@@ -1,6 +1,6 @@
 ---
-title: Five zomeable orthographic projections of the 6-cube
-description: Five vZome models of orthographic 3D projections of the 6-dimensional cube, organized by symmetry.
+title: Single-color equal-strut zomeable projections of the 6-cube
+description: Five special orthographic 6-cube projections whose zome struts are single-colored and equal length.
 image: https://www.nan.ma/vzome-sharing/2026/06/09/15-33-08-6_cube_red_H3/6_cube_red_H3.png
 published: true
 layout: vzome
@@ -78,7 +78,9 @@ layout: vzome
   </section>
 </div>
 
-These five models are zomeable orthographic projections of the 6-dimensional cube.  Each model is determined by six equal-length projected cube-edge vectors forming a tight frame in 3D.  Some projections identify multiple cube vertices or edges, so the visible model may be a collapsed projection of the abstract 6-cube.
+The 6-cube has infinitely many zomeable orthographic projections.  The five models here are special because each one uses struts of a single color, and all struts in the model have the same abstract length.
+
+Each model is determined by six equal-length projected cube-edge vectors forming a tight frame in 3D.  Some projections identify multiple cube vertices or edges, so the visible model may be a collapsed projection of the abstract 6-cube.
 
 | model | symmetry |
 |---|---:|
@@ -88,4 +90,6 @@ These five models are zomeable orthographic projections of the 6-dimensional cub
 | green 1 | `C3i` |
 | green 2 | `Oh` |
 
-The final exported shapes were checked against their projected 6-cube edge skeletons, with no extra or missing visible struts.
+We treat these as abstract strut graphs and ignore strut crossings as if they impose no physical constraint.  In a physical build, one might scale up the model and add balls at crossings, but that would change the equal-length property.  On this page, the original projected 6-cube edges are the objects of interest.
+
+No additional 6-cube projections with both properties are currently known from this search.
