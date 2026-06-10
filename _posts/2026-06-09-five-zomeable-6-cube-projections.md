@@ -92,4 +92,4 @@ Each model is determined by six equal-length projected cube-edge vectors forming
 
 We treat these as abstract strut graphs and ignore strut crossings as if they impose no physical constraint.  In a physical build, one might scale up the model and add balls at crossings, but that would change the equal-length property.  On this page, the original projected 6-cube edges are the objects of interest.
 
-A complete classification of projections with both properties is a natural next step.
+We count only nondegenerate 6-cube projections, where the six projected coordinate directions are nonzero and distinct; lower-dimensional degeneracies are excluded.  With this convention, these five models are the complete same-color, equal-strut classes.
