@@ -1,7 +1,7 @@
 
 ## How to Use or Share this Design
 
- - [***simple web page***](<https://nanma80.github.io/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/>) to just share this design; *try it before you share it!*
+ - [***simple web page***](<https://www.nan.ma/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/>) to just share this design; *try it before you share it!*
  - [source file for that web page](<https://github.com/nanma80/vzome-sharing/edit/main/2026/06/10/09-33-14-cubes_interpretation/index.md>); click to customize
  - [raw vZome file](<https://raw.githubusercontent.com/nanma80/vzome-sharing/main/2026/06/10/09-33-14-cubes_interpretation/cubes_interpretation.vZome>) to use in vZome desktop or vZome Online
  
@@ -11,9 +11,9 @@
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/cubes_interpretation.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/cubes_interpretation.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/cubes_interpretation.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/10/09-33-14-cubes_interpretation/cubes_interpretation.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
