@@ -1,5 +1,5 @@
 ---
-title: Single-color equal-strut zomeable projections of the 6-cube
+title: Equal-strut 6-cube projections
 description: Five special orthographic 6-cube projections whose zome struts are single-colored and equal length.
 image: https://www.nan.ma/vzome-sharing/2026/06/09/15-33-08-6_cube_red_H3/6_cube_red_H3.png
 published: true
@@ -92,4 +92,4 @@ Each model is determined by six equal-length projected cube-edge vectors forming
 
 We treat these as abstract strut graphs and ignore strut crossings as if they impose no physical constraint.  In a physical build, one might scale up the model and add balls at crossings, but that would change the equal-length property.  On this page, the original projected 6-cube edges are the objects of interest.
 
-No additional 6-cube projections with both properties are currently known from this search.
+A complete classification of projections with both properties is a natural next step.
