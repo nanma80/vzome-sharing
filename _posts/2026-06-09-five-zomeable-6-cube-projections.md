@@ -111,3 +111,5 @@ The same tight-frame analysis also classifies other cube dimensions where same-c
 | 30 |  |  |  | 1 |
 
 The five models on this page are exactly the dimension-6 row of this table.
+
+For more detail, see the [supporting tight-frame analysis](https://www.nan.ma/vzome-sharing/2026/06/09/five-zomeable-6-cube-projections/analysis.html).
