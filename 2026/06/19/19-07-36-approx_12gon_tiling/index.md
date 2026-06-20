@@ -1,16 +1,16 @@
 ---
 title: approx_12gon_tiling
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.png
+image: https://www.nan.ma/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.png
 layout: design
 ---
 
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/06/19/19-07-36-approx_12gon_tiling/approx_12gon_tiling.png" >
   </vzome-viewer>
 
 
