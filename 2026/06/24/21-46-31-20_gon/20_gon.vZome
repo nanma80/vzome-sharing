@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
+  <EditHistory editNumber="225" lastStickyEdit="66">
+    <ShowPoint point="0 0 0 0 -4 -6"/>
+    <ShowPoint point="1 2 2 3 -7 -11"/>
+    <ShowPoint point="3 5 5 8 -8 -13"/>
+    <ShowPoint point="6 10 6 10 -10 -16"/>
+    <ShowPoint point="9 15 5 8 -12 -19"/>
+    <ShowPoint point="13 21 5 8 -12 -19"/>
+    <ShowPoint point="16 26 6 10 -10 -16"/>
+    <ShowPoint point="19 31 5 8 -8 -13"/>
+    <ShowPoint point="21 34 2 3 -7 -11"/>
+    <ShowPoint point="22 36 0 0 -4 -6"/>
+    <ShowPoint point="22 36 0 0 0 0"/>
+    <ShowPoint point="21 34 -2 -3 3 5"/>
+    <ShowPoint point="19 31 -5 -8 4 7"/>
+    <ShowPoint point="16 26 -6 -10 6 10"/>
+    <ShowPoint point="13 21 -5 -8 8 13"/>
+    <ShowPoint point="9 15 -5 -8 8 13"/>
+    <ShowPoint point="6 10 -6 -10 6 10"/>
+    <ShowPoint point="3 5 -5 -8 4 7"/>
+    <ShowPoint point="1 2 -2 -3 3 5"/>
+    <JoinPointPair end="0 0 0 0 -4 -6" start="0 0 0 0 0 0"/>
+    <JoinPointPair end="1 2 2 3 -7 -11" start="0 0 0 0 -4 -6"/>
+    <JoinPointPair end="3 5 5 8 -8 -13" start="1 2 2 3 -7 -11"/>
+    <JoinPointPair end="6 10 6 10 -10 -16" start="3 5 5 8 -8 -13"/>
+    <JoinPointPair end="9 15 5 8 -12 -19" start="6 10 6 10 -10 -16"/>
+    <JoinPointPair end="13 21 5 8 -12 -19" start="9 15 5 8 -12 -19"/>
+    <JoinPointPair end="16 26 6 10 -10 -16" start="13 21 5 8 -12 -19"/>
+    <JoinPointPair end="19 31 5 8 -8 -13" start="16 26 6 10 -10 -16"/>
+    <JoinPointPair end="21 34 2 3 -7 -11" start="19 31 5 8 -8 -13"/>
+    <JoinPointPair end="22 36 0 0 -4 -6" start="21 34 2 3 -7 -11"/>
+    <JoinPointPair end="22 36 0 0 0 0" start="22 36 0 0 -4 -6"/>
+    <JoinPointPair end="21 34 -2 -3 3 5" start="22 36 0 0 0 0"/>
+    <JoinPointPair end="19 31 -5 -8 4 7" start="21 34 -2 -3 3 5"/>
+    <JoinPointPair end="16 26 -6 -10 6 10" start="19 31 -5 -8 4 7"/>
+    <JoinPointPair end="13 21 -5 -8 8 13" start="16 26 -6 -10 6 10"/>
+    <JoinPointPair end="9 15 -5 -8 8 13" start="13 21 -5 -8 8 13"/>
+    <JoinPointPair end="6 10 -6 -10 6 10" start="9 15 -5 -8 8 13"/>
+    <JoinPointPair end="3 5 -5 -8 4 7" start="6 10 -6 -10 6 10"/>
+    <JoinPointPair end="1 2 -2 -3 3 5" start="3 5 -5 -8 4 7"/>
+    <JoinPointPair end="0 0 0 0 0 0" start="1 2 -2 -3 3 5"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -4 -6"/>
+    <SelectManifestation point="22 36 0 0 0 0"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="11 18 0 0 -2 -3"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="11 18 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="1" len="1 2"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 0 0 0 0"/>
+    <RotationTool corrected="true" full="true" name="tool-1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 3 1 2"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 2 3 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-5 -8 6 10 -8 -13"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="-11 -18 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 6 10 -8 -13"/>
+    <SelectManifestation point="-10 -16 -2 -3 5 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 5 8 -10 -16"/>
+    <SelectManifestation point="-8 -13 -5 -8 6 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 5 8 -10 -16"/>
+    <SelectManifestation point="-5 -8 -6 -10 8 13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 6 10 -8 -13"/>
+    <SelectManifestation point="-2 -3 -5 -8 10 16"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 0 0 -2 -3"/>
+    <SelectManifestation point="-8 -13 -5 -8 6 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-10 -16 2 3 -5 -8"/>
+    <SelectManifestation point="-5 -8 -6 -10 8 13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-11 -18 0 0 -2 -3"/>
+    <SelectManifestation point="-5 -8 6 10 -8 -13"/>
+    <SelectManifestation point="-2 -3 5 8 -10 -16"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-11 -18 0 0 -2 -3" startSegment="-2 -3 5 8 -10 -16"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-10 -16 2 3 -5 -8"/>
+    <SelectManifestation point="-2 -3 5 8 -10 -16"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 5 8 -10 -16"/>
+    <SelectManifestation point="-11 -18 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-11 -18 0 0 2 3" startSegment="-2 -3 5 8 -10 -16"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 5 8 -10 -16"/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 5 8 -10 -16"/>
+    <SelectManifestation point="-11 -18 0 0 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 8 6 10 -8 -13"/>
+    <SelectManifestation point="-11 -18 0 0 2 3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="2 3 5 8 -10 -16"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="10 16 2 3 -5 -8"/>
+    <SelectManifestation point="11 18 0 0 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="8 13 5 8 -6 -10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 6 10 -8 -13"/>
+    <SelectManifestation point="5 8 6 10 -8 -13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="11 18 0 0 2 3"/>
+    <SelectManifestation point="10 16 -2 -3 5 8"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -13 5 8 -6 -10"/>
+    <SelectManifestation point="8 13 -5 -8 6 10"/>
+    <SelectManifestation point="5 8 -6 -10 8 13"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="5 8 -6 -10 8 13" startSegment="8 13 -5 -8 6 10"/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 6 10 -8 -13"/>
+    <SelectManifestation point="8 13 -5 -8 6 10"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="10 16" orbit="rose" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="8 13" orbit="sand" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="13 21" orbit="1" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="13 21" orbit="2" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <AdjustSelectionByOrbitLength length="13 21" orbit="3" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-10 -16 -2 -3 5 8" startSegment="-5 -8 6 10 -8 -13"/>
+    <SelectManifestation endSegment="2 3 5 8 -10 -16" startSegment="10 16 2 3 -5 -8"/>
+    <EndBlock/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="141.01686096191406" far="564.0673217773438" near="1.410169243812561" parallel="true" stereoAngle="0.0" width="141.01683044433594">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.80901700258255" y="-0.30901700258255005" z="0.5"/>
+      <LookDirection x="0.0" y="-0.8506507873535156" z="-0.525731086730957"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,192,203" name="3" orbit="[[-4,3,5],[-11,7,5]]" prototype="3 -1 3 -2 -8 5"/>
+    <Direction color="255,255,255" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="1" orbit="[[-2,3,11],[17,-9,11]]" prototype="5 -4 -2 1 -11 7"/>
+    <Direction color="255,255,255" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="176,224,230" name="2" orbit="[[-8,5,1],[-11,7,1]]" prototype="0 -1 -5 3 7 -4"/>
+    <Direction color="255,255,255" name="0" orbit="[[-4,3,3],[-1,1,3]]" prototype="-6 3 1 -1 -5 4"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="255,255,255" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,255,255" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="255,255,255" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="255,255,255" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="255,255,255" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-1" label="axial symmetry 1" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>
