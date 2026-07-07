@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
+  <EditHistory editNumber="216" lastStickyEdit="192">
+    <ShowPoint point="-1 -2 4 7 3 5"/>
+    <ShowPoint point="-2 -3 7 11 5 8"/>
+    <ShowPoint point="-2 -4 8 14 6 10"/>
+    <ShowPoint point="-3 -4 10 15 7 11"/>
+    <ShowPoint point="-3 -5 11 18 8 13"/>
+    <ShowPoint point="-4 -6 14 22 10 16"/>
+    <ShowPoint point="-5 -8 18 29 13 21"/>
+    <ShowPoint point="-1 -1 5 8 2 3"/>
+    <ShowPoint point="-1 -1 7 12 4 7"/>
+    <ShowPoint point="-1 -1 9 14 6 9"/>
+    <ShowPoint point="-1 -1 9 16 6 11"/>
+    <ShowPoint point="-1 -1 11 16 8 11"/>
+    <ShowPoint point="-1 -1 11 18 8 13"/>
+    <ShowPoint point="-1 -1 13 20 10 15"/>
+    <ShowPoint point="-1 -1 15 24 12 19"/>
+    <ShowPoint point="-1 -2 8 13 3 5"/>
+    <ShowPoint point="0 -1 9 15 5 8"/>
+    <ShowPoint point="0 0 10 16 6 10"/>
+    <ShowPoint point="1 0 10 17 7 11"/>
+    <ShowPoint point="0 1 11 17 7 12"/>
+    <ShowPoint point="1 1 11 18 8 13"/>
+    <ShowPoint point="1 2 12 19 9 15"/>
+    <ShowPoint point="2 3 13 21 11 18"/>
+    <ShowPoint point="-2 -2 10 16 4 6"/>
+    <ShowPoint point="-1 0 10 17 5 9"/>
+    <ShowPoint point="0 1 11 17 7 10"/>
+    <ShowPoint point="0 2 10 18 6 12"/>
+    <ShowPoint point="1 2 12 17 9 11"/>
+    <ShowPoint point="1 3 11 18 8 13"/>
+    <ShowPoint point="2 4 12 18 10 14"/>
+    <ShowPoint point="3 6 12 19 11 17"/>
+    <ShowPoint point="-1 -3 11 18 4 7"/>
+    <ShowPoint point="1 -1 11 18 6 9"/>
+    <ShowPoint point="1 1 11 18 6 11"/>
+    <ShowPoint point="3 1 11 18 8 11"/>
+    <ShowPoint point="1 3 11 18 6 13"/>
+    <ShowPoint point="3 3 11 18 8 13"/>
+    <ShowPoint point="3 5 11 18 8 15"/>
+    <ShowPoint point="5 7 11 18 10 17"/>
+    <ShowPoint point="-2 -3 13 21 5 8"/>
+    <ShowPoint point="0 0 12 20 6 10"/>
+    <ShowPoint point="1 2 12 19 7 11"/>
+    <ShowPoint point="2 3 11 19 7 12"/>
+    <ShowPoint point="2 4 12 18 8 12"/>
+    <ShowPoint point="3 5 11 18 8 13"/>
+    <ShowPoint point="4 7 11 17 9 14"/>
+    <ShowPoint point="6 10 10 16 10 16"/>
+    <ShowPoint point="-2 -4 16 26 6 10"/>
+    <ShowPoint point="1 0 14 23 7 11"/>
+    <ShowPoint point="2 3 13 21 7 12"/>
+    <ShowPoint point="4 4 12 20 8 12"/>
+    <ShowPoint point="3 6 12 19 7 13"/>
+    <ShowPoint point="5 7 11 18 8 13"/>
+    <ShowPoint point="6 10 10 16 8 14"/>
+    <ShowPoint point="9 14 8 13 9 15"/>
+    <ShowPoint point="-3 -5 21 34 8 13"/>
+    <ShowPoint point="1 1 17 28 8 13"/>
+    <ShowPoint point="3 5 15 24 8 13"/>
+    <ShowPoint point="5 7 13 22 8 13"/>
+    <ShowPoint point="5 9 13 20 8 13"/>
+    <ShowPoint point="7 11 11 18 8 13"/>
+    <ShowPoint point="9 15 9 14 8 13"/>
+    <ShowPoint point="13 21 5 8 8 13"/>
+    <JoinPointPair end="-1 -2 4 7 3 5" start="0 0 0 0 0 0"/>
+    <JoinPointPair end="-2 -3 7 11 5 8" start="-1 -2 4 7 3 5"/>
+    <JoinPointPair end="-2 -4 8 14 6 10" start="-2 -3 7 11 5 8"/>
+    <JoinPointPair end="-3 -4 10 15 7 11" start="-2 -4 8 14 6 10"/>
+    <JoinPointPair end="-3 -5 11 18 8 13" start="-3 -4 10 15 7 11"/>
+    <JoinPointPair end="-4 -6 14 22 10 16" start="-3 -5 11 18 8 13"/>
+    <JoinPointPair end="-5 -8 18 29 13 21" start="-4 -6 14 22 10 16"/>
+    <JoinPointPair end="-1 -1 7 12 4 7" start="-1 -1 5 8 2 3"/>
+    <JoinPointPair end="-1 -1 9 14 6 9" start="-1 -1 7 12 4 7"/>
+    <JoinPointPair end="-1 -1 9 16 6 11" start="-1 -1 9 14 6 9"/>
+    <JoinPointPair end="-1 -1 11 16 8 11" start="-1 -1 9 16 6 11"/>
+    <JoinPointPair end="-1 -1 11 18 8 13" start="-1 -1 11 16 8 11"/>
+    <JoinPointPair end="-1 -1 13 20 10 15" start="-1 -1 11 18 8 13"/>
+    <JoinPointPair end="-1 -1 15 24 12 19" start="-1 -1 13 20 10 15"/>
+    <JoinPointPair end="0 -1 9 15 5 8" start="-1 -2 8 13 3 5"/>
+    <JoinPointPair end="0 0 10 16 6 10" start="0 -1 9 15 5 8"/>
+    <JoinPointPair end="1 0 10 17 7 11" start="0 0 10 16 6 10"/>
+    <JoinPointPair end="0 1 11 17 7 12" start="1 0 10 17 7 11"/>
+    <JoinPointPair end="1 1 11 18 8 13" start="0 1 11 17 7 12"/>
+    <JoinPointPair end="1 2 12 19 9 15" start="1 1 11 18 8 13"/>
+    <JoinPointPair end="2 3 13 21 11 18" start="1 2 12 19 9 15"/>
+    <JoinPointPair end="-1 0 10 17 5 9" start="-2 -2 10 16 4 6"/>
+    <JoinPointPair end="0 1 11 17 7 10" start="-1 0 10 17 5 9"/>
+    <JoinPointPair end="0 2 10 18 6 12" start="0 1 11 17 7 10"/>
+    <JoinPointPair end="1 2 12 17 9 11" start="0 2 10 18 6 12"/>
+    <JoinPointPair end="1 3 11 18 8 13" start="1 2 12 17 9 11"/>
+    <JoinPointPair end="2 4 12 18 10 14" start="1 3 11 18 8 13"/>
+    <JoinPointPair end="3 6 12 19 11 17" start="2 4 12 18 10 14"/>
+    <JoinPointPair end="1 -1 11 18 6 9" start="-1 -3 11 18 4 7"/>
+    <JoinPointPair end="1 1 11 18 6 11" start="1 -1 11 18 6 9"/>
+    <JoinPointPair end="3 1 11 18 8 11" start="1 1 11 18 6 11"/>
+    <JoinPointPair end="1 3 11 18 6 13" start="3 1 11 18 8 11"/>
+    <JoinPointPair end="3 3 11 18 8 13" start="1 3 11 18 6 13"/>
+    <JoinPointPair end="3 5 11 18 8 15" start="3 3 11 18 8 13"/>
+    <JoinPointPair end="5 7 11 18 10 17" start="3 5 11 18 8 15"/>
+    <JoinPointPair end="0 0 12 20 6 10" start="-2 -3 13 21 5 8"/>
+    <JoinPointPair end="1 2 12 19 7 11" start="0 0 12 20 6 10"/>
+    <JoinPointPair end="2 3 11 19 7 12" start="1 2 12 19 7 11"/>
+    <JoinPointPair end="2 4 12 18 8 12" start="2 3 11 19 7 12"/>
+    <JoinPointPair end="3 5 11 18 8 13" start="2 4 12 18 8 12"/>
+    <JoinPointPair end="4 7 11 17 9 14" start="3 5 11 18 8 13"/>
+    <JoinPointPair end="6 10 10 16 10 16" start="4 7 11 17 9 14"/>
+    <JoinPointPair end="1 0 14 23 7 11" start="-2 -4 16 26 6 10"/>
+    <JoinPointPair end="2 3 13 21 7 12" start="1 0 14 23 7 11"/>
+    <JoinPointPair end="4 4 12 20 8 12" start="2 3 13 21 7 12"/>
+    <JoinPointPair end="3 6 12 19 7 13" start="4 4 12 20 8 12"/>
+    <JoinPointPair end="5 7 11 18 8 13" start="3 6 12 19 7 13"/>
+    <JoinPointPair end="6 10 10 16 8 14" start="5 7 11 18 8 13"/>
+    <JoinPointPair end="9 14 8 13 9 15" start="6 10 10 16 8 14"/>
+    <JoinPointPair end="1 1 17 28 8 13" start="-3 -5 21 34 8 13"/>
+    <JoinPointPair end="3 5 15 24 8 13" start="1 1 17 28 8 13"/>
+    <JoinPointPair end="5 7 13 22 8 13" start="3 5 15 24 8 13"/>
+    <JoinPointPair end="5 9 13 20 8 13" start="5 7 13 22 8 13"/>
+    <JoinPointPair end="7 11 11 18 8 13" start="5 9 13 20 8 13"/>
+    <JoinPointPair end="9 15 9 14 8 13" start="7 11 11 18 8 13"/>
+    <JoinPointPair end="13 21 5 8 8 13" start="9 15 9 14 8 13"/>
+    <JoinPointPair end="-1 -1 5 8 2 3" start="0 0 0 0 0 0"/>
+    <JoinPointPair end="-1 -2 8 13 3 5" start="-1 -1 5 8 2 3"/>
+    <JoinPointPair end="-2 -2 10 16 4 6" start="-1 -2 8 13 3 5"/>
+    <JoinPointPair end="-1 -3 11 18 4 7" start="-2 -2 10 16 4 6"/>
+    <JoinPointPair end="-2 -3 13 21 5 8" start="-1 -3 11 18 4 7"/>
+    <JoinPointPair end="-2 -4 16 26 6 10" start="-2 -3 13 21 5 8"/>
+    <JoinPointPair end="-3 -5 21 34 8 13" start="-2 -4 16 26 6 10"/>
+    <JoinPointPair end="-1 -1 7 12 4 7" start="-1 -2 4 7 3 5"/>
+    <JoinPointPair end="0 -1 9 15 5 8" start="-1 -1 7 12 4 7"/>
+    <JoinPointPair end="-1 0 10 17 5 9" start="0 -1 9 15 5 8"/>
+    <JoinPointPair end="1 -1 11 18 6 9" start="-1 0 10 17 5 9"/>
+    <JoinPointPair end="0 0 12 20 6 10" start="1 -1 11 18 6 9"/>
+    <JoinPointPair end="1 0 14 23 7 11" start="0 0 12 20 6 10"/>
+    <JoinPointPair end="1 1 17 28 8 13" start="1 0 14 23 7 11"/>
+    <JoinPointPair end="-1 -1 9 14 6 9" start="-2 -3 7 11 5 8"/>
+    <JoinPointPair end="0 0 10 16 6 10" start="-1 -1 9 14 6 9"/>
+    <JoinPointPair end="0 1 11 17 7 10" start="0 0 10 16 6 10"/>
+    <JoinPointPair end="1 1 11 18 6 11" start="0 1 11 17 7 10"/>
+    <JoinPointPair end="1 2 12 19 7 11" start="1 1 11 18 6 11"/>
+    <JoinPointPair end="2 3 13 21 7 12" start="1 2 12 19 7 11"/>
+    <JoinPointPair end="3 5 15 24 8 13" start="2 3 13 21 7 12"/>
+    <JoinPointPair end="-1 -1 9 16 6 11" start="-2 -4 8 14 6 10"/>
+    <JoinPointPair end="1 0 10 17 7 11" start="-1 -1 9 16 6 11"/>
+    <JoinPointPair end="0 2 10 18 6 12" start="1 0 10 17 7 11"/>
+    <JoinPointPair end="3 1 11 18 8 11" start="0 2 10 18 6 12"/>
+    <JoinPointPair end="2 3 11 19 7 12" start="3 1 11 18 8 11"/>
+    <JoinPointPair end="4 4 12 20 8 12" start="2 3 11 19 7 12"/>
+    <JoinPointPair end="5 7 13 22 8 13" start="4 4 12 20 8 12"/>
+    <JoinPointPair end="-1 -1 11 16 8 11" start="-3 -4 10 15 7 11"/>
+    <JoinPointPair end="0 1 11 17 7 12" start="-1 -1 11 16 8 11"/>
+    <JoinPointPair end="1 2 12 17 9 11" start="0 1 11 17 7 12"/>
+    <JoinPointPair end="1 3 11 18 6 13" start="1 2 12 17 9 11"/>
+    <JoinPointPair end="2 4 12 18 8 12" start="1 3 11 18 6 13"/>
+    <JoinPointPair end="3 6 12 19 7 13" start="2 4 12 18 8 12"/>
+    <JoinPointPair end="5 9 13 20 8 13" start="3 6 12 19 7 13"/>
+    <JoinPointPair end="-1 -1 11 18 8 13" start="-3 -5 11 18 8 13"/>
+    <JoinPointPair end="1 1 11 18 8 13" start="-1 -1 11 18 8 13"/>
+    <JoinPointPair end="1 3 11 18 8 13" start="1 1 11 18 8 13"/>
+    <JoinPointPair end="3 3 11 18 8 13" start="1 3 11 18 8 13"/>
+    <JoinPointPair end="3 5 11 18 8 13" start="3 3 11 18 8 13"/>
+    <JoinPointPair end="5 7 11 18 8 13" start="3 5 11 18 8 13"/>
+    <JoinPointPair end="7 11 11 18 8 13" start="5 7 11 18 8 13"/>
+    <JoinPointPair end="-1 -1 13 20 10 15" start="-4 -6 14 22 10 16"/>
+    <JoinPointPair end="1 2 12 19 9 15" start="-1 -1 13 20 10 15"/>
+    <JoinPointPair end="2 4 12 18 10 14" start="1 2 12 19 9 15"/>
+    <JoinPointPair end="3 5 11 18 8 15" start="2 4 12 18 10 14"/>
+    <JoinPointPair end="4 7 11 17 9 14" start="3 5 11 18 8 15"/>
+    <JoinPointPair end="6 10 10 16 8 14" start="4 7 11 17 9 14"/>
+    <JoinPointPair end="9 15 9 14 8 13" start="6 10 10 16 8 14"/>
+    <JoinPointPair end="-1 -1 15 24 12 19" start="-5 -8 18 29 13 21"/>
+    <JoinPointPair end="2 3 13 21 11 18" start="-1 -1 15 24 12 19"/>
+    <JoinPointPair end="3 6 12 19 11 17" start="2 3 13 21 11 18"/>
+    <JoinPointPair end="5 7 11 18 10 17" start="3 6 12 19 11 17"/>
+    <JoinPointPair end="6 10 10 16 10 16" start="5 7 11 18 10 17"/>
+    <JoinPointPair end="9 14 8 13 9 15" start="6 10 10 16 10 16"/>
+    <JoinPointPair end="13 21 5 8 8 13" start="9 14 8 13 9 15"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 9 47 76 30 49"/>
+    <SelectManifestation point="5 8 46 75 31 51"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="5 17/2 93/2 151/2 61/2 50"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <AdjustSelectionByOrbitLength length="10 16" orbit="green" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-8 -27/2 13/2 21/2 19/2 15" startSegment="-21 -69/2 23/2 37/2 23/2 18"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="391.06719970703125" far="1564.2679443359375" near="3.910675287246704" parallel="false" stereoAngle="0.0" width="391.0669860839844">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.5060811042785645" y="0.717474102973938" z="-0.47865110635757446"/>
+      <LookDirection x="0.8005337119102478" y="-0.5972860455513" z="-0.04888889193534851"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="255,255,255" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="255,255,255" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="255,255,255" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,255,255" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,255,255" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="255,255,255" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="255,255,255" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="255,255,255" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="255,255,255" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="255,255,255" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="255,255,255" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="255,255,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="255,255,255" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>
