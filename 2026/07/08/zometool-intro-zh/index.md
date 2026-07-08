@@ -1,5 +1,6 @@
 ---
 title: Zometool 入门
+date: 2026-07-08
 subtitle: Zometool 球和棍的几何
 share-description: Zometool 球和棍的基础几何中文简介
 image: Zometool-intro-zh.png
