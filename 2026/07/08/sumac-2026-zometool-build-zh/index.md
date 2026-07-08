@@ -72,6 +72,22 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   .parts-inventory td {
     padding: 0.25em 0.75em;
   }
+
+  .parts-inventory td.part-blue {
+    background-color: #dbeafe;
+  }
+
+  .parts-inventory td.part-red {
+    background-color: #fee2e2;
+  }
+
+  .parts-inventory td.part-yellow {
+    background-color: #fef9c3;
+  }
+
+  .parts-inventory td.part-green {
+    background-color: #dcfce7;
+  }
 </style>
 
 <p>
@@ -106,21 +122,6 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </figcaption>
 </figure>
 
-<div class="parts-inventory">
-  <p><strong>总零件清单（25 个连接件、5 个底脚、15 个面模块）</strong></p>
-  <table>
-    <thead>
-      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>B1</td><td>395</td><td>B2</td><td>410</td><td>B3</td><td>360</td></tr>
-      <tr><td>R1</td><td>50</td><td>R2</td><td>280</td><td>R3</td><td>100</td></tr>
-      <tr><td>Y1</td><td>60</td><td>Y2</td><td>350</td><td>Y3</td><td>230</td></tr>
-      <tr><td>G1</td><td>190</td><td>球</td><td>765</td><td></td><td></td></tr>
-    </tbody>
-  </table>
-</div>
-
 <p>搭建时建议分成六个小组：</p>
 
 <ul>
@@ -135,6 +136,21 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <p>
   各个模块准备好之后，我们会从地面开始，逐层向上组装整个穹顶。
 </p>
+
+<div class="parts-inventory">
+  <p><strong>总零件清单（25 个连接件、5 个底脚、15 个面模块）</strong></p>
+  <table>
+    <thead>
+      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="part-blue">B1</td><td class="part-blue">395</td><td class="part-blue">B2</td><td class="part-blue">410</td><td class="part-blue">B3</td><td class="part-blue">360</td></tr>
+      <tr><td class="part-red">R1</td><td class="part-red">50</td><td class="part-red">R2</td><td class="part-red">280</td><td class="part-red">R3</td><td class="part-red">100</td></tr>
+      <tr><td class="part-yellow">Y1</td><td class="part-yellow">60</td><td class="part-yellow">Y2</td><td class="part-yellow">350</td><td class="part-yellow">Y3</td><td class="part-yellow">230</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">190</td><td>球</td><td>765</td><td></td><td></td></tr>
+    </tbody>
+  </table>
+</div>
 
 <h2>连接件和底脚（一个小组）</h2>
 
@@ -161,10 +177,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
       <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
     </thead>
     <tbody>
-      <tr><td>B1</td><td></td><td>B2</td><td>1</td><td>B3</td><td></td></tr>
-      <tr><td>R1</td><td></td><td>R2</td><td>2</td><td>R3</td><td></td></tr>
-      <tr><td>Y1</td><td>2</td><td>Y2</td><td>2</td><td>Y3</td><td>2</td></tr>
-      <tr><td>G1</td><td></td><td>球</td><td>6</td><td></td><td></td></tr>
+      <tr><td class="part-blue">B1</td><td class="part-blue"></td><td class="part-blue">B2</td><td class="part-blue">1</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
+      <tr><td class="part-red">R1</td><td class="part-red"></td><td class="part-red">R2</td><td class="part-red">2</td><td class="part-red">R3</td><td class="part-red"></td></tr>
+      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">2</td><td class="part-yellow">Y3</td><td class="part-yellow">2</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green"></td><td>球</td><td>6</td><td></td><td></td></tr>
     </tbody>
   </table>
 </div>
@@ -194,10 +210,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
       <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
     </thead>
     <tbody>
-      <tr><td>B1</td><td>7</td><td>B2</td><td>14</td><td>B3</td><td></td></tr>
-      <tr><td>R1</td><td>1</td><td>R2</td><td>1</td><td>R3</td><td>2</td></tr>
-      <tr><td>Y1</td><td>2</td><td>Y2</td><td>6</td><td>Y3</td><td></td></tr>
-      <tr><td>G1</td><td>2</td><td>球</td><td>12</td><td></td><td></td></tr>
+      <tr><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
+      <tr><td class="part-red">R1</td><td class="part-red">1</td><td class="part-red">R2</td><td class="part-red">1</td><td class="part-red">R3</td><td class="part-red">2</td></tr>
+      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td><td class="part-yellow">Y3</td><td class="part-yellow"></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">2</td><td>球</td><td>12</td><td></td><td></td></tr>
     </tbody>
   </table>
 </div>
@@ -229,10 +245,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
       <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
     </thead>
     <tbody>
-      <tr><td>B1</td><td>24</td><td>B2</td><td>21</td><td>B3</td><td>24</td></tr>
-      <tr><td>R1</td><td>3</td><td>R2</td><td>15</td><td>R3</td><td>6</td></tr>
-      <tr><td>Y1</td><td></td><td>Y2</td><td>18</td><td>Y3</td><td>12</td></tr>
-      <tr><td>G1</td><td>12</td><td>球</td><td>37</td><td></td><td></td></tr>
+      <tr><td class="part-blue">B1</td><td class="part-blue">24</td><td class="part-blue">B2</td><td class="part-blue">21</td><td class="part-blue">B3</td><td class="part-blue">24</td></tr>
+      <tr><td class="part-red">R1</td><td class="part-red">3</td><td class="part-red">R2</td><td class="part-red">15</td><td class="part-red">R3</td><td class="part-red">6</td></tr>
+      <tr><td class="part-yellow">Y1</td><td class="part-yellow"></td><td class="part-yellow">Y2</td><td class="part-yellow">18</td><td class="part-yellow">Y3</td><td class="part-yellow">12</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">12</td><td>球</td><td>37</td><td></td><td></td></tr>
     </tbody>
   </table>
 </div>
