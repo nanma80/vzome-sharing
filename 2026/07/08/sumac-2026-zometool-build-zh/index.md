@@ -59,6 +59,20 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     });
   })();
 </script>
+<style>
+  .parts-inventory {
+    margin: 1em 2% 2em;
+  }
+
+  .parts-inventory table {
+    width: auto;
+  }
+
+  .parts-inventory th,
+  .parts-inventory td {
+    padding: 0.25em 0.75em;
+  }
+</style>
 
 <p>
   今天我们要搭建一个大型 Zometool 模型：一个截半二十面体形状的穹顶。模型直径接近两米。
@@ -92,6 +106,21 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </figcaption>
 </figure>
 
+<div class="parts-inventory" markdown="1">
+**总零件清单（25 个连接件、5 个底脚、15 个面模块）**
+
+| 零件 | 数量 | 零件 | 数量 |
+|---|---:|---|---:|
+| 球 | 765 | G1 | 190 |
+| B1 | 395 | R1 | 50 |
+| B2 | 410 | R2 | 280 |
+| B3 | 360 | R3 | 100 |
+| Y1 | 60 | Y2 | 350 |
+| Y3 | 230 |  |  |
+
+总共 **2,425** 根棍，连同球一共 **3,190** 件。
+</div>
+
 <p>搭建时建议分成六个小组：</p>
 
 <ul>
@@ -124,6 +153,18 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </figcaption>
 </figure>
 
+<div class="parts-inventory" markdown="1">
+**单个连接件零件清单**
+
+| 零件 | 数量 | 零件 | 数量 |
+|---|---:|---|---:|
+| 球 | 6 | B2 | 1 |
+| R2 | 2 | Y1 | 2 |
+| Y2 | 2 | Y3 | 2 |
+
+单个连接件需要 **9** 根棍，连同球一共 **15** 件。
+</div>
+
 <p>
   我们还需要 <strong><em>5</em></strong> 个底脚，用来放在地面上支撑整个结构。
   注意：底脚模型里有些棍的一端没有球，因为这些球会由连接件提供。
@@ -140,6 +181,20 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     底脚模块（共 5 个）
   </figcaption>
 </figure>
+
+<div class="parts-inventory" markdown="1">
+**单个底脚零件清单**
+
+| 零件 | 数量 | 零件 | 数量 |
+|---|---:|---|---:|
+| 球 | 12 | B1 | 7 |
+| B2 | 14 | G1 | 2 |
+| R1 | 1 | R2 | 1 |
+| R3 | 2 | Y1 | 2 |
+| Y2 | 6 |  |  |
+
+单个底脚需要 **35** 根棍，连同球一共 **47** 件。
+</div>
 
 <h2>面模块（五个小组）</h2>
 
@@ -159,6 +214,20 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     面模块（共 15 个）
   </figcaption>
 </figure>
+
+<div class="parts-inventory" markdown="1">
+**单个面模块零件清单**
+
+| 零件 | 数量 | 零件 | 数量 |
+|---|---:|---|---:|
+| 球 | 37 | B1 | 24 |
+| B2 | 21 | B3 | 24 |
+| G1 | 12 | R1 | 3 |
+| R2 | 15 | R3 | 6 |
+| Y2 | 18 | Y3 | 12 |
+
+单个面模块需要 **135** 根棍，连同球一共 **172** 件。
+</div>
 
 <h2>最终组装</h2>
 
