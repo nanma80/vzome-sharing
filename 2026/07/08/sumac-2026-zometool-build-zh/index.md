@@ -140,14 +140,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <div class="parts-inventory">
   <p><strong>总零件清单（25 个连接件、5 个底脚、15 个面模块）</strong></p>
   <table>
-    <thead>
-      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
-    </thead>
     <tbody>
       <tr><td class="part-blue">B1</td><td class="part-blue">395</td><td class="part-blue">B2</td><td class="part-blue">410</td><td class="part-blue">B3</td><td class="part-blue">360</td></tr>
       <tr><td class="part-red">R1</td><td class="part-red">50</td><td class="part-red">R2</td><td class="part-red">280</td><td class="part-red">R3</td><td class="part-red">100</td></tr>
       <tr><td class="part-yellow">Y1</td><td class="part-yellow">60</td><td class="part-yellow">Y2</td><td class="part-yellow">350</td><td class="part-yellow">Y3</td><td class="part-yellow">230</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">190</td><td>球</td><td>765</td><td></td><td></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">190</td><td></td><td></td><td>球</td><td>765</td></tr>
     </tbody>
   </table>
 </div>
@@ -173,14 +170,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p>第 1 步需要：1 根 B2，2 根 R2。</p>
   <p><strong>单个连接件零件清单</strong></p>
   <table>
-    <thead>
-      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
-    </thead>
     <tbody>
       <tr><td class="part-blue">B1</td><td class="part-blue"></td><td class="part-blue">B2</td><td class="part-blue">1</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
       <tr><td class="part-red">R1</td><td class="part-red"></td><td class="part-red">R2</td><td class="part-red">2</td><td class="part-red">R3</td><td class="part-red"></td></tr>
       <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">2</td><td class="part-yellow">Y3</td><td class="part-yellow">2</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green"></td><td>球</td><td>6</td><td></td><td></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green"></td><td></td><td></td><td>球</td><td>6</td></tr>
     </tbody>
   </table>
 </div>
@@ -206,14 +200,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p>第 1 步需要：1 根 B1，2 根 B2。</p>
   <p><strong>单个底脚零件清单</strong></p>
   <table>
-    <thead>
-      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
-    </thead>
     <tbody>
       <tr><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
       <tr><td class="part-red">R1</td><td class="part-red">1</td><td class="part-red">R2</td><td class="part-red">1</td><td class="part-red">R3</td><td class="part-red">2</td></tr>
       <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td><td class="part-yellow">Y3</td><td class="part-yellow"></td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">2</td><td>球</td><td>12</td><td></td><td></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">2</td><td></td><td></td><td>球</td><td>12</td></tr>
     </tbody>
   </table>
 </div>
@@ -241,14 +232,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p>第 1 步需要：12 根 B3。</p>
   <p><strong>单个面模块零件清单</strong></p>
   <table>
-    <thead>
-      <tr><th>零件</th><th>数量</th><th>零件</th><th>数量</th><th>零件</th><th>数量</th></tr>
-    </thead>
     <tbody>
       <tr><td class="part-blue">B1</td><td class="part-blue">24</td><td class="part-blue">B2</td><td class="part-blue">21</td><td class="part-blue">B3</td><td class="part-blue">24</td></tr>
       <tr><td class="part-red">R1</td><td class="part-red">3</td><td class="part-red">R2</td><td class="part-red">15</td><td class="part-red">R3</td><td class="part-red">6</td></tr>
       <tr><td class="part-yellow">Y1</td><td class="part-yellow"></td><td class="part-yellow">Y2</td><td class="part-yellow">18</td><td class="part-yellow">Y3</td><td class="part-yellow">12</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">12</td><td>球</td><td>37</td><td></td><td></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">12</td><td></td><td></td><td>球</td><td>37</td></tr>
     </tbody>
   </table>
 </div>
