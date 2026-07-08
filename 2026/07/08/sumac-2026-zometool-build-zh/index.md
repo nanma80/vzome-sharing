@@ -1,5 +1,6 @@
 ---
 title: 2026 Zometool 搭建活动
+date: 2026-07-08
 share-description: 搭建大型 Zometool 穹顶的中文说明
 image: SUMaC-2026-final-scenes.png
 layout: vzome
