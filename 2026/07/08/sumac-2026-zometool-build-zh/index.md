@@ -1,6 +1,6 @@
 ---
-title: SUMaC 2026 Zometool 搭建活动
-share-description: 在中国活动中搭建 SUMaC 2026 大型 Zometool 桁架穹顶的中文说明。
+title: 2026 Zometool 搭建活动
+share-description: 搭建大型 Zometool 穹顶的中文说明
 image: SUMaC-2026-final-scenes.png
 layout: vzome
 ---
@@ -60,14 +60,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </script>
 
 <p>
-  今天我们要搭建一个大型 Zometool 模型：一个桁架穹顶。模型直径接近两米。
+  今天我们要搭建一个大型 Zometool 模型：一个截半二十面体形状的穹顶。模型直径接近两米。
 </p>
 
 <p>
   本中文说明基于 Scott Vorthmann 为 SUMaC 2026 活动创建的英文搭建说明和 vZome 模型。
   原始英文页面在
   <a href="https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52-17-489Z.html">这里</a>；
-  中文翻译和活动说明由 nanma80 整理。
+  中文翻译和活动说明由马楠整理。
 </p>
 
 <p>
@@ -121,7 +121,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <p>
   我们还需要 <strong><em>5</em></strong> 个底脚，用来放在地面上支撑整个结构。
-  注意：底脚模型里有些球节点没有显示出来，因为这些球节点会由连接件提供。
+  注意：底脚模型里有些棍的一端没有球，因为这些球会由连接件提供。
   如果方便，也可以先给每个底脚装上一个连接件。
 </p>
 
@@ -141,7 +141,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <p>
   每个面模块小组需要搭建 <strong><em>3</em></strong> 个这样的结构。
   五个小组合起来，总共需要 15 个面模块。
-  注意：这里也有一些球节点没有显示出来；最后组装时，这些球节点会由连接件提供。
+  注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件提供。
 </p>
 
 <figure style="width: 93%; margin: 2%">

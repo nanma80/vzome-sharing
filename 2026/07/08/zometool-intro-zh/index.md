@@ -1,7 +1,7 @@
 ---
 title: Zometool 入门
-subtitle: Zometool 球节点和杆件的基础几何
-share-description: Zometool 球节点和杆件的基础几何中文简介。
+subtitle: Zometool 球和棍的几何
+share-description: Zometool 球和棍的基础几何中文简介
 image: Zometool-intro-zh.png
 layout: page
 ---
@@ -88,5 +88,5 @@ layout: page
 
 <p style="margin-top: 1em;">
   这是 Scott Vorthmann 的 <a href="https://www.vzome.com/docs/zometool-intro.html">Introduction to Zometool</a>
-  的中文翻译版本。原始 vZome 模型和英文说明由 Scott Vorthmann 创建；中文翻译由 nanma80 整理。
+  的中文翻译版本。原始 vZome 模型和英文说明由 Scott Vorthmann 创建；中文翻译由马楠整理。
 </p>
