@@ -11,6 +11,22 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 {% endcomment %}
 
 <script type="module" src="https://www.vzome.com/modules/zometool.js"></script>
+<script>
+  function localizeZometoolInstructions() {
+    document.querySelectorAll("zometool-instructions").forEach((viewer) => {
+      const label = viewer.shadowRoot?.querySelector(".step_switch__label");
+      if (label && label.textContent !== "显示搭建步骤") {
+        label.textContent = "显示搭建步骤";
+      }
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    localizeZometoolInstructions();
+    new MutationObserver(localizeZometoolInstructions)
+      .observe(document.body, { childList: true, subtree: true });
+  });
+</script>
 
 <p>
   今天我们要搭建一个大型 Zometool 模型：一个桁架穹顶。模型直径接近两米。
@@ -29,7 +45,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <p>
-  下面先看整个结构和各个模块的概览。你可以打开 “Show Build Steps” 开关；
+  下面先看整个结构和各个模块的概览。你可以打开“显示搭建步骤”开关；
   这些步骤主要是用来说明结构和分工，不一定是严格的逐步搭建顺序。
 </p>
 
