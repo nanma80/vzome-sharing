@@ -12,20 +12,51 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <script type="module" src="https://www.vzome.com/modules/zometool.js"></script>
 <script>
-  function localizeZometoolInstructions() {
-    document.querySelectorAll("zometool-instructions").forEach((viewer) => {
-      const label = viewer.shadowRoot?.querySelector(".step_switch__label");
-      if (label && label.textContent !== "显示搭建步骤") {
-        label.textContent = "显示搭建步骤";
+  (() => {
+    const localizeText = (root) => {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        if (node.nodeValue.includes("Show Build Steps")) {
+          node.nodeValue = node.nodeValue.replaceAll("Show Build Steps", "显示搭建步骤");
+        }
       }
-    });
-  }
+    };
 
-  document.addEventListener("DOMContentLoaded", () => {
-    localizeZometoolInstructions();
-    new MutationObserver(localizeZometoolInstructions)
-      .observe(document.body, { childList: true, subtree: true });
-  });
+    const localizeViewer = (viewer) => {
+      const root = viewer.shadowRoot;
+      if (!root) {
+        return;
+      }
+      localizeText(root);
+      if (!viewer.zometoolZhObserver) {
+        viewer.zometoolZhObserver = new MutationObserver(() => localizeText(root));
+        viewer.zometoolZhObserver.observe(root, {
+          childList: true,
+          subtree: true,
+          characterData: true
+        });
+      }
+    };
+
+    const localizeZometoolInstructions = () => {
+      document.querySelectorAll("zometool-instructions").forEach(localizeViewer);
+    };
+
+    document.addEventListener("DOMContentLoaded", () => {
+      customElements.whenDefined("zometool-instructions").then(localizeZometoolInstructions);
+      new MutationObserver(localizeZometoolInstructions)
+        .observe(document.body, { childList: true, subtree: true });
+
+      let retries = 0;
+      const retry = setInterval(() => {
+        localizeZometoolInstructions();
+        retries += 1;
+        if (retries >= 60) {
+          clearInterval(retry);
+        }
+      }, 500);
+    });
+  })();
 </script>
 
 <p>
