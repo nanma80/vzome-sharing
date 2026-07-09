@@ -167,7 +167,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p>第 1 步需要：1 根 B2，2 根 R2。</p>
+  <p><strong>起步定标：</strong>先用 1 根 B2 和 2 根 R2 搭起始三角形；之后按 3D 图继续。</p>
   <p><strong>单个连接件零件清单</strong></p>
   <table>
     <tbody>
@@ -197,7 +197,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p>第 1 步需要：1 根 B1，2 根 B2。</p>
+  <p><strong>起步定标：</strong>先用 1 根 B1 和 2 根 B2 搭起始三角形；之后按 3D 图继续。</p>
   <p><strong>单个底脚零件清单</strong></p>
   <table>
     <tbody>
@@ -229,7 +229,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p>第 1 步需要：12 根 B3。</p>
+  <p><strong>起步定标：</strong>先用 12 根 B3 搭起始外框；之后按 3D 图继续。</p>
   <p><strong>单个面模块零件清单</strong></p>
   <table>
     <tbody>
