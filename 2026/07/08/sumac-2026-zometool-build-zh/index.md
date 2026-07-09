@@ -229,7 +229,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p><strong>起步定标：</strong>先用 12 根 B3 搭起始外框；之后按 3D 图继续。</p>
+  <p><strong>起步定标：</strong>先用 12 根 B3 搭起始六边形；之后按 3D 图继续。</p>
   <p><strong>单个面模块零件清单</strong></p>
   <table>
     <tbody>
