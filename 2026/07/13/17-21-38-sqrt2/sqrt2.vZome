@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="rootTwo" version="7.1">
+  <EditHistory editNumber="125" lastStickyEdit="41">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="4" len="0 2" symm="synestructics"/>
+    <StrutCreation anchor="0 0 0 0 0 2" dir="orange" index="5" len="0 2" symm="synestructics"/>
+    <StrutCreation anchor="0 0 0 0 0 2" dir="orange" index="0" len="0 2" symm="synestructics"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 2 0 2"/>
+    <SelectManifestation point="0 2 0 0 0 2"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 2 0 0 0 2" startSegment="0 0 0 2 0 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 2 0 2" dir="magenta" index="15" len="4 0" symm="synestructics"/>
+    <StrutCreation anchor="0 2 0 0 0 2" dir="magenta" index="15" len="4 0" symm="synestructics"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -2 0 0 0 2"/>
+    <SelectManifestation point="0 0 0 -2 0 2"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 2"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 2 0 2"/>
+    <SelectManifestation point="0 2 0 0 0 2"/>
+    <SelectManifestation point="0 0 0 -2 0 2"/>
+    <SelectManifestation point="0 -2 0 0 0 2"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="orange" index="4" len="0 2" symm="synestructics"/>
+    <StrutCreation anchor="0 0 0 0 0 2" dir="orange" index="4" len="0 2" symm="synestructics"/>
+    <StrutCreation anchor="0 0 0 0 0 4" dir="orange" index="4" len="0 2" symm="synestructics"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 2"/>
+    <SelectManifestation point="0 0 0 0 0 6"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 2 0 2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 6"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <DeselectAll/>
+    <StrutCreation anchor="0 2 0 0 0 6" dir="yellow" index="1" len="0 2" symm="synestructics"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 2 0 4"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 4 0 2 0 4" dir="yellow" index="2" len="0 2" symm="synestructics"/>
+    <SelectAll originLast="true"/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 2 0 4 0 4"/>
+    <SelectManifestation point="0 4 0 4 0 2"/>
+    <SelectManifestation point="0 4 0 2 0 4"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 0 0 0 12 0"/>
+    <SelectManifestation point="0 0 4 0 12 0"/>
+    <SelectManifestation point="4 0 0 0 12 0"/>
+    <SelectManifestation point="0 0 -4 0 12 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 0 0 0 12 0"/>
+    <SelectManifestation point="8 0 4 0 8 0"/>
+    <SelectManifestation point="12 0 0 0 4 0"/>
+    <SelectManifestation point="8 0 -4 0 8 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 8 0 -4 0 8"/>
+    <SelectManifestation point="0 8 0 -8 0 4"/>
+    <SelectManifestation point="0 4 0 -8 0 8"/>
+    <EndBlock/>
+    <Polygon/>
+    <Symmetry>
+      <Symmetry attrName="symmetry.group" name="octahedral"/>
+    </Symmetry>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="223.3811492919922" far="446.76220703125" near="0.5584527850151062" parallel="false" stereoAngle="0.0" width="100.5215072631836">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.04396119713783264" y="0.9876736998558044" z="-0.1502179205417633"/>
+      <LookDirection x="-0.38726216554641724" y="-0.15545089542865753" z="-0.908767819404602"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="synestructics" renderingStyle="Synestructics">
+    <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="255,41,183" name="magenta" orbit="[[0,0,1],[-1,0,1]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>
