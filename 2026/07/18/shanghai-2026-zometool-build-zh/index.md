@@ -209,6 +209,34 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
+<h2>加固件</h2>
+
+<p>我们还需要 <strong><em>5</em></strong> 个加固件。</p>
+
+<figure style="width: 93%; margin: 2%">
+  <zometool-instructions style="width: 100%; height: 80dvh" module="foothold"
+        src="foothold_steps.vZome">
+    <img style="width: 100%" src="foothold_steps.png">
+  </zometool-instructions>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    加固件（共 5 个）
+  </figcaption>
+</figure>
+
+<div class="parts-inventory">
+  <p><strong>起步定标：</strong>先用 1 根 B1 和 2 根 B2 搭起始三角形；之后按 3D 图继续。</p>
+  <p><strong>单个加固件零件清单</strong></p>
+  <table>
+    <tbody>
+      <tr><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
+      <tr><td class="part-red">R1</td><td class="part-red">1</td><td class="part-red">R2</td><td class="part-red">1</td><td class="part-red">R3</td><td class="part-red">2</td></tr>
+      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td><td class="part-yellow">Y3</td><td class="part-yellow"></td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">2</td><td></td><td></td><td>球</td><td>12</td></tr>
+    </tbody>
+  </table>
+</div>
+
 <h2>面模块（五个小组）</h2>
 
 <p>
