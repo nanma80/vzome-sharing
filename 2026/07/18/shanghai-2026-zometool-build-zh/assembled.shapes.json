@@ -18,13 +18,13 @@
     "ambientColor" : "#292929"
   },
   "camera" : {
-    "width" : 347.36398,
+    "width" : 295.259383,
     "position" : {
-      "x" : -115.37545,
-      "y" : -293.82214,
-      "z" : 704.42535
+      "x" : -98.0691325,
+      "y" : -249.748819,
+      "z" : 598.7615475
     },
-    "nearClipDistance" : 1.9298005,
+    "nearClipDistance" : 1.640330425,
     "perspective" : true,
     "stereo" : false,
     "lookAtPointRV" : {
@@ -46,7 +46,7 @@
       "z" : -0.31295004,
       "zero" : false
     },
-    "viewDistance" : 771.9189,
+    "viewDistance" : 656.131065,
     "lookAtPoint" : {
       "x" : 0.0,
       "y" : 0.0,
@@ -62,7 +62,7 @@
       "y" : -0.41478163,
       "z" : -0.31295004
     },
-    "farClipDistance" : 1543.8352
+    "farClipDistance" : 1312.25992
   },
   "embedding" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ],
   "shapes" : [ {

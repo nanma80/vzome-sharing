@@ -18,11 +18,11 @@
     "ambientColor" : "#292929"
   },
   "camera" : {
-    "width" : 68.7428,
+    "width" : 58.43138,
     "position" : {
-      "x" : -88.19704,
-      "y" : -88.19704,
-      "z" : -88.19704
+      "x" : -74.967484,
+      "y" : -74.967484,
+      "z" : -74.967484
     },
     "upDirection" : {
       "x" : 0.11026409,
@@ -39,8 +39,8 @@
       "y" : 0.57735026,
       "z" : 0.57735026
     },
-    "farClipDistance" : 305.52332,
-    "viewDistance" : 152.76175,
+    "farClipDistance" : 259.694822,
+    "viewDistance" : 129.8474875,
     "lookDirectionRV" : {
       "x" : 0.57735026,
       "y" : 0.57735026,
@@ -61,7 +61,7 @@
       "z" : 0.0,
       "zero" : true
     },
-    "nearClipDistance" : 0.38190445,
+    "nearClipDistance" : 0.3246187825,
     "stereo" : false
   },
   "embedding" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ],
@@ -7831,11 +7831,11 @@
     "title" : "face unit start",
     "content" : "",
     "view" : {
-      "width" : 68.7428,
+      "width" : 58.43138,
       "position" : {
-        "x" : -88.19704,
-        "y" : -88.19704,
-        "z" : -88.19704
+        "x" : -74.967484,
+        "y" : -74.967484,
+        "z" : -74.967484
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -7852,8 +7852,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 305.52332,
-      "viewDistance" : 152.76175,
+      "farClipDistance" : 259.694822,
+      "viewDistance" : 129.8474875,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -7874,7 +7874,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.38190445,
+      "nearClipDistance" : 0.3246187825,
       "stereo" : false
     },
     "snapshot" : 0
@@ -7882,11 +7882,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -7903,8 +7903,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -7925,7 +7925,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 1
@@ -7933,11 +7933,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -7954,8 +7954,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -7976,7 +7976,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 2
@@ -7984,11 +7984,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8005,8 +8005,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8027,7 +8027,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 3
@@ -8035,11 +8035,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8056,8 +8056,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8078,7 +8078,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 4
@@ -8086,11 +8086,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8107,8 +8107,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8129,7 +8129,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 5
@@ -8137,11 +8137,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8158,8 +8158,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8180,7 +8180,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 6
@@ -8188,11 +8188,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8209,8 +8209,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8231,7 +8231,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 7
@@ -8239,11 +8239,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8260,8 +8260,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8282,7 +8282,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 8
@@ -8290,11 +8290,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8311,8 +8311,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8333,7 +8333,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 9
@@ -8341,11 +8341,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8362,8 +8362,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8384,7 +8384,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 10
@@ -8392,11 +8392,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8413,8 +8413,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8435,7 +8435,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 11
@@ -8443,11 +8443,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 98.53105,
+      "width" : 83.7513925,
       "position" : {
-        "x" : -126.4154,
-        "y" : -126.4154,
-        "z" : -126.4154
+        "x" : -107.45309,
+        "y" : -107.45309,
+        "z" : -107.45309
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8464,8 +8464,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 437.91544,
-      "viewDistance" : 218.9579,
+      "farClipDistance" : 372.228124,
+      "viewDistance" : 186.114215,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8486,7 +8486,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.5473948,
+      "nearClipDistance" : 0.46528558,
       "stereo" : false
     },
     "snapshot" : 12
@@ -8494,11 +8494,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 111.093445,
+      "width" : 94.42942825,
       "position" : {
-        "x" : -142.53296,
-        "y" : -142.53296,
-        "z" : -142.53296
+        "x" : -121.153016,
+        "y" : -121.153016,
+        "z" : -121.153016
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8515,8 +8515,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 493.7482,
-      "viewDistance" : 246.87433,
+      "farClipDistance" : 419.68597,
+      "viewDistance" : 209.8431805,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8537,7 +8537,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6171859,
+      "nearClipDistance" : 0.524608015,
       "stereo" : false
     },
     "snapshot" : 13
@@ -8545,11 +8545,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 111.093445,
+      "width" : 94.42942825,
       "position" : {
-        "x" : -142.53296,
-        "y" : -142.53296,
-        "z" : -142.53296
+        "x" : -121.153016,
+        "y" : -121.153016,
+        "z" : -121.153016
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8566,8 +8566,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 493.7482,
-      "viewDistance" : 246.87433,
+      "farClipDistance" : 419.68597,
+      "viewDistance" : 209.8431805,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8588,7 +8588,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6171859,
+      "nearClipDistance" : 0.524608015,
       "stereo" : false
     },
     "snapshot" : 14
@@ -8596,11 +8596,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 111.093445,
+      "width" : 94.42942825,
       "position" : {
-        "x" : -142.53296,
-        "y" : -142.53296,
-        "z" : -142.53296
+        "x" : -121.153016,
+        "y" : -121.153016,
+        "z" : -121.153016
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8617,8 +8617,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 493.7482,
-      "viewDistance" : 246.87433,
+      "farClipDistance" : 419.68597,
+      "viewDistance" : 209.8431805,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8639,7 +8639,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6171859,
+      "nearClipDistance" : 0.524608015,
       "stereo" : false
     },
     "snapshot" : 15
@@ -8647,11 +8647,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 111.093445,
+      "width" : 94.42942825,
       "position" : {
-        "x" : -142.53296,
-        "y" : -142.53296,
-        "z" : -142.53296
+        "x" : -121.153016,
+        "y" : -121.153016,
+        "z" : -121.153016
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8668,8 +8668,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 493.7482,
-      "viewDistance" : 246.87433,
+      "farClipDistance" : 419.68597,
+      "viewDistance" : 209.8431805,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8690,7 +8690,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6171859,
+      "nearClipDistance" : 0.524608015,
       "stereo" : false
     },
     "snapshot" : 16
@@ -8698,11 +8698,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8719,8 +8719,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8741,7 +8741,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 17
@@ -8749,11 +8749,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8770,8 +8770,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8792,7 +8792,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 18
@@ -8800,11 +8800,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8821,8 +8821,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8843,7 +8843,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 19
@@ -8851,11 +8851,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8872,8 +8872,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8894,7 +8894,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 20
@@ -8902,11 +8902,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8923,8 +8923,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8945,7 +8945,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 21
@@ -8953,11 +8953,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 117.96308,
+      "width" : 100.268618,
       "position" : {
-        "x" : -151.34671,
-        "y" : -151.34671,
-        "z" : -151.34671
+        "x" : -128.6447035,
+        "y" : -128.6447035,
+        "z" : -128.6447035
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -8974,8 +8974,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 524.2799,
-      "viewDistance" : 262.1402,
+      "farClipDistance" : 445.637915,
+      "viewDistance" : 222.81917,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -8996,7 +8996,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.6553506,
+      "nearClipDistance" : 0.55704801,
       "stereo" : false
     },
     "snapshot" : 22
@@ -9004,11 +9004,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9025,8 +9025,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9047,7 +9047,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 23
@@ -9055,11 +9055,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9076,8 +9076,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9098,7 +9098,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 24
@@ -9106,11 +9106,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9127,8 +9127,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9149,7 +9149,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 25
@@ -9157,11 +9157,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9178,8 +9178,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9200,7 +9200,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 26
@@ -9208,11 +9208,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9229,8 +9229,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9251,7 +9251,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 27
@@ -9259,11 +9259,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 144.08044,
+      "width" : 122.468374,
       "position" : {
-        "x" : -184.85529,
-        "y" : -184.85529,
-        "z" : -184.85529
+        "x" : -157.1269965,
+        "y" : -157.1269965,
+        "z" : -157.1269965
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9280,8 +9280,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 640.35693,
-      "viewDistance" : 320.17874,
+      "farClipDistance" : 544.3033905,
+      "viewDistance" : 272.151929,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9302,7 +9302,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.800447,
+      "nearClipDistance" : 0.68037995,
       "stereo" : false
     },
     "snapshot" : 28
@@ -9310,11 +9310,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 159.2335,
+      "width" : 135.348475,
       "position" : {
-        "x" : -204.29666,
-        "y" : -204.29666,
-        "z" : -204.29666
+        "x" : -173.652161,
+        "y" : -173.652161,
+        "z" : -173.652161
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9331,8 +9331,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 707.7038,
-      "viewDistance" : 353.8522,
+      "farClipDistance" : 601.54823,
+      "viewDistance" : 300.77437,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9353,7 +9353,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.8846307,
+      "nearClipDistance" : 0.751936095,
       "stereo" : false
     },
     "snapshot" : 29
@@ -9361,11 +9361,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 159.2335,
+      "width" : 135.348475,
       "position" : {
-        "x" : -204.29666,
-        "y" : -204.29666,
-        "z" : -204.29666
+        "x" : -173.652161,
+        "y" : -173.652161,
+        "z" : -173.652161
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9382,8 +9382,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 707.7038,
-      "viewDistance" : 353.8522,
+      "farClipDistance" : 601.54823,
+      "viewDistance" : 300.77437,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9404,7 +9404,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.8846307,
+      "nearClipDistance" : 0.751936095,
       "stereo" : false
     },
     "snapshot" : 30
@@ -9412,11 +9412,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 175.98027,
+      "width" : 149.5832295,
       "position" : {
-        "x" : -225.78275,
-        "y" : -225.78275,
-        "z" : -225.78275
+        "x" : -191.9153375,
+        "y" : -191.9153375,
+        "z" : -191.9153375
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9433,8 +9433,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 782.13385,
-      "viewDistance" : 391.0672,
+      "farClipDistance" : 664.8137725,
+      "viewDistance" : 332.40712,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9455,7 +9455,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.97766834,
+      "nearClipDistance" : 0.831018089,
       "stereo" : false
     },
     "snapshot" : 31
@@ -9463,11 +9463,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 175.98027,
+      "width" : 149.5832295,
       "position" : {
-        "x" : -225.78275,
-        "y" : -225.78275,
-        "z" : -225.78275
+        "x" : -191.9153375,
+        "y" : -191.9153375,
+        "z" : -191.9153375
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9484,8 +9484,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 782.13385,
-      "viewDistance" : 391.0672,
+      "farClipDistance" : 664.8137725,
+      "viewDistance" : 332.40712,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9506,7 +9506,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.97766834,
+      "nearClipDistance" : 0.831018089,
       "stereo" : false
     },
     "snapshot" : 32
@@ -9514,11 +9514,11 @@
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 175.98027,
+      "width" : 149.5832295,
       "position" : {
-        "x" : -225.78275,
-        "y" : -225.78275,
-        "z" : -225.78275
+        "x" : -191.9153375,
+        "y" : -191.9153375,
+        "z" : -191.9153375
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9535,8 +9535,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 782.13385,
-      "viewDistance" : 391.0672,
+      "farClipDistance" : 664.8137725,
+      "viewDistance" : 332.40712,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9557,7 +9557,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.97766834,
+      "nearClipDistance" : 0.831018089,
       "stereo" : false
     },
     "snapshot" : 33
@@ -9565,11 +9565,11 @@
     "title" : "face unit end",
     "content" : "",
     "view" : {
-      "width" : 175.98027,
+      "width" : 149.5832295,
       "position" : {
-        "x" : -225.78275,
-        "y" : -225.78275,
-        "z" : -225.78275
+        "x" : -191.9153375,
+        "y" : -191.9153375,
+        "z" : -191.9153375
       },
       "upDirection" : {
         "x" : 0.11026409,
@@ -9586,8 +9586,8 @@
         "y" : 0.57735026,
         "z" : 0.57735026
       },
-      "farClipDistance" : 782.13385,
-      "viewDistance" : 391.0672,
+      "farClipDistance" : 664.8137725,
+      "viewDistance" : 332.40712,
       "lookDirectionRV" : {
         "x" : 0.57735026,
         "y" : 0.57735026,
@@ -9608,7 +9608,7 @@
         "z" : 0.0,
         "zero" : true
       },
-      "nearClipDistance" : 0.97766834,
+      "nearClipDistance" : 0.831018089,
       "stereo" : false
     },
     "snapshot" : 34

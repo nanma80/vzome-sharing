@@ -18,11 +18,11 @@
     "ambientColor" : "#292929"
   },
   "camera" : {
-    "width" : 64.739525,
+    "width" : 55.02859625,
     "position" : {
-      "x" : -113.73573,
-      "y" : -82.29995,
-      "z" : 31.435783
+      "x" : -96.6753705,
+      "y" : -69.9549575,
+      "z" : 26.72041555
     },
     "lookAtPointRV" : {
       "x" : 0.0,
@@ -37,7 +37,7 @@
       "zero" : false
     },
     "perspective" : true,
-    "viewDistance" : 143.86559,
+    "viewDistance" : 122.2857515,
     "lookDirectionRV" : {
       "x" : 0.7905694,
       "y" : 0.5720614,
@@ -46,7 +46,7 @@
     },
     "fieldOfView" : 0.44262895,
     "stereo" : false,
-    "nearClipDistance" : 0.359664,
+    "nearClipDistance" : 0.3057144,
     "upDirection" : {
       "x" : -0.35355338,
       "y" : 0.13504541,
@@ -62,7 +62,7 @@
       "y" : 0.0,
       "z" : 0.0
     },
-    "farClipDistance" : 287.73117
+    "farClipDistance" : 244.5714945
   },
   "embedding" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ],
   "shapes" : [ {
@@ -5980,11 +5980,11 @@
     "title" : "foot start",
     "content" : "",
     "view" : {
-      "width" : 51.95469,
+      "width" : 44.1614865,
       "position" : {
-        "x" : -91.27506,
-        "y" : -66.04726,
-        "z" : 25.227808
+        "x" : -77.583801,
+        "y" : -56.140171,
+        "z" : 21.4436368
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -5999,7 +5999,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 115.454834,
+      "viewDistance" : 98.1366089,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6008,7 +6008,7 @@
       },
       "fieldOfView" : 0.44262898,
       "stereo" : false,
-      "nearClipDistance" : 0.28863713,
+      "nearClipDistance" : 0.2453415605,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6024,18 +6024,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 230.90967
+      "farClipDistance" : 196.2732195
     },
     "snapshot" : 46
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 68.74281,
+      "width" : 58.4313885,
       "position" : {
-        "x" : -120.76877,
-        "y" : -87.38911,
-        "z" : 33.37967
+        "x" : -102.6534545,
+        "y" : -74.2807435,
+        "z" : 28.3727195
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6050,7 +6050,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 152.76175,
+      "viewDistance" : 129.8474875,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6059,7 +6059,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.38190445,
+      "nearClipDistance" : 0.3246187825,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6075,18 +6075,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 305.5235
+      "farClipDistance" : 259.694975
     },
     "snapshot" : 47
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 68.74281,
+      "width" : 58.4313885,
       "position" : {
-        "x" : -120.76877,
-        "y" : -87.38911,
-        "z" : 33.37967
+        "x" : -102.6534545,
+        "y" : -74.2807435,
+        "z" : 28.3727195
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6101,7 +6101,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 152.76175,
+      "viewDistance" : 129.8474875,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6110,7 +6110,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.38190445,
+      "nearClipDistance" : 0.3246187825,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6126,18 +6126,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 305.5235
+      "farClipDistance" : 259.694975
     },
     "snapshot" : 48
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 68.74281,
+      "width" : 58.4313885,
       "position" : {
-        "x" : -120.76877,
-        "y" : -87.38911,
-        "z" : 33.37967
+        "x" : -102.6534545,
+        "y" : -74.2807435,
+        "z" : 28.3727195
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6152,7 +6152,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 152.76175,
+      "viewDistance" : 129.8474875,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6161,7 +6161,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.38190445,
+      "nearClipDistance" : 0.3246187825,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6177,18 +6177,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 305.5235
+      "farClipDistance" : 259.694975
     },
     "snapshot" : 49
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 68.74281,
+      "width" : 58.4313885,
       "position" : {
-        "x" : -120.76877,
-        "y" : -87.38911,
-        "z" : 33.37967
+        "x" : -102.6534545,
+        "y" : -74.2807435,
+        "z" : 28.3727195
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6203,7 +6203,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 152.76175,
+      "viewDistance" : 129.8474875,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6212,7 +6212,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.38190445,
+      "nearClipDistance" : 0.3246187825,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6228,18 +6228,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 305.5235
+      "farClipDistance" : 259.694975
     },
     "snapshot" : 50
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6254,7 +6254,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6263,7 +6263,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552008,
+      "nearClipDistance" : 0.344692068,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6279,18 +6279,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.416
+      "farClipDistance" : 275.7536
     },
     "snapshot" : 51
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6305,7 +6305,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6314,7 +6314,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552008,
+      "nearClipDistance" : 0.344692068,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6330,18 +6330,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.416
+      "farClipDistance" : 275.7536
     },
     "snapshot" : 52
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6356,7 +6356,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6365,7 +6365,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6381,18 +6381,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 53
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6407,7 +6407,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6416,7 +6416,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6432,18 +6432,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 54
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6458,7 +6458,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6467,7 +6467,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6483,18 +6483,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 55
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6509,7 +6509,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6518,7 +6518,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6534,18 +6534,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 56
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6560,7 +6560,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6569,7 +6569,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6585,18 +6585,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 57
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6611,7 +6611,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6620,7 +6620,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6636,18 +6636,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 58
   }, {
     "title" : "",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6662,7 +6662,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6671,7 +6671,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6687,18 +6687,18 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 59
   }, {
     "title" : "foot end",
     "content" : "",
     "view" : {
-      "width" : 72.99362,
+      "width" : 62.044577,
       "position" : {
-        "x" : -128.23668,
-        "y" : -92.79294,
-        "z" : 35.44375
+        "x" : -109.001178,
+        "y" : -78.873999,
+        "z" : 30.1271875
       },
       "lookAtPointRV" : {
         "x" : 0.0,
@@ -6713,7 +6713,7 @@
         "zero" : false
       },
       "perspective" : true,
-      "viewDistance" : 162.208,
+      "viewDistance" : 137.8768,
       "lookDirectionRV" : {
         "x" : 0.7905694,
         "y" : 0.5720614,
@@ -6722,7 +6722,7 @@
       },
       "fieldOfView" : 0.44262904,
       "stereo" : false,
-      "nearClipDistance" : 0.40552005,
+      "nearClipDistance" : 0.3446920425,
       "upDirection" : {
         "x" : -0.35355338,
         "y" : 0.13504541,
@@ -6738,7 +6738,7 @@
         "y" : 0.0,
         "z" : 0.0
       },
-      "farClipDistance" : 324.41595
+      "farClipDistance" : 275.7535575
     },
     "snapshot" : 60
   } ],
