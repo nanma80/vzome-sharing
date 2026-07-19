@@ -166,13 +166,13 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <div class="parts-inventory">
-  <p><strong>总零件清单（25 个连接件、5 个底脚、15 个面模块）</strong></p>
+  <p><strong>总零件清单（25 个连接件，5 个底脚，5 个加固件，15 个面模块）</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B1</td><td class="part-blue">395</td><td class="part-blue">B2</td><td class="part-blue">410</td><td class="part-blue">B3</td><td class="part-blue">360</td></tr>
-      <tr><td class="part-red">R1</td><td class="part-red">50</td><td class="part-red">R2</td><td class="part-red">280</td><td class="part-red">R3</td><td class="part-red">100</td></tr>
-      <tr><td class="part-yellow">Y1</td><td class="part-yellow">60</td><td class="part-yellow">Y2</td><td class="part-yellow">350</td><td class="part-yellow">Y3</td><td class="part-yellow">230</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">190</td><td></td><td></td><td>球</td><td>765</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue">55</td><td class="part-blue">B1</td><td class="part-blue">965</td><td class="part-blue">B2</td><td class="part-blue">890</td></tr>
+      <tr><td class="part-red">R0</td><td class="part-red">20</td><td class="part-red">R1</td><td class="part-red">180</td><td class="part-red">R2</td><td class="part-red">630</td></tr>
+      <tr><td class="part-yellow">Y0</td><td class="part-yellow">0</td><td class="part-yellow">Y1</td><td class="part-yellow">310</td><td class="part-yellow">Y2</td><td class="part-yellow">680</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">190</td><td></td><td></td><td>球</td><td>1555</td></tr>
     </tbody>
   </table>
 </div>
@@ -199,10 +199,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p><strong>单个连接件零件清单</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B1</td><td class="part-blue"></td><td class="part-blue">B2</td><td class="part-blue">1</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
-      <tr><td class="part-red">R1</td><td class="part-red"></td><td class="part-red">R2</td><td class="part-red">2</td><td class="part-red">R3</td><td class="part-red"></td></tr>
-      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">2</td><td class="part-yellow">Y3</td><td class="part-yellow">2</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green"></td><td></td><td></td><td>球</td><td>6</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue"></td><td class="part-blue">B1</td><td class="part-blue"></td><td class="part-blue">B2</td><td class="part-blue">1</td></tr>
+      <tr><td class="part-red">R0</td><td class="part-red"></td><td class="part-red">R1</td><td class="part-red"></td><td class="part-red">R2</td><td class="part-red">2</td></tr>
+      <tr><td class="part-yellow">Y0</td><td class="part-yellow"></td><td class="part-yellow">Y1</td><td class="part-yellow">4</td><td class="part-yellow">Y2</td><td class="part-yellow">4</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green"></td><td></td><td></td><td>球</td><td>8</td></tr>
     </tbody>
   </table>
 </div>
@@ -210,9 +210,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <h3>底脚</h3>
 
 <p>
-  我们还需要 <strong><em>5</em></strong> 个底脚，用来放在地面上支撑整个结构。
+  我们还需要 <strong><em>5</em></strong> 个底脚。
   注意：底脚模型里有些棍的一端没有球，因为这些球会由连接件提供。
-  如果方便，也可以先给每个底脚装上一个连接件。
 </p>
 
 <figure class="model-viewer">
@@ -222,7 +221,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
-    底脚模块（共 5 个）
+    底脚（共 5 个）
   </figcaption>
 </figure>
 
@@ -231,17 +230,20 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p><strong>单个底脚零件清单</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
-      <tr><td class="part-red">R1</td><td class="part-red">1</td><td class="part-red">R2</td><td class="part-red">1</td><td class="part-red">R3</td><td class="part-red">2</td></tr>
-      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td><td class="part-yellow">Y3</td><td class="part-yellow"></td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">2</td><td></td><td></td><td>球</td><td>12</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue">1</td><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td></tr>
+      <tr><td class="part-red">R0</td><td class="part-red"></td><td class="part-red">R1</td><td class="part-red">3</td><td class="part-red">R2</td><td class="part-red">3</td></tr>
+      <tr><td class="part-yellow">Y0</td><td class="part-yellow"></td><td class="part-yellow">Y1</td><td class="part-yellow">4</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">2</td><td></td><td></td><td>球</td><td>14</td></tr>
     </tbody>
   </table>
 </div>
 
 <h3>加固件</h3>
 
-<p>我们还需要 <strong><em>5</em></strong> 个加固件。</p>
+<p>
+  我们还需要 <strong><em>5</em></strong> 个加固件来帮助底脚支撑整个结构。
+  注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件和面模块提供。
+</p>
 
 <figure class="model-viewer">
   <zometool-instructions module="foothold"
@@ -255,14 +257,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p><strong>起步定标：</strong>先用 1 根 B1 和 2 根 B2 搭起始三角形；之后按 3D 图继续。</p>
+  <p><strong>起步定标：</strong>先用 2 根 B0 和 2 根 B1 搭起始梯形；之后按 3D 图继续。</p>
   <p><strong>单个加固件零件清单</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B1</td><td class="part-blue">7</td><td class="part-blue">B2</td><td class="part-blue">14</td><td class="part-blue">B3</td><td class="part-blue"></td></tr>
-      <tr><td class="part-red">R1</td><td class="part-red">1</td><td class="part-red">R2</td><td class="part-red">1</td><td class="part-red">R3</td><td class="part-red">2</td></tr>
-      <tr><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">6</td><td class="part-yellow">Y3</td><td class="part-yellow"></td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">2</td><td></td><td></td><td>球</td><td>12</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue">10</td><td class="part-blue">B1</td><td class="part-blue">24</td><td class="part-blue">B2</td><td class="part-blue">6</td></tr>
+      <tr><td class="part-red">R0</td><td class="part-red">4</td><td class="part-red">R1</td><td class="part-red">6</td><td class="part-red">R2</td><td class="part-red">14</td></tr>
+      <tr><td class="part-yellow">Y0</td><td class="part-yellow"></td><td class="part-yellow">Y1</td><td class="part-yellow">2</td><td class="part-yellow">Y2</td><td class="part-yellow">2</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green"></td><td></td><td></td><td>球</td><td>20</td></tr>
     </tbody>
   </table>
 </div>
@@ -270,7 +272,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <h3>面模块</h3>
 
 <p>
-  我们总共需要 15 个面模块。
+  我们总共需要 <strong><em>15</em></strong> 个面模块。
   注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件提供。
 </p>
 
@@ -286,14 +288,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p><strong>起步定标：</strong>先用 12 根 B3 搭起始六边形；之后按 3D 图继续。</p>
+  <p><strong>起步定标：</strong>先用 12 根 B2 搭起始六边形；之后按 3D 图继续。</p>
   <p><strong>单个面模块零件清单</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B1</td><td class="part-blue">24</td><td class="part-blue">B2</td><td class="part-blue">21</td><td class="part-blue">B3</td><td class="part-blue">24</td></tr>
-      <tr><td class="part-red">R1</td><td class="part-red">3</td><td class="part-red">R2</td><td class="part-red">15</td><td class="part-red">R3</td><td class="part-red">6</td></tr>
-      <tr><td class="part-yellow">Y1</td><td class="part-yellow"></td><td class="part-yellow">Y2</td><td class="part-yellow">18</td><td class="part-yellow">Y3</td><td class="part-yellow">12</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">12</td><td></td><td></td><td>球</td><td>37</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue"></td><td class="part-blue">B1</td><td class="part-blue">54</td><td class="part-blue">B2</td><td class="part-blue">51</td></tr>
+      <tr><td class="part-red">R0</td><td class="part-red"></td><td class="part-red">R1</td><td class="part-red">9</td><td class="part-red">R2</td><td class="part-red">33</td></tr>
+      <tr><td class="part-yellow">Y0</td><td class="part-yellow"></td><td class="part-yellow">Y1</td><td class="part-yellow">12</td><td class="part-yellow">Y2</td><td class="part-yellow">36</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">12</td><td></td><td></td><td>球</td><td>79</td></tr>
     </tbody>
   </table>
 </div>
@@ -302,6 +304,12 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <h3>组装腿</h3>
 
+<p>
+  我们需要用之前的模块组装 <strong><em>5</em></strong> 条腿来支撑上方的结构。
+  每条腿需要：1 个底脚，1 个加固件，1 个面模块，3 个连接件。
+  按 3D 图组装
+</p>
+
 <figure class="model-viewer">
   <zometool-instructions module="leg assembly"
         src="assembled_leg_complex.vZome">
@@ -309,14 +317,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
-    组装腿(共5个)
+    组装腿（共 5 个）
   </figcaption>
 </figure>
 
 <h3>最终组装</h3>
 
 <p>
-  最终组装时，我们从地面开始，逐层往上搭建。
+  最终组装时，先把 5 条腿围成一圈放在地上，底脚朝里，加固件朝外，注意间距不要太远。然后逐层往上搭建。
 </p>
 
 <figure class="model-viewer">
