@@ -187,8 +187,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <figure style="width: 93%; margin: 2%">
   <zometool-instructions style="width: 100%; height: 80dvh" module="foot"
-        src="trussed-icosido-steps-lifelike.vZome">
-    <img style="width: 100%" src="trussed-icosido-steps-lifelike.png">
+        src="foot_module_steps.vZome">
+    <img style="width: 100%" src="foot_module_steps.png">
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
