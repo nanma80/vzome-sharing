@@ -318,8 +318,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <figure class="model-viewer">
   <zometool-instructions module="assembly"
-        src="SUMaC-2026-final-scenes.vZome">
-    <img style="width: 100%" src="SUMaC-2026-final-scenes.png">
+        src="final_assembled_steps.vZome">
+    <img style="width: 100%" src="final_assembled_steps.png">
   </zometool-instructions>
 
   <figcaption style="text-align: center; font-style: italic;">
