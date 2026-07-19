@@ -113,6 +113,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
       height: auto;
       aspect-ratio: 1;
     }
+
+    .model-viewer > vzome-viewer {
+      width: calc(100% - 20px);
+      margin-inline: 10px;
+    }
   }
 </style>
 
