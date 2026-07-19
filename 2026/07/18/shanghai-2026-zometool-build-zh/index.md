@@ -306,6 +306,17 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <figure class="model-viewer">
+  <zometool-instructions module="leg assembly"
+        src="assembled_leg_complex.vZome">
+    <img style="width: 100%" src="assembled_leg_complex.png">
+  </zometool-instructions>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    组装腿(共5个)
+  </figcaption>
+</figure>
+
+<figure class="model-viewer">
   <zometool-instructions module="assembly"
         src="SUMaC-2026-final-scenes.vZome">
     <img style="width: 100%" src="SUMaC-2026-final-scenes.png">

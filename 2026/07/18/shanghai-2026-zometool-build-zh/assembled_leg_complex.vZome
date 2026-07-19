@@ -1,0 +1,4724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="golden" version="7.1">
+  <EditHistory editNumber="346" lastStickyEdit="346">
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-5", "-8", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "-4", "-6", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "-4", "-6", "1" ], [ "3", "5", "1" ], [ "2", "3", "1" ] ], [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-4", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-2", "-3", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-2", "-3", "1" ], [ "3", "5", "1" ], [ "1", "2", "1" ] ], [ [ "-2", "-3", "1" ], [ "3", "5", "1" ], [ "5", "8", "1" ] ], [ [ "-1", "-1", "1" ], [ "1", "2", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-5", "-8", "1" ], [ "-3", "-5", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "-2", "-4", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "4", "6", "1" ] ], [ [ "1", "2", "1" ], [ "-5", "-8", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-4", "-7", "1" ], [ "1", "1", "1" ] ], [ [ "1", "2", "1" ], [ "-2", "-3", "1" ], [ "3", "5", "1" ] ], [ [ "2", "3", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "5", "1" ], [ "-5", "-8", "1" ], [ "2", "3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 13, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 11 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 11 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 9, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 19, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 16 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 17, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 16, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 1 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 2, 8 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 15, 18 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 12, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 0 0 -3 -5" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 0 0 -3 -5"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 -3 0 0 -3 -5"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+    <DeselectAll/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "2", "3", "1" ] ], [ [ "6", "10", "1" ], [ "-1", "-2", "1" ], [ "3", "5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="6 10 -1 -2 3 5"/>
+    <SelectManifestation point="-2 -3 2 3 -2 -3"/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 -5 -8 8 13" startSegment="5 8 -2 -3 9 15"/>
+    <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="3 5 -1 -2 2 3" index="51" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 1 1 3 4" startSegment="3 5 -1 -2 2 3"/>
+    <SelectManifestation endSegment="7 11 -5 -8 8 13" startSegment="5 8 -2 -3 9 15"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="3 5 -1 -2 2 3" dir="yellow" index="39" len="1 1"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 -2 -4 3 5" startSegment="3 5 -1 -2 2 3"/>
+    <SelectManifestation endSegment="2 3 1 1 3 4" startSegment="3 5 -1 -2 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 -2 -4 3 5" startSegment="3 5 -1 -2 2 3"/>
+    <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 3 -2 -4 3 5" startSegment="3 5 -1 -2 2 3"/>
+    <EndBlock/>
+    <RotationTool corrected="true" name="tool-1" symmetry="icosahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 1 1 3 4"/>
+    <SelectManifestation endSegment="2 3 1 1 3 4" startSegment="3 5 -1 -2 2 3"/>
+    <SelectManifestation point="2 3 -2 -4 3 5"/>
+    <SelectManifestation endSegment="2 3 -2 -4 3 5" startSegment="3 5 -1 -2 2 3"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 5 -1 -2 2 3"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="3 5 2 3 0 0"/>
+    <SelectManifestation point="5 8 0 0 2 3"/>
+    <SelectManifestation point="6 10 -1 -2 3 5"/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 1 -2 -3 6 10" startSegment="2 3 -2 -3 8 13"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="4 6 -3 -5 2 3"/>
+    <SelectManifestation point="1 1 -2 -3 6 10"/>
+    <EndBlock/>
+    <TranslationTool name="tool-2"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 -2 -3 6 10"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="4 6 -3 -5 2 3"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+    <Branch>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectAll originLast="true"/>
+      <EndBlock/>
+      <ShowVertices/>
+      <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-10", "-16", "1" ], [ "2", "3", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "-1", "-2", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-9", "-14", "1" ], [ "4", "6", "1" ], [ "2", "3", "1" ] ], [ [ "-8", "-13", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-8", "-13", "1" ], [ "2", "3", "1" ], [ "4", "7", "1" ] ], [ [ "-8", "-13", "1" ], [ "5", "8", "1" ], [ "0", "0", "1" ] ], [ [ "-8", "-12", "1" ], [ "1", "1", "1" ], [ "2", "3", "1" ] ], [ [ "-7", "-12", "1" ], [ "6", "10", "1" ], [ "-2", "-3", "1" ] ], [ [ "-7", "-11", "1" ], [ "-4", "-7", "1" ], [ "6", "10", "1" ] ], [ [ "-7", "-11", "1" ], [ "-3", "-5", "1" ], [ "3", "5", "1" ] ], [ [ "-7", "-11", "1" ], [ "-1", "-2", "1" ], [ "8", "13", "1" ] ], [ [ "-7", "-11", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "-7", "-11", "1" ], [ "4", "6", "1" ], [ "1", "2", "1" ] ], [ [ "-6", "-10", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "-6", "-10", "1" ], [ "6", "10", "1" ], [ "-4", "-6", "1" ] ], [ [ "-6", "-10", "1" ], [ "8", "13", "1" ], [ "-5", "-8", "1" ] ], [ [ "-6", "-9", "1" ], [ "1", "1", "1" ], [ "5", "8", "1" ] ], [ [ "-5", "-9", "1" ], [ "4", "7", "1" ], [ "-4", "-6", "1" ] ], [ [ "-5", "-8", "1" ], [ "-6", "-10", "1" ], [ "8", "13", "1" ] ], [ [ "-5", "-8", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "-5", "-8", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-5", "-8", "1" ], [ "5", "8", "1" ], [ "-1", "-2", "1" ] ], [ [ "-5", "-8", "1" ], [ "7", "11", "1" ], [ "-4", "-6", "1" ] ], [ [ "-4", "-7", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "-4", "-7", "1" ], [ "3", "5", "1" ], [ "1", "2", "1" ] ], [ [ "-4", "-7", "1" ], [ "6", "10", "1" ], [ "-7", "-11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-6", "-10", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-9", "1" ], [ "4", "7", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-8", "1" ], [ "7", "11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-3", "-5", "1" ], [ "2", "3", "1" ] ], [ [ "-4", "-6", "1" ], [ "-2", "-4", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "0", "0", "1" ], [ "4", "6", "1" ] ], [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "1", "2", "1" ], [ "2", "3", "1" ] ], [ [ "-3", "-5", "1" ], [ "2", "3", "1" ], [ "-4", "-6", "1" ] ], [ [ "-3", "-5", "1" ], [ "3", "5", "1" ], [ "-7", "-11", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-8", "-13", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-4", "1" ], [ "6", "10", "1" ], [ "-4", "-6", "1" ] ], [ [ "-2", "-3", "1" ], [ "-7", "-12", "1" ], [ "6", "10", "1" ] ], [ [ "-2", "-3", "1" ], [ "-6", "-10", "1" ], [ "3", "5", "1" ] ], [ [ "-2", "-3", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-2", "-3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "-1", "-2", "1" ], [ "-2", "-3", "1" ], [ "3", "5", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-5", "-8", "1" ] ], [ [ "-1", "-2", "1" ], [ "4", "7", "1" ], [ "-3", "-5", "1" ] ], [ [ "-1", "-2", "1" ], [ "5", "8", "1" ], [ "-9", "-14", "1" ] ], [ [ "-1", "-2", "1" ], [ "8", "13", "1" ], [ "-7", "-11", "1" ] ], [ [ "-1", "-1", "1" ], [ "-6", "-10", "1" ], [ "5", "8", "1" ] ], [ [ "-1", "-1", "1" ], [ "-4", "-7", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-8", "-13", "1" ], [ "5", "8", "1" ] ], [ [ "0", "0", "1" ], [ "-7", "-11", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-4", "-7", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "-8", "-12", "1" ] ], [ [ "1", "1", "1" ], [ "5", "8", "1" ], [ "-6", "-9", "1" ] ], [ [ "1", "2", "1" ], [ "-7", "-11", "1" ], [ "4", "6", "1" ] ], [ [ "1", "2", "1" ], [ "-5", "-8", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-4", "-7", "1" ], [ "3", "5", "1" ] ], [ [ "1", "2", "1" ], [ "2", "3", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-9", "-14", "1" ], [ "4", "6", "1" ] ], [ [ "2", "3", "1" ], [ "-8", "-12", "1" ], [ "1", "1", "1" ] ], [ [ "2", "3", "1" ], [ "-4", "-6", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-7", "-11", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-9", "-14", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-5", "-8", "1" ] ], [ [ "2", "3", "1" ], [ "4", "7", "1" ], [ "-8", "-13", "1" ] ], [ [ "2", "3", "1" ], [ "5", "8", "1" ], [ "-10", "-16", "1" ] ], [ [ "3", "5", "1" ], [ "-9", "-14", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-7", "-11", "1" ], [ "-3", "-5", "1" ] ], [ [ "3", "5", "1" ], [ "-5", "-8", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-2", "-3", "1" ], [ "-6", "-10", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "-2", "-3", "1" ] ], [ [ "3", "5", "1" ], [ "1", "2", "1" ], [ "-4", "-7", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "-6", "-10", "1" ] ], [ [ "4", "6", "1" ], [ "2", "3", "1" ], [ "-9", "-14", "1" ] ], [ [ "4", "7", "1" ], [ "-8", "-13", "1" ], [ "2", "3", "1" ] ], [ [ "4", "7", "1" ], [ "-4", "-6", "1" ], [ "-5", "-9", "1" ] ], [ [ "4", "7", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-10", "-16", "1" ], [ "2", "3", "1" ] ], [ [ "5", "8", "1" ], [ "-9", "-14", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-8", "-13", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-6", "-9", "1" ], [ "1", "1", "1" ] ], [ [ "5", "8", "1" ], [ "-2", "-3", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-1", "-1", "1" ], [ "-6", "-10", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "-8", "-13", "1" ] ], [ [ "6", "10", "1" ], [ "-7", "-11", "1" ], [ "-4", "-7", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-6", "-10", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-2", "-4", "1" ] ], [ [ "6", "10", "1" ], [ "-2", "-3", "1" ], [ "-7", "-12", "1" ] ], [ [ "7", "11", "1" ], [ "-4", "-6", "1" ], [ "-5", "-8", "1" ] ], [ [ "8", "13", "1" ], [ "-7", "-11", "1" ], [ "-1", "-2", "1" ] ], [ [ "8", "13", "1" ], [ "-5", "-8", "1" ], [ "-6", "-10", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 62,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 45,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 76,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 66,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 44,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 74,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 87,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 69,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 61,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 82,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 77,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 47,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 54,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 46,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 60,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 65,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 51,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 55,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 67,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 75,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 53,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 57,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 64,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 81,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 73,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 86,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 92,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 58,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 89,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 88,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 78,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 52,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 50,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 59,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 79,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 93,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 63,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 68,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 70,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 91,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 94,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 80,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 72,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 56,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 56, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 45 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 44 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 44, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 44, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 74 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 87 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 42 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 44, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 62, 69 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 25, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 60 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 30 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 54, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 60 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 65, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 24, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 33 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 54, 55 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 24, 43 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 69, 67 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 53 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 46, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 57 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 53, 64 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 28 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 81 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 30 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 53, 51 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 64, 60 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 65, 81 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 55, 67 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 46, 57 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 35, 18 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 20 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 24 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 60, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 65, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 30, 10 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 20 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 35, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 46, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 84 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 90 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 26 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 1 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 36, 48 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 9 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 64, 84 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 81, 90 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 57, 48 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 92 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 92, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 49 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 49, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 62, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 75, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 87, 88 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 88, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 22 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 22, 38 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 69, 78 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 78, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 52, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 42, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 59 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 59, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 89, 79 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 79, 71 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 89, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 63 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 63, 83 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 68, 71 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 70 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 70, 71 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 38, 23 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 23, 16 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 96 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 91 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 91, 96 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 94 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 94, 96 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 42, 29 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 80 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 80, 83 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 29, 19 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 53, 72 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 72, 83 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 64, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 61, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 82, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 77, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 47, 44 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 44, 43 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 47, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 55 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 79 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 12 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 75 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 63 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 40 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="2 3 0 0 3 5"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-3 -5 5 8 -8 -13" startSegment="-3 -5 3 5 -7 -11"/>
+      <EndBlock/>
+      <ShowVertices/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-3 -5 5 8 -8 -13" startSegment="-3 -5 3 5 -7 -11"/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="5 7 -2 -3 12 20" startSegment="6 9 -2 -3 14 23"/>
+      <SelectManifestation endSegment="-3 -5 5 8 -8 -13" startSegment="-3 -5 3 5 -7 -11"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="-3 -5 5 8 -8 -13" dir="red" index="47" len="1 2"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="-4 -7 5 8 -10 -16" startSegment="-3 -5 5 8 -8 -13"/>
+      <SelectManifestation endSegment="-3 -5 5 8 -8 -13" startSegment="-3 -5 3 5 -7 -11"/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-4 -7 5 8 -10 -16" startSegment="-3 -5 5 8 -8 -13"/>
+      <SelectManifestation endSegment="5 7 -2 -3 12 20" startSegment="6 9 -2 -3 14 23"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="16" len="1 1"/>
+      <SelectManifestation endSegment="-1 -1 -2 -3 0 0" startSegment="0 0 0 0 0 0"/>
+      <RotationTool corrected="true" name="tool-3" symmetry="icosahedral"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="-1 -1 -2 -3 0 0"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectAll originLast="true"/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 -1 -1 -4 -7"/>
+      <SelectManifestation point="1 2 -4 -7 3 5"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-4 -7 5 8 10 16" startSegment="-3 -5 5 8 8 13"/>
+      <SelectManifestation endSegment="5 7 -2 -3 12 20" startSegment="6 9 -2 -3 14 23"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="-3 -5 5 8 8 13" dir="red" index="2" len="1 2"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="-2 -3 5 8 10 16" startSegment="-3 -5 5 8 8 13"/>
+      <SelectManifestation endSegment="5 7 -2 -3 12 20" startSegment="6 9 -2 -3 14 23"/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="0 0 4 6 4 6" startSegment="-3 -5 5 8 2 3"/>
+      <SelectManifestation endSegment="4 6 0 0 12 20" startSegment="6 9 -3 -5 11 18"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="-3 -5 5 8 8 13"/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <TranslationTool name="tool-4"/>
+      <BeginBlock/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
+      <Branch>
+        <DeselectAll/>
+        <Branch>
+          <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="31" len="1 2"/>
+          <SelectManifestation endSegment="0 0 -2 -3 1 2" startSegment="0 0 0 0 0 0"/>
+          <RotationTool corrected="true" name="tool-5" symmetry="icosahedral"/>
+        </Branch>
+      </Branch>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-5"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="2 3 -1 -2 0 0"/>
+      <SelectManifestation endSegment="2 3 -1 -2 0 0" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation point="1 2 0 0 2 3"/>
+      <SelectManifestation endSegment="1 2 0 0 2 3" startSegment="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <DeselectAll/>
+      <SelectManifestation point="5 7 -2 -3 12 20"/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <TranslationTool name="tool-6"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation point="6 9 -2 -3 14 23"/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Branch>
+        <ApplyTool copyColors="true" deleteInputs="true" name="tool-6"/>
+        <Branch>
+          <DeselectAll/>
+          <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectAll originLast="true"/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectAll originLast="true"/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+          <DeselectAll/>
+          <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-9", "-16", "1" ], [ "-2", "-4", "1" ], [ "0", "-1", "1" ] ], [ [ "-8", "-14", "1" ], [ "-1", "-2", "1" ], [ "1", "1", "1" ] ], [ [ "-7", "-13", "1" ], [ "-1", "-2", "1" ], [ "0", "-1", "1" ] ], [ [ "-6", "-11", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "-6", "-10", "1" ], [ "-1", "-2", "1" ], [ "1", "1", "1" ] ], [ [ "-5", "-9", "1" ], [ "-4", "-7", "1" ], [ "-2", "-4", "1" ] ], [ [ "-4", "-8", "1" ], [ "1", "1", "1" ], [ "0", "-1", "1" ] ], [ [ "-4", "-7", "1" ], [ "0", "0", "1" ], [ "1", "1", "1" ] ], [ [ "-3", "-6", "1" ], [ "-2", "-4", "1" ], [ "0", "-1", "1" ] ], [ [ "-3", "-6", "1" ], [ "-1", "-2", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-4", "1" ], [ "-14", "-23", "1" ], [ "-5", "-8", "1" ] ], [ [ "-2", "-4", "1" ], [ "-9", "-15", "1" ], [ "-4", "-7", "1" ] ], [ [ "-2", "-4", "1" ], [ "-1", "-2", "1" ], [ "1", "1", "1" ] ], [ [ "-1", "-3", "1" ], [ "-11", "-18", "1" ], [ "-4", "-7", "1" ] ], [ [ "-1", "-3", "1" ], [ "-4", "-7", "1" ], [ "-2", "-4", "1" ] ], [ [ "-1", "-3", "1" ], [ "3", "4", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "-2", "1" ], [ "-2", "-4", "1" ], [ "0", "-1", "1" ] ], [ [ "-1", "-2", "1" ], [ "2", "3", "1" ], [ "1", "1", "1" ] ], [ [ "0", "-1", "1" ], [ "-14", "-23", "1" ], [ "-4", "-7", "1" ] ], [ [ "0", "-1", "1" ], [ "-13", "-21", "1" ], [ "-5", "-8", "1" ] ], [ [ "0", "-1", "1" ], [ "-6", "-10", "1" ], [ "-3", "-5", "1" ] ], [ [ "0", "-1", "1" ], [ "1", "1", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-12", "-20", "1" ], [ "-3", "-6", "1" ] ], [ [ "1", "1", "1" ], [ "-9", "-15", "1" ], [ "-3", "-5", "1" ] ], [ [ "1", "1", "1" ], [ "-4", "-7", "1" ], [ "-2", "-4", "1" ] ], [ [ "1", "1", "1" ], [ "-1", "-2", "1" ], [ "0", "-1", "1" ] ], [ [ "1", "1", "1" ], [ "-1", "-2", "1" ], [ "2", "3", "1" ] ], [ [ "2", "2", "1" ], [ "-9", "-15", "1" ], [ "-4", "-7", "1" ] ], [ [ "2", "2", "1" ], [ "-2", "-4", "1" ], [ "-2", "-4", "1" ] ], [ [ "2", "3", "1" ], [ "-7", "-12", "1" ], [ "-2", "-4", "1" ] ], [ [ "2", "3", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "4", "1" ], [ "-11", "-18", "1" ], [ "-5", "-8", "1" ] ], [ [ "3", "4", "1" ], [ "-11", "-18", "1" ], [ "-3", "-6", "1" ] ], [ [ "3", "4", "1" ], [ "-9", "-15", "1" ], [ "-2", "-4", "1" ] ], [ [ "3", "4", "1" ], [ "-4", "-7", "1" ], [ "-3", "-5", "1" ] ], [ [ "3", "4", "1" ], [ "-4", "-7", "1" ], [ "-1", "-3", "1" ] ], [ [ "4", "6", "1" ], [ "-6", "-10", "1" ], [ "-2", "-4", "1" ] ], [ [ "5", "7", "1" ], [ "-7", "-12", "1" ], [ "-4", "-7", "1" ] ], [ [ "5", "7", "1" ], [ "-7", "-12", "1" ], [ "-2", "-5", "1" ] ], [ [ "5", "7", "1" ], [ "-7", "-12", "1" ], [ "0", "-1", "1" ] ], [ [ "6", "9", "1" ], [ "-9", "-15", "1" ], [ "-5", "-8", "1" ] ], [ [ "6", "9", "1" ], [ "-9", "-15", "1" ], [ "-3", "-6", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 26,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 37,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 36, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 29 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 29 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 29, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 29 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 36, 37 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 42 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 13 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 33, 23 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 10 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 18 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 9 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 37 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 22 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 22, 27 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 26, 27 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 24 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 37, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 25 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 29, 25 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 37, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 12 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 37, 34 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 19, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation endSegment="1 1 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation endSegment="5 7 -7 -12 0 -1" startSegment="4 6 -6 -10 -2 -4"/>
+          <EndBlock/>
+          <ShowVertices/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="7 11 5 8 10 17"/>
+          <SelectManifestation point="11 17 -1 -2 8 13"/>
+          <DeselectAll/>
+          <SelectManifestation point="1 1 -1 -2 2 3"/>
+          <SelectManifestation point="7 11 5 8 10 17"/>
+          <EndBlock/>
+          <TranslationTool name="tool-7"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="1 1 -1 -2 2 3"/>
+          <SelectManifestation point="5 7 -7 -12 0 -1"/>
+          <EndBlock/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation point="2 2 -2 -4 -2 -4"/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-7"/>
+          <Branch>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation point="3 5 2 3 6 10"/>
+            <SelectNeighbors/>
+            <EndBlock/>
+            <Delete/>
+            <BeginBlock/>
+            <SelectManifestation endSegment="5 7 2 3 6 10" startSegment="3 4 5 8 7 12"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="3 4 -1 -2 5 8" startSegment="1 1 2 3 6 10"/>
+            <DeselectAll/>
+            <EndBlock/>
+            <StrutCreation anchor="1 1 2 3 6 10" index="0" len="4 6"/>
+            <BeginBlock/>
+            <SelectManifestation point="5 8 -1 -2 5 8"/>
+            <SelectNeighbors/>
+            <EndBlock/>
+            <Delete/>
+            <StrutCreation anchor="4 6 -3 -5 4 7" index="9" len="4 6"/>
+            <BeginBlock/>
+            <SelectManifestation endSegment="6 9 0 0 5 9" startSegment="4 6 -3 -5 4 7"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="3 4 -1 -2 5 8" startSegment="4 6 -3 -5 4 7"/>
+            <DeselectAll/>
+            <EndBlock/>
+            <StrutCreation anchor="6 9 0 0 5 9" index="9" len="2 4"/>
+            <StrutCreation anchor="5 7 2 3 6 10" index="0" len="2 4"/>
+            <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+            <Delete/>
+            <SelectAll originLast="true"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+            <DeselectAll/>
+            <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "2", "3", "1" ] ], [ [ "6", "10", "1" ], [ "-1", "-2", "1" ], [ "3", "5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="0 -2 0 0 14 24" startSegment="-2 -5 -3 -5 13 22"/>
+            <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+            <DeselectAll/>
+            <EndBlock/>
+            <StrutCreation anchor="1 2 -1 -2 1 2" dir="red" index="47" len="1 2"/>
+            <BeginBlock/>
+            <SelectManifestation endSegment="0 0 -1 -2 -1 -1" startSegment="1 2 -1 -2 1 2"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="0 0 -1 -2 -1 -1" startSegment="1 2 -1 -2 1 2"/>
+            <EndBlock/>
+            <RotationTool corrected="true" name="tool-8" symmetry="icosahedral"/>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation point="1 2 -1 -2 1 2"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="0 0 -1 -2 -1 -1" startSegment="1 2 -1 -2 1 2"/>
+            <SelectManifestation point="0 0 -1 -2 -1 -1"/>
+            <EndBlock/>
+            <Delete/>
+            <BeginBlock/>
+            <SelectManifestation point="1 2 -1 -2 1 2"/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+            <DeselectAll/>
+            <EndBlock/>
+            <StrutCreation anchor="3 5 -1 -2 2 3" index="9" len="4 6"/>
+            <StrutCreation anchor="3 5 -1 -2 2 3" dir="red" index="17" len="1 2"/>
+            <BeginBlock/>
+            <SelectManifestation endSegment="4 7 -1 -2 0 0" startSegment="3 5 -1 -2 2 3"/>
+            <SelectManifestation endSegment="5 8 2 3 3 5" startSegment="3 5 -1 -2 2 3"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="4 7 -1 -2 0 0" startSegment="3 5 -1 -2 2 3"/>
+            <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="4 7 -1 -2 0 0" startSegment="3 5 -1 -2 2 3"/>
+            <EndBlock/>
+            <RotationTool corrected="true" name="tool-9" symmetry="icosahedral"/>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation point="4 7 -1 -2 0 0"/>
+            <SelectManifestation endSegment="4 7 -1 -2 0 0" startSegment="3 5 -1 -2 2 3"/>
+            <EndBlock/>
+            <Delete/>
+            <BeginBlock/>
+            <SelectManifestation point="5 8 2 3 3 5"/>
+            <SelectNeighbors/>
+            <EndBlock/>
+            <Delete/>
+            <BeginBlock/>
+            <SelectManifestation point="1 2 -1 -2 1 2"/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <EndBlock/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="1 2 -4 -7 1 1"/>
+            <SelectManifestation endSegment="0 -2 0 0 14 24" startSegment="-2 -5 -3 -5 13 22"/>
+            <DeselectAll/>
+            <SelectManifestation endSegment="-4 -8 0 0 18 30" startSegment="-2 -5 -1 -2 18 30"/>
+            <EndBlock/>
+            <ShowVertices/>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation point="2 4 -3 -5 2 3"/>
+            <DeselectAll/>
+            <SelectManifestation point="2 4 -3 -5 2 3"/>
+            <SelectManifestation point="-4 -8 0 0 18 30"/>
+            <EndBlock/>
+            <TranslationTool name="tool-10"/>
+            <BeginBlock/>
+            <DeselectAll/>
+            <SelectManifestation point="-4 -8 0 0 18 30"/>
+            <EndBlock/>
+            <Delete/>
+            <BeginBlock/>
+            <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="1 2 -4 -7 1 1"/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <SelectNeighbors/>
+            <EndBlock/>
+            <ApplyTool copyColors="true" deleteInputs="true" name="tool-10"/>
+            <Branch>
+              <DeselectAll/>
+              <Branch>
+                <StrutCreation anchor="4 5 -3 -5 13 22" dir="yellow" index="2" len="1 1"/>
+                <BeginBlock/>
+                <SelectManifestation point="-5 -10 2 3 15 25"/>
+                <SelectManifestation point="-4 -8 0 0 18 30"/>
+                <EndBlock/>
+                <JoinPoints/>
+                <BeginBlock/>
+                <DeselectAll/>
+                <SelectManifestation endSegment="-4 -8 0 0 18 30" startSegment="-5 -10 2 3 15 25"/>
+                <SelectManifestation endSegment="4 5 -4 -6 15 25" startSegment="4 5 -3 -5 13 22"/>
+                <EndBlock/>
+                <StrutIntersection/>
+                <BeginBlock/>
+                <DeselectAll/>
+                <SelectManifestation point="-3 -7 -6 -10 13 22"/>
+                <EndBlock/>
+                <BookmarkTool name="tool-11"/>
+                <BeginBlock/>
+                <DeselectAll/>
+                <SelectManifestation point="4 5 -13 -21 39 64"/>
+                <EndBlock/>
+                <BookmarkTool name="tool-12"/>
+              </Branch>
+              <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+              <DeselectAll/>
+              <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+              <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+              <TranslationTool name="tool-13"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="0 0 0 0 0 0"/>
+              <EndBlock/>
+              <Delete/>
+              <SelectAll originLast="true"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-13"/>
+              <DeselectAll/>
+              <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="30" len="1 2"/>
+              <SelectManifestation endSegment="-2 -3 -1 -2 0 0" startSegment="0 0 0 0 0 0"/>
+              <RotationTool corrected="true" full="true" name="tool-14" symmetry="icosahedral"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="-2 -3 -1 -2 0 0"/>
+              <DeselectAll/>
+              <SelectManifestation endSegment="-2 -3 -1 -2 0 0" startSegment="0 0 0 0 0 0"/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <Delete/>
+              <BeginBlock/>
+              <SelectAll originLast="true"/>
+              <DeselectAll/>
+              <EndBlock/>
+              <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "2", "3", "1" ] ], [ [ "6", "10", "1" ], [ "-1", "-2", "1" ], [ "3", "5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+              <DeselectAll/>
+              <StrutCreation anchor="0 0 0 0 0 0" index="0" len="4 6"/>
+              <BeginBlock/>
+              <SelectManifestation endSegment="4 6 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+              <SelectManifestation endSegment="3 5 -1 -2 2 3" startSegment="0 0 0 0 0 0"/>
+              <DeselectAll/>
+              <EndBlock/>
+              <StrutCreation anchor="3 5 -1 -2 2 3" dir="yellow" index="0" len="1 1"/>
+              <BeginBlock/>
+              <SelectManifestation point="1 2 -1 -2 1 2"/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="4 7 0 0 1 1"/>
+              <SelectManifestation point="3 5 -1 -2 0 -1"/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <Delete/>
+              <StrutCreation anchor="0 0 10 16 -26 -42" dir="yellow" index="2" len="1 1"/>
+              <SelectManifestation endSegment="0 0 9 15 -24 -39" startSegment="0 0 10 16 -26 -42"/>
+              <RotationTool corrected="true" name="tool-15" symmetry="icosahedral"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="0 0 9 15 -24 -39"/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <Delete/>
+              <BeginBlock/>
+              <SelectManifestation point="2 4 -3 -5 2 3"/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-15"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation endSegment="0 0 0 0 -26 -42" startSegment="0 0 2 3 -25 -40"/>
+              <EndBlock/>
+              <ShowVertices/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="1 1 2 3 4 6"/>
+              <SelectManifestation point="0 0 0 0 -26 -42"/>
+              <EndBlock/>
+              <TranslationTool name="tool-16"/>
+              <BeginBlock/>
+              <DeselectAll/>
+              <SelectManifestation point="0 0 0 0 -26 -42"/>
+              <EndBlock/>
+              <Delete/>
+              <BeginBlock/>
+              <SelectManifestation point="1 1 2 3 0 0"/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <SelectNeighbors/>
+              <EndBlock/>
+              <ApplyTool copyColors="true" deleteInputs="true" name="tool-16"/>
+              <Branch>
+                <BeginBlock/>
+                <DeselectAll/>
+                <SelectAll originLast="true"/>
+                <EndBlock/>
+                <Branch>
+                  <ShowVertices/>
+                  <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-10", "-16", "1" ], [ "2", "3", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "-1", "-2", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-9", "-14", "1" ], [ "4", "6", "1" ], [ "2", "3", "1" ] ], [ [ "-8", "-13", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-8", "-13", "1" ], [ "2", "3", "1" ], [ "4", "7", "1" ] ], [ [ "-8", "-13", "1" ], [ "5", "8", "1" ], [ "0", "0", "1" ] ], [ [ "-8", "-12", "1" ], [ "1", "1", "1" ], [ "2", "3", "1" ] ], [ [ "-7", "-12", "1" ], [ "6", "10", "1" ], [ "-2", "-3", "1" ] ], [ [ "-7", "-11", "1" ], [ "-4", "-7", "1" ], [ "6", "10", "1" ] ], [ [ "-7", "-11", "1" ], [ "-3", "-5", "1" ], [ "3", "5", "1" ] ], [ [ "-7", "-11", "1" ], [ "-1", "-2", "1" ], [ "8", "13", "1" ] ], [ [ "-7", "-11", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "-7", "-11", "1" ], [ "4", "6", "1" ], [ "1", "2", "1" ] ], [ [ "-6", "-10", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "-6", "-10", "1" ], [ "6", "10", "1" ], [ "-4", "-6", "1" ] ], [ [ "-6", "-10", "1" ], [ "8", "13", "1" ], [ "-5", "-8", "1" ] ], [ [ "-6", "-9", "1" ], [ "1", "1", "1" ], [ "5", "8", "1" ] ], [ [ "-5", "-9", "1" ], [ "4", "7", "1" ], [ "-4", "-6", "1" ] ], [ [ "-5", "-8", "1" ], [ "-6", "-10", "1" ], [ "8", "13", "1" ] ], [ [ "-5", "-8", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "-5", "-8", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-5", "-8", "1" ], [ "5", "8", "1" ], [ "-1", "-2", "1" ] ], [ [ "-5", "-8", "1" ], [ "7", "11", "1" ], [ "-4", "-6", "1" ] ], [ [ "-4", "-7", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "-4", "-7", "1" ], [ "3", "5", "1" ], [ "1", "2", "1" ] ], [ [ "-4", "-7", "1" ], [ "6", "10", "1" ], [ "-7", "-11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-6", "-10", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-9", "1" ], [ "4", "7", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-8", "1" ], [ "7", "11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-3", "-5", "1" ], [ "2", "3", "1" ] ], [ [ "-4", "-6", "1" ], [ "-2", "-4", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "0", "0", "1" ], [ "4", "6", "1" ] ], [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "1", "2", "1" ], [ "2", "3", "1" ] ], [ [ "-3", "-5", "1" ], [ "2", "3", "1" ], [ "-4", "-6", "1" ] ], [ [ "-3", "-5", "1" ], [ "3", "5", "1" ], [ "-7", "-11", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-8", "-13", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "-7", "-12", "1" ], [ "6", "10", "1" ] ], [ [ "-2", "-3", "1" ], [ "-6", "-10", "1" ], [ "3", "5", "1" ] ], [ [ "-2", "-3", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-2", "-3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-3", "1" ], [ "7", "11", "1" ], [ "-5", "-8", "1" ] ], [ [ "-1", "-2", "1" ], [ "-2", "-3", "1" ], [ "3", "5", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-5", "-8", "1" ] ], [ [ "-1", "-2", "1" ], [ "4", "7", "1" ], [ "-3", "-5", "1" ] ], [ [ "-1", "-2", "1" ], [ "5", "8", "1" ], [ "-9", "-14", "1" ] ], [ [ "-1", "-2", "1" ], [ "8", "13", "1" ], [ "-7", "-11", "1" ] ], [ [ "-1", "-1", "1" ], [ "-6", "-10", "1" ], [ "5", "8", "1" ] ], [ [ "-1", "-1", "1" ], [ "-4", "-7", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-8", "-13", "1" ], [ "5", "8", "1" ] ], [ [ "0", "0", "1" ], [ "-7", "-11", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-4", "-7", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "6", "10", "1" ], [ "-6", "-10", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "-8", "-12", "1" ] ], [ [ "1", "2", "1" ], [ "-7", "-11", "1" ], [ "4", "6", "1" ] ], [ [ "1", "2", "1" ], [ "-5", "-8", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-4", "-7", "1" ], [ "3", "5", "1" ] ], [ [ "1", "2", "1" ], [ "2", "3", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-9", "-14", "1" ], [ "4", "6", "1" ] ], [ [ "2", "3", "1" ], [ "-8", "-12", "1" ], [ "1", "1", "1" ] ], [ [ "2", "3", "1" ], [ "-4", "-6", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-7", "-11", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-9", "-14", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-5", "-8", "1" ] ], [ [ "2", "3", "1" ], [ "4", "7", "1" ], [ "-8", "-13", "1" ] ], [ [ "2", "3", "1" ], [ "5", "8", "1" ], [ "-10", "-16", "1" ] ], [ [ "3", "5", "1" ], [ "-9", "-14", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-7", "-11", "1" ], [ "-3", "-5", "1" ] ], [ [ "3", "5", "1" ], [ "-5", "-8", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-2", "-3", "1" ], [ "-6", "-10", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "-2", "-3", "1" ] ], [ [ "3", "5", "1" ], [ "1", "2", "1" ], [ "-4", "-7", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "-6", "-10", "1" ] ], [ [ "4", "6", "1" ], [ "2", "3", "1" ], [ "-9", "-14", "1" ] ], [ [ "4", "7", "1" ], [ "-8", "-13", "1" ], [ "2", "3", "1" ] ], [ [ "4", "7", "1" ], [ "-4", "-6", "1" ], [ "-5", "-9", "1" ] ], [ [ "4", "7", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-10", "-16", "1" ], [ "2", "3", "1" ] ], [ [ "5", "8", "1" ], [ "-9", "-14", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-8", "-13", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-6", "-9", "1" ], [ "1", "1", "1" ] ], [ [ "5", "8", "1" ], [ "-2", "-3", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-1", "-1", "1" ], [ "-6", "-10", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "-8", "-13", "1" ] ], [ [ "6", "10", "1" ], [ "-7", "-11", "1" ], [ "-4", "-7", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-6", "-10", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-2", "-4", "1" ] ], [ [ "6", "10", "1" ], [ "-2", "-3", "1" ], [ "-7", "-12", "1" ] ], [ [ "7", "11", "1" ], [ "-4", "-6", "1" ], [ "-5", "-8", "1" ] ], [ [ "8", "13", "1" ], [ "-7", "-11", "1" ], [ "-1", "-2", "1" ] ], [ [ "8", "13", "1" ], [ "-5", "-8", "1" ], [ "-6", "-10", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 62,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 45,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 76,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 66,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 74,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 87,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 69,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 61,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 82,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 77,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 47,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 54,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 46,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 60,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 65,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 51,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 55,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 67,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 75,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 53,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 58,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 64,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 81,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 73,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 86,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 92,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 89,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 88,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 78,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 52,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 50,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 59,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 79,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 93,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 63,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 68,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 70,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 91,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 94,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 80,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 72,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 44,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 57,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 56,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 56, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 45 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 74 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 87 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 62, 69 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 25, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 60 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 30 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 54, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 42 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 60 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 65, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 24, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 33 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 54, 55 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 24, 42 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 69, 67 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 40 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 53 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 46, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 53, 64 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 28 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 81 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 30 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 53, 51 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 64, 60 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 65, 81 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 55, 67 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 46, 58 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 35, 18 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 20 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 24 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 60, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 65, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 30, 10 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 20 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 35, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 46, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 84 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 90 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 26 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 1 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 36, 48 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 9 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 64, 84 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 81, 90 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 58, 48 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 92 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 92, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 62, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 75, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 87, 88 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 88, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 22 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 22, 38 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 69, 78 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 78, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 40, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 52, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 59 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 59, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 89, 79 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 79, 71 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 89, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 63 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 63, 83 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 68, 71 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 70 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 70, 71 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 38, 23 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 23, 16 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 96 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 91 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 91, 96 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 94 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 94, 96 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 29 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 80 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 80, 83 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 29, 19 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 53, 72 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 72, 83 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 64, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 61, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 82, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 77, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 47, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 43, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 47, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 55 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 79 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 12 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 75 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 63 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 40, 39 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 38, 44 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 57 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 57, 49 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 49, 44 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-3 -5 1 2 2 3"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="-8 -13 -5 -8 0 0" dir="red" index="30" len="1 2"/>
+                  <SelectManifestation endSegment="-10 -16 -6 -10 0 0" startSegment="-8 -13 -5 -8 0 0"/>
+                  <RotationTool corrected="true" full="true" name="tool-17" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation endSegment="-10 -16 -6 -10 0 0" startSegment="-8 -13 -5 -8 0 0"/>
+                  <SelectManifestation point="-10 -16 -6 -10 0 0"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <Branch>
+                    <StrutCreation anchor="-8 -13 -5 -8 0 0" dir="red" index="30" len="1 2"/>
+                    <SelectManifestation endSegment="-10 -16 -6 -10 0 0" startSegment="-8 -13 -5 -8 0 0"/>
+                    <RotationTool corrected="true" name="tool-18" symmetry="icosahedral"/>
+                  </Branch>
+                  <BeginBlock/>
+                  <SelectManifestation point="0 0 0 0 0 0"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-18"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="-6 -10 2 3 5 8" index="37" len="4 6"/>
+                  <SelectManifestation endSegment="-5 -8 0 0 8 13" startSegment="-6 -10 2 3 5 8"/>
+                  <RotationTool corrected="true" name="tool-19" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-5 -8 0 0 8 13"/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="0 0 0 0 0 0"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-19"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation endSegment="-5 -8 2 3 3 5" startSegment="-6 -10 2 3 5 8"/>
+                  <EndBlock/>
+                  <ShowVertices/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-5 -8 2 3 3 5"/>
+                  <SelectManifestation point="-8 -13 13 21 -21 -34"/>
+                  <EndBlock/>
+                  <TranslationTool name="tool-20"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-5 -8 2 3 3 5"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation endSegment="-13 -21 2 3 10 16" startSegment="-13 -21 5 8 8 13"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-20"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectAll originLast="true"/>
+                  <DeselectAll/>
+                  <EndBlock/>
+                  <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "2", "3", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "2", "3", "1" ] ], [ [ "6", "10", "1" ], [ "-1", "-2", "1" ], [ "3", "5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#FFB31A"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="4 6 -3 -5 2 3" dir="yellow" index="2" len="1 1"/>
+                  <SelectManifestation endSegment="4 6 -4 -6 4 6" startSegment="4 6 -3 -5 2 3"/>
+                  <RotationTool corrected="true" name="tool-21" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-21"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="4 6 -4 -6 4 6"/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <Delete/>
+                  <StrutCreation anchor="4 6 -3 -5 2 3" dir="yellow" index="5" len="1 1"/>
+                  <SelectManifestation endSegment="5 8 -4 -7 3 5" startSegment="4 6 -3 -5 2 3"/>
+                  <RotationTool corrected="true" name="tool-22" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="5 8 -4 -7 3 5"/>
+                  <SelectManifestation endSegment="5 8 -4 -7 3 5" startSegment="4 6 -3 -5 2 3"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="4 6 -3 -5 2 3"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-22"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-22"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="4 6 -3 -5 2 3"/>
+                  <DeselectAll/>
+                  <SelectManifestation endSegment="-21 -34 8 13 -13 -21" startSegment="-19 -31 9 15 -13 -21"/>
+                  <EndBlock/>
+                  <ShowVertices/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="4 6 -3 -5 2 3"/>
+                  <SelectManifestation point="-21 -34 8 13 -13 -21"/>
+                  <EndBlock/>
+                  <TranslationTool name="tool-23"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="3 4 -2 -3 3 5"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" name="tool-23"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="4 6 -3 -5 2 3"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-0"/>
+                  <DeselectAll/>
+                  <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-10", "-16", "1" ], [ "2", "3", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "-1", "-2", "1" ], [ "5", "8", "1" ] ], [ [ "-9", "-14", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-9", "-14", "1" ], [ "4", "6", "1" ], [ "2", "3", "1" ] ], [ [ "-8", "-13", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-8", "-13", "1" ], [ "2", "3", "1" ], [ "4", "7", "1" ] ], [ [ "-8", "-13", "1" ], [ "5", "8", "1" ], [ "0", "0", "1" ] ], [ [ "-8", "-12", "1" ], [ "1", "1", "1" ], [ "2", "3", "1" ] ], [ [ "-7", "-12", "1" ], [ "6", "10", "1" ], [ "-2", "-3", "1" ] ], [ [ "-7", "-11", "1" ], [ "-4", "-7", "1" ], [ "6", "10", "1" ] ], [ [ "-7", "-11", "1" ], [ "-3", "-5", "1" ], [ "3", "5", "1" ] ], [ [ "-7", "-11", "1" ], [ "-1", "-2", "1" ], [ "8", "13", "1" ] ], [ [ "-7", "-11", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "-7", "-11", "1" ], [ "4", "6", "1" ], [ "1", "2", "1" ] ], [ [ "-6", "-10", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "-6", "-10", "1" ], [ "6", "10", "1" ], [ "-4", "-6", "1" ] ], [ [ "-6", "-10", "1" ], [ "8", "13", "1" ], [ "-5", "-8", "1" ] ], [ [ "-6", "-9", "1" ], [ "1", "1", "1" ], [ "5", "8", "1" ] ], [ [ "-5", "-9", "1" ], [ "4", "7", "1" ], [ "-4", "-6", "1" ] ], [ [ "-5", "-8", "1" ], [ "-6", "-10", "1" ], [ "8", "13", "1" ] ], [ [ "-5", "-8", "1" ], [ "-1", "-2", "1" ], [ "1", "2", "1" ] ], [ [ "-5", "-8", "1" ], [ "2", "3", "1" ], [ "3", "5", "1" ] ], [ [ "-5", "-8", "1" ], [ "5", "8", "1" ], [ "-1", "-2", "1" ] ], [ [ "-5", "-8", "1" ], [ "7", "11", "1" ], [ "-4", "-6", "1" ] ], [ [ "-4", "-7", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "-4", "-7", "1" ], [ "3", "5", "1" ], [ "1", "2", "1" ] ], [ [ "-4", "-7", "1" ], [ "6", "10", "1" ], [ "-7", "-11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-6", "-10", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-9", "1" ], [ "4", "7", "1" ] ], [ [ "-4", "-6", "1" ], [ "-5", "-8", "1" ], [ "7", "11", "1" ] ], [ [ "-4", "-6", "1" ], [ "-3", "-5", "1" ], [ "2", "3", "1" ] ], [ [ "-4", "-6", "1" ], [ "-2", "-4", "1" ], [ "6", "10", "1" ] ], [ [ "-4", "-6", "1" ], [ "0", "0", "1" ], [ "4", "6", "1" ] ], [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "1", "2", "1" ], [ "2", "3", "1" ] ], [ [ "-3", "-5", "1" ], [ "2", "3", "1" ], [ "-4", "-6", "1" ] ], [ [ "-3", "-5", "1" ], [ "3", "5", "1" ], [ "-7", "-11", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-8", "-13", "1" ] ], [ [ "-3", "-5", "1" ], [ "5", "8", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "-7", "-12", "1" ], [ "6", "10", "1" ] ], [ [ "-2", "-3", "1" ], [ "-6", "-10", "1" ], [ "3", "5", "1" ] ], [ [ "-2", "-3", "1" ], [ "-3", "-5", "1" ], [ "5", "8", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-2", "-3", "1" ], [ "3", "5", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-3", "1" ], [ "7", "11", "1" ], [ "-5", "-8", "1" ] ], [ [ "-1", "-2", "1" ], [ "-2", "-3", "1" ], [ "3", "5", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-5", "-8", "1" ] ], [ [ "-1", "-2", "1" ], [ "4", "7", "1" ], [ "-3", "-5", "1" ] ], [ [ "-1", "-2", "1" ], [ "5", "8", "1" ], [ "-9", "-14", "1" ] ], [ [ "-1", "-2", "1" ], [ "8", "13", "1" ], [ "-7", "-11", "1" ] ], [ [ "-1", "-1", "1" ], [ "-6", "-10", "1" ], [ "5", "8", "1" ] ], [ [ "-1", "-1", "1" ], [ "-4", "-7", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-8", "-13", "1" ], [ "5", "8", "1" ] ], [ [ "0", "0", "1" ], [ "-7", "-11", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-4", "-7", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "6", "10", "1" ], [ "-6", "-10", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "-8", "-12", "1" ] ], [ [ "1", "2", "1" ], [ "-7", "-11", "1" ], [ "4", "6", "1" ] ], [ [ "1", "2", "1" ], [ "-5", "-8", "1" ], [ "-1", "-2", "1" ] ], [ [ "1", "2", "1" ], [ "-4", "-7", "1" ], [ "3", "5", "1" ] ], [ [ "1", "2", "1" ], [ "2", "3", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-9", "-14", "1" ], [ "4", "6", "1" ] ], [ [ "2", "3", "1" ], [ "-8", "-12", "1" ], [ "1", "1", "1" ] ], [ [ "2", "3", "1" ], [ "-4", "-6", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "-3", "-5", "1" ], [ "1", "2", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-7", "-11", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-9", "-14", "1" ] ], [ [ "2", "3", "1" ], [ "3", "5", "1" ], [ "-5", "-8", "1" ] ], [ [ "2", "3", "1" ], [ "4", "7", "1" ], [ "-8", "-13", "1" ] ], [ [ "2", "3", "1" ], [ "5", "8", "1" ], [ "-10", "-16", "1" ] ], [ [ "3", "5", "1" ], [ "-9", "-14", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-7", "-11", "1" ], [ "-3", "-5", "1" ] ], [ [ "3", "5", "1" ], [ "-5", "-8", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-2", "-3", "1" ], [ "-6", "-10", "1" ] ], [ [ "3", "5", "1" ], [ "-1", "-2", "1" ], [ "-2", "-3", "1" ] ], [ [ "3", "5", "1" ], [ "1", "2", "1" ], [ "-4", "-7", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "-6", "-10", "1" ] ], [ [ "4", "6", "1" ], [ "2", "3", "1" ], [ "-9", "-14", "1" ] ], [ [ "4", "7", "1" ], [ "-8", "-13", "1" ], [ "2", "3", "1" ] ], [ [ "4", "7", "1" ], [ "-4", "-6", "1" ], [ "-5", "-9", "1" ] ], [ [ "4", "7", "1" ], [ "-3", "-5", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-10", "-16", "1" ], [ "2", "3", "1" ] ], [ [ "5", "8", "1" ], [ "-9", "-14", "1" ], [ "-1", "-2", "1" ] ], [ [ "5", "8", "1" ], [ "-8", "-13", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-6", "-9", "1" ], [ "1", "1", "1" ] ], [ [ "5", "8", "1" ], [ "-2", "-3", "1" ], [ "-3", "-5", "1" ] ], [ [ "5", "8", "1" ], [ "-1", "-1", "1" ], [ "-6", "-10", "1" ] ], [ [ "5", "8", "1" ], [ "0", "0", "1" ], [ "-8", "-13", "1" ] ], [ [ "6", "10", "1" ], [ "-7", "-11", "1" ], [ "-4", "-7", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-6", "-10", "1" ] ], [ [ "6", "10", "1" ], [ "-4", "-6", "1" ], [ "-2", "-4", "1" ] ], [ [ "6", "10", "1" ], [ "-2", "-3", "1" ], [ "-7", "-12", "1" ] ], [ [ "7", "11", "1" ], [ "-4", "-6", "1" ], [ "-5", "-8", "1" ] ], [ [ "8", "13", "1" ], [ "-7", "-11", "1" ], [ "-1", "-2", "1" ] ], [ [ "8", "13", "1" ], [ "-5", "-8", "1" ], [ "-6", "-10", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 62,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 45,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 76,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 66,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 43,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 74,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 87,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 69,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 61,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 82,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 77,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 47,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 54,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 46,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 60,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 65,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 51,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 55,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 67,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 75,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 53,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 58,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 64,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 81,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 73,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 86,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 92,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 89,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 88,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 78,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 52,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 50,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 59,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 79,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 93,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 63,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 68,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 70,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 91,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 94,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 80,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 72,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 44,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 57,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 56,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 56, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 45 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 34 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 66, 74 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 87 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 45, 41 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 43, 38 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 62, 69 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 25, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 82 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 61 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 38, 47 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 77 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 56, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 56, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 60 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 65 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 30 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 54, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 33, 42 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 51 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 60 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 54 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 65, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 46 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 42, 55 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 35, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 24, 33 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 33 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 54, 55 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 24, 42 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 69, 67 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 75 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 40 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 74, 53 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 21, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 35 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 24 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 30, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 51, 40 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 60, 53 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 55, 75 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 65 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 46, 67 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 58 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 53, 64 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 40, 28 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 81 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 30 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 53, 51 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 64, 60 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 65, 81 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 55, 67 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 46, 58 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 35, 18 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 7, 20 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 12, 24 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 60, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 65, 73 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 30, 10 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 20 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 35, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 46, 36 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 84 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 90 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 73, 85 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 26 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 1 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 36, 48 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 9 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 10, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 28, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 64, 84 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 81, 90 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 58, 48 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 26 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 41, 31 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 74, 86 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 87, 92 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 31, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 86, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 92, 95 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 76, 54 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 62, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 92, 81 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 75, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 87, 88 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 88, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 22 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 22, 38 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 6, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 13 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 69, 78 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 78, 89 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 40, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 52, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 50 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 59 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 59, 52 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 89, 79 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 79, 71 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 89, 93 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 63 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 52, 39 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 63, 83 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 39, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 67, 68 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 68, 71 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 69, 70 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 70, 71 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 38, 23 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 23, 16 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 96 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 75, 91 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 91, 96 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 87, 94 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 94, 96 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 21, 5 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 41, 29 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 74, 80 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 80, 83 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 29, 19 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 14, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 53, 72 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 72, 83 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 64, 86 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 61, 66 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 82, 76 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 77, 62 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 47, 43 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 25 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 34, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 43, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 47, 46 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 77, 55 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 32 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 32, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 67, 79 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 3, 12 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 93, 75 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 53, 63 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 40, 39 ],
+    "color" : "#FFB31A"
+  }, {
+    "vertices" : [ 38, 44 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 69, 57 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 57, 49 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 49, 44 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-18"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-18"/>
+                  <Branch>
+                    <BeginBlock/>
+                    <DeselectAll/>
+                    <SelectManifestation endSegment="-3 -5 -2 -3 0 0" startSegment="-2 -3 -4 -6 -1 -1"/>
+                    <EndBlock/>
+                    <RotationTool corrected="true" name="tool-24" symmetry="icosahedral"/>
+                  </Branch>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-24"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="-6 -10 -4 -6 0 0" dir="yellow" index="39" len="1 1"/>
+                  <SelectManifestation endSegment="-7 -12 -5 -8 1 2" startSegment="-6 -10 -4 -6 0 0"/>
+                  <RotationTool corrected="true" name="tool-25" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-7 -12 -5 -8 1 2"/>
+                  <SelectNeighbors/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-7 -12 -5 -8 1 2"/>
+                  <SelectManifestation endSegment="-7 -12 -5 -8 1 2" startSegment="-6 -10 -4 -6 0 0"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="-6 -10 -4 -6 0 0"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-25"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="-11 -18 -4 -6 -8 -13" dir="red" index="30" len="1 2"/>
+                  <SelectManifestation endSegment="-13 -21 -5 -8 -8 -13" startSegment="-11 -18 -4 -6 -8 -13"/>
+                  <RotationTool corrected="true" name="tool-26" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-13 -21 -5 -8 -8 -13"/>
+                  <SelectManifestation endSegment="-13 -21 -5 -8 -8 -13" startSegment="-11 -18 -4 -6 -8 -13"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="-6 -10 -4 -6 0 0"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-26"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-26"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation endSegment="-6 -10 12 20 -16 -26" startSegment="-6 -10 10 17 -15 -24"/>
+                  <EndBlock/>
+                  <ShowVertices/>
+                  <SelectManifestation point="-21 -34 8 13 -13 -21"/>
+                  <TranslationTool name="tool-27"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-6 -10 12 20 -16 -26"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="-9 -14 7 12 -11 -18"/>
+                  <SelectManifestation point="-8 -13 2 4 -13 -21"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-27"/>
+                  <DeselectAll/>
+                  <StrutCreation anchor="10 15 -3 -5 11 18" dir="yellow" index="8" len="1 1"/>
+                  <SelectManifestation endSegment="12 18 -3 -5 12 19" startSegment="10 15 -3 -5 11 18"/>
+                  <RotationTool corrected="true" name="tool-28" symmetry="icosahedral"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="12 18 -3 -5 12 19"/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="10 15 -3 -5 11 18"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-28"/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-28"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation endSegment="-21 -34 -8 -13 -13 -21" startSegment="-21 -34 -6 -10 -12 -19"/>
+                  <EndBlock/>
+                  <ShowVertices/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="10 15 -3 -5 11 18"/>
+                  <SelectManifestation point="-21 -34 -8 -13 -13 -21"/>
+                  <EndBlock/>
+                  <TranslationTool name="tool-29"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-21 -34 -8 -13 -13 -21"/>
+                  <EndBlock/>
+                  <Delete/>
+                  <BeginBlock/>
+                  <SelectManifestation point="10 15 -3 -5 11 18"/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <SelectNeighbors/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" deleteInputs="true" name="tool-29"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectAll originLast="true"/>
+                  <EndBlock/>
+                  <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectAll originLast="true"/>
+                  <EndBlock/>
+                  <ShowVertices/>
+                  <BeginBlock/>
+                  <SelectManifestation point="15 24 -24 -39 -9 -15"/>
+                  <SelectManifestation point="-15 -24 24 39 9 15"/>
+                  <DeselectAll/>
+                  <SelectManifestation point="-24 -39 -11 -18 -10 -16"/>
+                  <SelectManifestation point="-18 -29 -21 -34 6 10"/>
+                  <SelectManifestation point="-18 -29 -21 -34 -6 -10"/>
+                  <SelectManifestation point="-28 -45 -5 -8 0 0"/>
+                  <SelectManifestation point="-24 -39 -11 -18 10 16"/>
+                  <EndBlock/>
+                  <NewCentroid/>
+                  <BeginBlock/>
+                  <SelectManifestation point="23 37 -4 -7 10 16"/>
+                  <SelectManifestation point="22 36 -3 -5 -12 -19"/>
+                  <SelectManifestation point="11 18 15 24 -17 -28"/>
+                  <SelectManifestation point="5 8 25 40 1 2"/>
+                  <SelectManifestation point="12 20 13 21 18 29"/>
+                  <EndBlock/>
+                  <NewCentroid/>
+                  <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+                  <BeginBlock/>
+                  <DeselectAll/>
+                  <SelectManifestation point="73/5 119/5 46/5 73/5 0 0"/>
+                  <SelectManifestation point="-112/5 -181/5 -69/5 -112/5 0 0"/>
+                  <DeselectAll/>
+                  <SelectManifestation point="0 0 0 0 0 0"/>
+                  <SelectManifestation point="73/5 119/5 46/5 73/5 0 0"/>
+                  <SelectManifestation point="-112/5 -181/5 -69/5 -112/5 0 0"/>
+                  <EndBlock/>
+                  <BookmarkTool name="tool-30"/>
+                </Branch>
+              </Branch>
+              <BookmarkTool name="tool-31"/>
+            </Branch>
+            <Branch>
+              <BookmarkTool name="tool-32"/>
+            </Branch>
+          </Branch>
+          <BookmarkTool name="tool-33"/>
+        </Branch>
+        <BookmarkTool name="tool-34"/>
+      </Branch>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="-3 -4 2 3 -3 -5"/>
+      <SelectNeighbors/>
+      <DeselectAll/>
+      <SelectManifestation point="-3 -4 2 3 -3 -5"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="1 2 2 3 -3 -5" startSegment="-1 -1 -1 -2 -4 -7"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="-5 -8 2 3 -3 -5" index="0" len="4 6"/>
+      <BeginBlock/>
+      <SelectManifestation endSegment="-1 -1 -1 -2 -4 -7" startSegment="-2 -3 -3 -5 -5 -8"/>
+      <DeselectAll/>
+      <EndBlock/>
+      <StrutCreation anchor="-1 -2 2 3 -3 -5" index="0" len="2 4"/>
+      <BeginBlock/>
+      <SelectManifestation point="-1 -1 -1 -2 -4 -7"/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <Delete/>
+      <StrutCreation anchor="1 2 2 3 -3 -5" index="36" len="2 4"/>
+      <BeginBlock/>
+      <SelectManifestation point="0 0 0 0 -4 -6"/>
+      <SelectManifestation point="-2 -3 -3 -5 -5 -8"/>
+      <EndBlock/>
+      <JoinPoints/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="1 2 2 3 -3 -5"/>
+      <EndBlock/>
+      <Delete/>
+      <BeginBlock/>
+      <SelectManifestation point="-1 -2 2 3 -3 -5"/>
+      <SelectManifestation point="0 0 0 0 -4 -6"/>
+      <EndBlock/>
+      <JoinPoints/>
+      <BeginBlock/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <SelectNeighbors/>
+      <EndBlock/>
+      <BookmarkTool name="tool-35"/>
+    </Branch>
+    <BookmarkTool name="tool-36"/>
+    <Hide/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-37"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-37" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -2 -3 8 13"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 3 -2 -3 8 13"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-38"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-38"/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -2 0 0 -2 -3" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 -2 -3 6 10"/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <TranslationTool name="tool-39"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 0 0 -2 -3"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-36" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-39"/>
+    <BookmarkTool name="tool-40"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-40" selectInputs="true"/>
+    <Snapshot id="1"/>
+    <Hide/>
+    <Snapshot id="2"/>
+    <Snapshot id="3"/>
+    <ApplyTool copyColors="true" name="tool-40" selectInputs="true"/>
+    <Snapshot id="4"/>
+    <DeselectAll/>
+    <Snapshot id="5"/>
+    <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="7 11 2 3 6 10" startSegment="8 12 4 6 6 10"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 2 3 6 10"/>
+    <SelectManifestation point="0 0 2 3 -5 -8"/>
+    <EndBlock/>
+    <TranslationTool name="tool-41"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7 11 2 3 6 10"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-33" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-41"/>
+    <BookmarkTool name="tool-42"/>
+    <Snapshot id="6"/>
+    <DeselectAll/>
+    <Snapshot id="7"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 2 3 -6 -9"/>
+    <SelectManifestation point="2 3 2 3 2 3"/>
+    <EndBlock/>
+    <TranslationTool name="tool-43"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-35" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-43"/>
+    <BookmarkTool name="tool-44"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 3 5 7" startSegment="-1 -2 2 3 5 7"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 3 5 7"/>
+    <SelectManifestation point="0 0 2 3 -5 -8"/>
+    <EndBlock/>
+    <TranslationTool name="tool-45"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 3 5 7"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-44" selectInputs="true"/>
+    <Branch>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-45"/>
+      <BookmarkTool name="tool-46"/>
+    </Branch>
+    <DeselectAll/>
+    <StrutCreation anchor="0 0 2 3 -5 -8" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="-2 -3 1 1 -5 -8" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="-4 -6 0 -1 -5 -8" dir="red" index="30" len="1 2"/>
+    <StrutCreation anchor="-6 -9 -1 -3 -5 -8" dir="red" index="30" len="1 2"/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -12 -2 -5 -5 -8"/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -12 -2 -5 -5 -8"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <TranslationTool name="tool-47"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-8 -12 -2 -5 -5 -8"/>
+    <SelectManifestation point="-6 -9 -1 -3 -5 -8"/>
+    <SelectManifestation endSegment="-6 -9 -1 -3 -5 -8" startSegment="-4 -6 0 -1 -5 -8"/>
+    <SelectManifestation point="-2 -3 1 1 -5 -8"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Hide/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 2 3 -5 -8" startSegment="1 2 -1 -2 -5 -8"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 2 3 -5 -8"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-47"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 3 5 7" startSegment="-1 -2 2 3 5 7"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <SelectManifestation point="8 12 4 8 0 0"/>
+    <TranslationTool name="tool-48"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 3 5 7"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-8 -13 -3 -5 3 4"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-48"/>
+    <Snapshot id="8"/>
+    <DeselectAll/>
+    <Snapshot id="9"/>
+    <ApplyTool copyColors="true" name="tool-32" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-9 -16 2 5 3 5" startSegment="-7 -13 1 3 3 5"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -8 0 0 18 30"/>
+    <SelectManifestation point="-9 -16 2 5 3 5"/>
+    <EndBlock/>
+    <TranslationTool name="tool-49"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-5 -10 2 5 -1 -1" startSegment="-7 -13 -1 0 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="-9 -16 2 5 3 5"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -8 0 0 18 30"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-49"/>
+    <Snapshot id="10"/>
+    <DeselectAll/>
+    <Snapshot id="11"/>
+    <ApplyTool copyColors="true" name="tool-31" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -3 -11 -16 -2 -3" startSegment="-1 -3 -9 -13 -1 -1"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 -26 -42"/>
+    <SelectManifestation point="-1 -3 -11 -16 -2 -3"/>
+    <EndBlock/>
+    <TranslationTool name="tool-50"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -3 -11 -16 -2 -3"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 0 0 -27 -43"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-50"/>
+    <Snapshot id="12"/>
+    <DeselectAll/>
+    <Snapshot id="13"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="3" title="leg assembly start">
+      <ViewModel distance="232.49749755859375" far="464.9940185546875" near="0.5812448263168335" parallel="false" stereoAngle="0.0" width="104.62403106689453">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.6172282099723816" y="-0.783499538898468" z="0.07200301438570023"/>
+        <LookDirection x="0.7214787006378174" y="-0.5271030068397522" z="0.4490424394607544"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="">
+      <ViewModel distance="232.49749755859375" far="464.9940185546875" near="0.5812448263168335" parallel="false" stereoAngle="0.0" width="104.62403106689453">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.6172282099723816" y="-0.783499538898468" z="0.07200301438570023"/>
+        <LookDirection x="0.7214787006378174" y="-0.5271030068397522" z="0.4490424394607544"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="">
+      <ViewModel distance="232.49749755859375" far="464.9940185546875" near="0.5812448263168335" parallel="false" stereoAngle="0.0" width="104.62403106689453">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.6172282099723816" y="-0.783499538898468" z="0.07200301438570023"/>
+        <LookDirection x="0.7214787006378174" y="-0.5271030068397522" z="0.4490424394607544"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="">
+      <ViewModel distance="278.3500671386719" far="556.698974609375" near="0.69587641954422" parallel="false" stereoAngle="0.0" width="125.25772094726562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.6118465065956116" y="-0.7769001126289368" z="0.1486625373363495"/>
+        <LookDirection x="0.7404511570930481" y="-0.49643474817276" z="0.45309844613075256"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="">
+      <ViewModel distance="278.3500671386719" far="556.698974609375" near="0.69587641954422" parallel="false" stereoAngle="0.0" width="125.25772094726562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.6118465065956116" y="-0.7769001126289368" z="0.1486625373363495"/>
+        <LookDirection x="0.7404511570930481" y="-0.49643474817276" z="0.45309844613075256"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.7661185264587402" y="-0.6420833468437195" z="0.028826681897044182"/>
+        <LookDirection x="0.5634016394615173" y="-0.6493006944656372" z="0.5108853578567505"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.7661185264587402" y="-0.6420833468437195" z="0.028826681897044182"/>
+        <LookDirection x="0.5634016394615173" y="-0.6493006944656372" z="0.5108853578567505"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.7350074648857117" y="-0.6227429509162903" z="-0.2683156430721283"/>
+        <LookDirection x="0.5370341539382935" y="-0.293014258146286" z="-0.7910449504852295"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.7350074648857117" y="-0.6227429509162903" z="-0.2683156430721283"/>
+        <LookDirection x="0.5370341539382935" y="-0.293014258146286" z="-0.7910449504852295"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.9238049983978271" y="-0.24827595055103302" z="-0.29151326417922974"/>
+        <LookDirection x="-0.08179932832717896" y="0.8716989755630493" z="-0.4831814765930176"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="leg assembly end">
+      <ViewModel distance="398.96728515625" far="797.9330444335938" near="0.9974204301834106" parallel="false" stereoAngle="0.0" width="179.53558349609375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.9238049983978271" y="-0.24827595055103302" z="-0.29151326417922974"/>
+        <LookDirection x="-0.08179932832717896" y="0.8716989755630493" z="-0.4831814765930176"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="289.709716796875" far="579.4183349609375" near="0.7242757081985474" parallel="false" stereoAngle="0.0" width="130.3695831298828">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.6172282099723816" y="-0.783499538898468" z="0.07200301438570023"/>
+      <LookDirection x="0.7214787006378174" y="-0.5271030068397522" z="0.4490424394607544"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-1" label="rotation 1" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-10" label="translation 10" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-11" label="bookmark 11" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="bookmark 12" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-13" label="translation 13" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-14" label="5-fold symmetry" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-15" label="rotation 15" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-16" label="translation 16" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-17" label="axial symmetry 17" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-18" label="new_face_to_first_replica" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-19" label="rotation 19" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-20" label="translation 20" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-21" label="rotation 21" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-22" label="rotation 22" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-23" label="translation 23" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-24" label="rotation 24" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-25" label="rotation 25" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-26" label="rotation 26" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-27" label="translation 27" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-28" label="rotation 28" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-29" label="translation 29" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-3" label="rotation 3" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-30" label="bookmark 30" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-31" label="bookmark 31" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-32" label="bookmark 32" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-33" label="bookmark 33" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-34" label="bookmark 34" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-35" label="bookmark 35" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-36" label="bookmark 36" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-37" label="bookmark 37" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-38" label="translation 38" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-39" label="translation 39" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-4" label="translation 4" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-40" label="bookmark 40" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-41" label="translation 41" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-42" label="bookmark 42" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-43" label="translation 43" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-44" label="bookmark 44" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-45" label="translation 45" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-46" label="bookmark 46" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-47" label="translation 47" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-48" label="translation 48" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-49" label="translation 49" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-5" label="rotation 5" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-50" label="translation 50" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-6" label="translation 6" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-7" label="translation 7" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-8" label="rotation 8" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-9" label="rotation 9" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>
