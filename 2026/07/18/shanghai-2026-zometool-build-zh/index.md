@@ -89,6 +89,31 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   .parts-inventory td.part-green {
     background-color: #dcfce7;
   }
+
+  .model-viewer {
+    width: 93%;
+    margin: 2%;
+  }
+
+  .model-viewer > vzome-viewer,
+  .model-viewer > zometool-instructions {
+    display: block;
+    width: 100%;
+    height: 80dvh;
+  }
+
+  @media (max-width: 650px) {
+    .model-viewer {
+      width: calc(100% + 30px);
+      margin: 1rem -15px 1.5rem;
+    }
+
+    .model-viewer > vzome-viewer,
+    .model-viewer > zometool-instructions {
+      height: auto;
+      aspect-ratio: 1;
+    }
+  }
 </style>
 
 <p>
@@ -112,8 +137,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   这些步骤主要是用来说明结构和分工，不一定是严格的逐步搭建顺序。
 </p>
 
-<figure style="width: 93%; margin: 2%">
-  <vzome-viewer style="width: 100%; height: 80dvh" src="assembled.vZome">
+<figure class="model-viewer">
+  <vzome-viewer src="assembled.vZome">
     <img style="width: 100%" src="assembled.png">
   </vzome-viewer>
 
@@ -155,8 +180,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <p>我们需要 <strong><em>25</em></strong> 个这样的连接件：</p>
 
-<figure style="width: 93%; margin: 2%">
-  <zometool-instructions style="width: 100%; height: 80dvh" module="junction"
+<figure class="model-viewer">
+  <zometool-instructions module="junction"
         src="joint_module_steps.vZome">
     <img style="width: 100%" src="joint_module_steps.png">
   </zometool-instructions>
@@ -185,8 +210,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   如果方便，也可以先给每个底脚装上一个连接件。
 </p>
 
-<figure style="width: 93%; margin: 2%">
-  <zometool-instructions style="width: 100%; height: 80dvh" module="foot"
+<figure class="model-viewer">
+  <zometool-instructions module="foot"
         src="foot_module_steps.vZome">
     <img style="width: 100%" src="foot_module_steps.png">
   </zometool-instructions>
@@ -213,8 +238,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <p>我们还需要 <strong><em>5</em></strong> 个加固件。</p>
 
-<figure style="width: 93%; margin: 2%">
-  <zometool-instructions style="width: 100%; height: 80dvh" module="foothold"
+<figure class="model-viewer">
+  <zometool-instructions module="foothold"
         src="foothold_steps.vZome">
     <img style="width: 100%" src="foothold_steps.png">
   </zometool-instructions>
@@ -245,8 +270,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件提供。
 </p>
 
-<figure style="width: 93%; margin: 2%">
-  <zometool-instructions style="width: 100%; height: 80dvh" module="face unit"
+<figure class="model-viewer">
+  <zometool-instructions module="face unit"
         src="face_module_steps.vZome">
     <img style="width: 100%" src="face_module_steps.png">
   </zometool-instructions>
@@ -275,8 +300,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   最终组装时，我们从地面开始，逐层往上搭建。
 </p>
 
-<figure style="width: 93%; margin: 2%">
-  <zometool-instructions style="width: 100%; height: 80dvh" module="assembly"
+<figure class="model-viewer">
+  <zometool-instructions module="assembly"
         src="SUMaC-2026-final-scenes.vZome">
     <img style="width: 100%" src="SUMaC-2026-final-scenes.png">
   </zometool-instructions>
