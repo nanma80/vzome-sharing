@@ -139,7 +139,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <p>
   下面先看整个结构的概览。后面的各个模块可以打开“显示搭建步骤”开关；
-  这些步骤主要是用来说明结构和分工，不一定是严格的逐步搭建顺序。
+  这些步骤主要是用来说明结构和拼搭过程，不一定是严格的逐步搭建顺序。
 </p>
 
 <figure class="model-viewer">
@@ -152,16 +152,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </figcaption>
 </figure>
 
-<p>搭建时建议分成六个小组：</p>
+<p>本次搭建需要准备以下模块：</p>
 
 <ul>
-  <li>一个小组负责搭建 25 个连接件（junctions）和 5 个底脚（feet）。</li>
-  <li>五个小组分别搭建 3 个面模块（face modules），总共 15 个。</li>
+  <li>25 个连接件</li>
+  <li>5 个底脚</li>
+  <li>5 个加固件</li>
+  <li>15 个面模块</li>
 </ul>
-
-<p>
-  <img alt="搭建小组分工概览" src="teams-overview.png">
-</p>
 
 <p>
   各个模块准备好之后，我们会从地面开始，逐层向上组装整个穹顶。
@@ -179,9 +177,9 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>连接件和底脚（一个小组）</h2>
+<h2>拼搭模块</h2>
 
-<p>这个小组需要同时完成 25 个连接件和 5 个底脚。</p>
+<h3>连接件</h3>
 
 <p>我们需要 <strong><em>25</em></strong> 个这样的连接件：</p>
 
@@ -208,6 +206,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     </tbody>
   </table>
 </div>
+
+<h3>底脚</h3>
 
 <p>
   我们还需要 <strong><em>5</em></strong> 个底脚，用来放在地面上支撑整个结构。
@@ -239,7 +239,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>加固件</h2>
+<h3>加固件</h3>
 
 <p>我们还需要 <strong><em>5</em></strong> 个加固件。</p>
 
@@ -267,11 +267,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>面模块（五个小组）</h2>
+<h3>面模块</h3>
 
 <p>
-  每个面模块小组需要搭建 <strong><em>3</em></strong> 个这样的结构。
-  五个小组合起来，总共需要 15 个面模块。
+  我们总共需要 15 个面模块。
   注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件提供。
 </p>
 
@@ -299,11 +298,9 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>最终组装</h2>
+<h2>组装模块</h2>
 
-<p>
-  最终组装时，我们从地面开始，逐层往上搭建。
-</p>
+<h3>组装腿</h3>
 
 <figure class="model-viewer">
   <zometool-instructions module="leg assembly"
@@ -315,6 +312,12 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     组装腿(共5个)
   </figcaption>
 </figure>
+
+<h3>最终组装</h3>
+
+<p>
+  最终组装时，我们从地面开始，逐层往上搭建。
+</p>
 
 <figure class="model-viewer">
   <zometool-instructions module="assembly"
