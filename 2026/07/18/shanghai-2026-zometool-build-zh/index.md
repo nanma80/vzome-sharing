@@ -170,6 +170,11 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </ul>
 
 <p>
+  <img alt="拼搭模块数量概览" src="modules_overview.png"
+       style="width: 100%; height: auto;">
+</p>
+
+<p>
   各个模块准备好之后，我们会从地面开始，逐层向上组装整个穹顶。
 </p>
 
