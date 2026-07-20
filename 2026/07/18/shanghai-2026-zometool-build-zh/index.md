@@ -299,7 +299,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <p>
   我们总共需要 <strong><em>15</em></strong> 个面模块。
-  注意：这里也有些棍的一端没有球；最后组装时，这些球会由连接件提供。
+</p>
+
+<p>
+  注意：虽然面模块大体上比较对称，但是实际上有一些不对称的细节。拼搭时请注意，否则搭错了后，总装的时候需要修改。
 </p>
 
 <figure class="model-viewer">
@@ -338,8 +341,9 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
     <p>
       我们需要用之前的模块组装 <strong><em>5</em></strong> 条腿来支撑上方的结构。
+    </p>
+    <p>
       每条腿需要：1 个底脚，1 个加固件，1 个面模块，3 个连接件。
-      按 3D 图组装。
     </p>
 
     <figure class="model-viewer">
