@@ -151,7 +151,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   本中文说明基于 Scott Vorthmann 为 SUMaC 2026 活动创建的英文搭建说明和 vZome 模型。
   原始英文页面在
   <a href="https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52-17-489Z.html">这里</a>；
-  中文翻译和活动说明由马楠整理。
+  本页面使用的 vZome 模型由本次活动的组织者在原模型基础上修改。
 </p>
 
 <p>
@@ -160,8 +160,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <p>
-  下面先看整个结构的概览。后面的各个模块可以打开“显示搭建步骤”开关；
-  这些步骤主要是用来说明结构和拼搭过程，不一定是严格的逐步搭建顺序。
+  下面先看整个结构的概览。后面的各个模块可以打开“显示搭建步骤”开关。
 </p>
 
 <figure class="model-viewer">
