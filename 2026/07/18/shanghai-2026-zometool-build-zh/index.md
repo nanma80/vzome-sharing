@@ -45,6 +45,21 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     };
 
     document.addEventListener("DOMContentLoaded", () => {
+      const assemblyDetails = document.querySelector("#assembly-details");
+      const assemblyContent = document.querySelector("#assembly-content");
+      const assemblyTemplate = document.querySelector("#assembly-template");
+
+      const syncAssemblyContent = () => {
+        if (assemblyDetails.open && !assemblyContent.hasChildNodes()) {
+          assemblyContent.append(assemblyTemplate.content.cloneNode(true));
+        } else if (!assemblyDetails.open) {
+          assemblyContent.replaceChildren();
+        }
+      };
+
+      assemblyDetails.addEventListener("toggle", syncAssemblyContent);
+      syncAssemblyContent();
+
       customElements.whenDefined("zometool-instructions").then(localizeZometoolInstructions);
       new MutationObserver(localizeZometoolInstructions)
         .observe(document.body, { childList: true, subtree: true });
@@ -108,6 +123,33 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
   .model-viewer > zometool-instructions {
     aspect-ratio: 4 / 5;
+  }
+
+  .assembly-details {
+    margin-bottom: 2rem;
+  }
+
+  .assembly-details > summary {
+    cursor: pointer;
+    margin: 0.75rem 0 1.25rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #8ab6cc;
+    border-radius: 0.4rem;
+    background: #eaf5fa;
+    font-size: 1.1em;
+    font-weight: 700;
+  }
+
+  .assembly-details .collapse-label {
+    display: none;
+  }
+
+  .assembly-details[open] .expand-label {
+    display: none;
+  }
+
+  .assembly-details[open] .collapse-label {
+    display: inline;
   }
 
   @media (max-width: 650px) {
@@ -315,41 +357,50 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 
 <h2>组装模块</h2>
 
-<h3>组装腿</h3>
+<details id="assembly-details" class="assembly-details">
+  <summary>
+    <span class="expand-label">点击展开组装腿和最终组装（将加载 3D 模型）</span>
+    <span class="collapse-label">点击收起组装模块（将卸载 3D 模型）</span>
+  </summary>
+  <div id="assembly-content"></div>
+  <template id="assembly-template">
+    <h3>组装腿</h3>
 
-<p>
-  我们需要用之前的模块组装 <strong><em>5</em></strong> 条腿来支撑上方的结构。
-  每条腿需要：1 个底脚，1 个加固件，1 个面模块，3 个连接件。
-  按 3D 图组装
-</p>
+    <p>
+      我们需要用之前的模块组装 <strong><em>5</em></strong> 条腿来支撑上方的结构。
+      每条腿需要：1 个底脚，1 个加固件，1 个面模块，3 个连接件。
+      按 3D 图组装
+    </p>
 
-<figure class="model-viewer">
-  <zometool-instructions module="leg assembly"
-        src="assembled_leg_complex.vZome">
-    <img style="width: 100%" src="assembled_leg_complex.png">
-  </zometool-instructions>
+    <figure class="model-viewer">
+      <zometool-instructions module="leg assembly"
+            src="assembled_leg_complex.vZome">
+        <img style="width: 100%" src="assembled_leg_complex.png">
+      </zometool-instructions>
 
-  <figcaption style="text-align: center; font-style: italic;">
-    组装腿（共 5 个）
-  </figcaption>
-</figure>
+      <figcaption style="text-align: center; font-style: italic;">
+        组装腿（共 5 个）
+      </figcaption>
+    </figure>
 
-<h3>最终组装</h3>
+    <h3>最终组装</h3>
 
-<p>
-  最终组装时，先把 5 条腿围成一圈放在地上，底脚朝里，加固件朝外，注意间距不要太远。然后逐层往上搭建。
-</p>
+    <p>
+      最终组装时，先把 5 条腿围成一圈放在地上，底脚朝里，加固件朝外，注意间距不要太远。然后逐层往上搭建。
+    </p>
 
-<figure class="model-viewer">
-  <zometool-instructions module="assembly"
-        src="final_assembled_steps.vZome">
-    <img style="width: 100%" src="final_assembled_steps.png">
-  </zometool-instructions>
+    <figure class="model-viewer">
+      <zometool-instructions module="assembly"
+            src="final_assembled_steps.vZome">
+        <img style="width: 100%" src="final_assembled_steps.png">
+      </zometool-instructions>
 
-  <figcaption style="text-align: center; font-style: italic;">
-    最终组装
-  </figcaption>
-</figure>
+      <figcaption style="text-align: center; font-style: italic;">
+        最终组装
+      </figcaption>
+    </figure>
+  </template>
+</details>
 
 <h2>资源</h2>
 
