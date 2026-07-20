@@ -339,7 +339,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     <p>
       我们需要用之前的模块组装 <strong><em>5</em></strong> 条腿来支撑上方的结构。
       每条腿需要：1 个底脚，1 个加固件，1 个面模块，3 个连接件。
-      按 3D 图组装
+      按 3D 图组装。
     </p>
 
     <figure class="model-viewer">
