@@ -45,20 +45,34 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     };
 
     document.addEventListener("DOMContentLoaded", () => {
-      const assemblyDetails = document.querySelector("#assembly-details");
-      const assemblyContent = document.querySelector("#assembly-content");
-      const assemblyTemplate = document.querySelector("#assembly-template");
+      const sections = ["build", "assembly"].map((name) => ({
+        details: document.querySelector(`#${name}-details`),
+        content: document.querySelector(`#${name}-content`),
+        template: document.querySelector(`#${name}-template`)
+      }));
 
-      const syncAssemblyContent = () => {
-        if (assemblyDetails.open && !assemblyContent.hasChildNodes()) {
-          assemblyContent.append(assemblyTemplate.content.cloneNode(true));
-        } else if (!assemblyDetails.open) {
-          assemblyContent.replaceChildren();
+      const syncSection = (section) => {
+        if (section.details.open && !section.content.hasChildNodes()) {
+          section.content.append(section.template.content.cloneNode(true));
+        } else if (!section.details.open) {
+          section.content.replaceChildren();
         }
       };
 
-      assemblyDetails.addEventListener("toggle", syncAssemblyContent);
-      syncAssemblyContent();
+      sections.forEach((section) => {
+        section.details.addEventListener("toggle", () => {
+          if (section.details.open) {
+            sections.forEach((other) => {
+              if (other !== section && other.details.open) {
+                other.details.open = false;
+                syncSection(other);
+              }
+            });
+          }
+          syncSection(section);
+        });
+      });
+      sections.forEach(syncSection);
 
       customElements.whenDefined("zometool-instructions").then(localizeZometoolInstructions);
       new MutationObserver(localizeZometoolInstructions)
@@ -125,30 +139,30 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     aspect-ratio: 4 / 5;
   }
 
-  .assembly-details {
+  .module-details {
     margin-bottom: 2rem;
   }
 
-  .assembly-details > summary {
+  .module-details > summary {
     cursor: pointer;
     margin: 0.75rem 0 1.25rem;
     padding: 0.8rem 1rem;
     border: 1px solid #8ab6cc;
     border-radius: 0.4rem;
     background: #eaf5fa;
-    font-size: 1.1em;
+    font-size: 1.5em;
     font-weight: 700;
   }
 
-  .assembly-details .collapse-label {
+  .module-details .collapse-label {
     display: none;
   }
 
-  .assembly-details[open] .expand-label {
+  .module-details[open] .expand-label {
     display: none;
   }
 
-  .assembly-details[open] .collapse-label {
+  .module-details[open] .collapse-label {
     display: inline;
   }
 
@@ -232,7 +246,13 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>拼搭模块</h2>
+<details id="build-details" class="module-details" open>
+  <summary>
+    <span class="expand-label">展开拼搭模块</span>
+    <span class="collapse-label">收起拼搭模块</span>
+  </summary>
+  <div id="build-content"></div>
+  <template id="build-template">
 
 <h3>连接件</h3>
 
@@ -355,12 +375,13 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   </table>
 </div>
 
-<h2>组装模块</h2>
+  </template>
+</details>
 
-<details id="assembly-details" class="assembly-details">
+<details id="assembly-details" class="module-details">
   <summary>
-    <span class="expand-label">点击展开组装腿和最终组装（将加载 3D 模型）</span>
-    <span class="collapse-label">点击收起组装模块（将卸载 3D 模型）</span>
+    <span class="expand-label">展开组装模块</span>
+    <span class="collapse-label">收起组装模块</span>
   </summary>
   <div id="assembly-content"></div>
   <template id="assembly-template">
