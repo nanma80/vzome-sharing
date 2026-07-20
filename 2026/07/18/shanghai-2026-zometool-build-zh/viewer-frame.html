@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Zometool 搭建步骤</title>
+  <style>
+    html,
+    body,
+    #viewer-root {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+    }
+
+    zometool-instructions {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <script type="module" src="https://www.vzome.com/modules/zometool.js"></script>
+</head>
+<body>
+  <div id="viewer-root"></div>
+  <script type="module">
+    const params = new URLSearchParams(window.location.search);
+    const viewer = document.createElement("zometool-instructions");
+    viewer.setAttribute("src", params.get("model"));
+    viewer.setAttribute("module", params.get("module"));
+
+    const fallback = document.createElement("img");
+    fallback.src = params.get("image");
+    fallback.alt = "";
+    fallback.style.width = "100%";
+    viewer.append(fallback);
+    document.querySelector("#viewer-root").append(viewer);
+
+    const localize = () => {
+      const root = viewer.shadowRoot;
+      if (!root) {
+        return;
+      }
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
+        node.nodeValue = node.nodeValue.replaceAll("Show Build Steps", "显示搭建步骤");
+      }
+    };
+
+    await customElements.whenDefined("zometool-instructions");
+    localize();
+    const retry = setInterval(localize, 250);
+    setTimeout(() => clearInterval(retry), 30000);
+  </script>
+</body>
+</html>

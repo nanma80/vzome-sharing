@@ -11,39 +11,9 @@ layout: vzome
 https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52-17-489Z.html
 {% endcomment %}
 
-<script type="module" src="https://www.vzome.com/modules/zometool.js"></script>
 <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 <script>
   (() => {
-    const localizeText = (root) => {
-      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
-      for (let node = walker.nextNode(); node; node = walker.nextNode()) {
-        if (node.nodeValue.includes("Show Build Steps")) {
-          node.nodeValue = node.nodeValue.replaceAll("Show Build Steps", "显示搭建步骤");
-        }
-      }
-    };
-
-    const localizeViewer = (viewer) => {
-      const root = viewer.shadowRoot;
-      if (!root) {
-        return;
-      }
-      localizeText(root);
-      if (!viewer.zometoolZhObserver) {
-        viewer.zometoolZhObserver = new MutationObserver(() => localizeText(root));
-        viewer.zometoolZhObserver.observe(root, {
-          childList: true,
-          subtree: true,
-          characterData: true
-        });
-      }
-    };
-
-    const localizeZometoolInstructions = () => {
-      document.querySelectorAll("zometool-instructions").forEach(localizeViewer);
-    };
-
     document.addEventListener("DOMContentLoaded", () => {
       const sections = ["build", "assembly"].map((name) => ({
         details: document.querySelector(`#${name}-details`),
@@ -73,19 +43,6 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
         });
       });
       sections.forEach(syncSection);
-
-      customElements.whenDefined("zometool-instructions").then(localizeZometoolInstructions);
-      new MutationObserver(localizeZometoolInstructions)
-        .observe(document.body, { childList: true, subtree: true });
-
-      let retries = 0;
-      const retry = setInterval(() => {
-        localizeZometoolInstructions();
-        retries += 1;
-        if (retries >= 60) {
-          clearInterval(retry);
-        }
-      }, 500);
     });
   })();
 </script>
@@ -125,7 +82,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   }
 
   .model-viewer > vzome-viewer,
-  .model-viewer > zometool-instructions {
+  .model-viewer > .step-viewer-frame {
     display: block;
     width: 100%;
     height: auto;
@@ -135,8 +92,9 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     aspect-ratio: 1;
   }
 
-  .model-viewer > zometool-instructions {
+  .model-viewer > .step-viewer-frame {
     aspect-ratio: 4 / 5;
+    border: 0;
   }
 
   .module-details {
@@ -173,7 +131,7 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     }
 
     .model-viewer > vzome-viewer,
-    .model-viewer > zometool-instructions {
+    .model-viewer > .step-viewer-frame {
       height: auto;
       aspect-ratio: 4 / 5;
     }
@@ -259,10 +217,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 <p>我们需要 <strong><em>25</em></strong> 个这样的连接件：</p>
 
 <figure class="model-viewer">
-  <zometool-instructions module="junction"
-        src="joint_module_steps.vZome">
-    <img style="width: 100%" src="joint_module_steps.png">
-  </zometool-instructions>
+  <iframe class="step-viewer-frame" title="连接件 3D 搭建步骤"
+          src="viewer-frame.html?model=joint_module_steps.vZome&amp;module=junction&amp;image=joint_module_steps.png"></iframe>
 
   <figcaption style="text-align: center; font-style: italic;">
     连接件（共 25 个）
@@ -290,10 +246,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <figure class="model-viewer">
-  <zometool-instructions module="foot"
-        src="foot_module_steps.vZome">
-    <img style="width: 100%" src="foot_module_steps.png">
-  </zometool-instructions>
+  <iframe class="step-viewer-frame" title="底脚 3D 搭建步骤"
+          src="viewer-frame.html?model=foot_module_steps.vZome&amp;module=foot&amp;image=foot_module_steps.png"></iframe>
 
   <figcaption style="text-align: center; font-style: italic;">
     底脚（共 5 个）
@@ -321,10 +275,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <figure class="model-viewer">
-  <zometool-instructions module="foothold"
-        src="foothold_steps.vZome">
-    <img style="width: 100%" src="foothold_steps.png">
-  </zometool-instructions>
+  <iframe class="step-viewer-frame" title="加固件 3D 搭建步骤"
+          src="viewer-frame.html?model=foothold_steps.vZome&amp;module=foothold&amp;image=foothold_steps.png"></iframe>
 
   <figcaption style="text-align: center; font-style: italic;">
     加固件（共 5 个）
@@ -352,10 +304,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </p>
 
 <figure class="model-viewer">
-  <zometool-instructions module="face unit"
-        src="face_module_steps.vZome">
-    <img style="width: 100%" src="face_module_steps.png">
-  </zometool-instructions>
+  <iframe class="step-viewer-frame" title="面模块 3D 搭建步骤"
+          src="viewer-frame.html?model=face_module_steps.vZome&amp;module=face%20unit&amp;image=face_module_steps.png"></iframe>
 
   <figcaption style="text-align: center; font-style: italic;">
     面模块（共 15 个）
@@ -394,10 +344,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     </p>
 
     <figure class="model-viewer">
-      <zometool-instructions module="leg assembly"
-            src="assembled_leg_complex.vZome">
-        <img style="width: 100%" src="assembled_leg_complex.png">
-      </zometool-instructions>
+      <iframe class="step-viewer-frame" title="组装腿 3D 搭建步骤"
+              src="viewer-frame.html?model=assembled_leg_complex.vZome&amp;module=leg%20assembly&amp;image=assembled_leg_complex.png"></iframe>
 
       <figcaption style="text-align: center; font-style: italic;">
         组装腿（共 5 个）
@@ -411,10 +359,8 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
     </p>
 
     <figure class="model-viewer">
-      <zometool-instructions module="assembly"
-            src="final_assembled_steps.vZome">
-        <img style="width: 100%" src="final_assembled_steps.png">
-      </zometool-instructions>
+      <iframe class="step-viewer-frame" title="最终组装 3D 搭建步骤"
+              src="viewer-frame.html?model=final_assembled_steps.vZome&amp;module=assembly&amp;image=final_assembled_steps.png"></iframe>
 
       <figcaption style="text-align: center; font-style: italic;">
         最终组装
