@@ -1,7 +1,7 @@
 ---
-title: 上海 2026 Zometool 搭建活动
+title: Zomerthon 2026 上海站搭建说明
 date: 2026-07-18
-share-description: 上海大型 Zometool 模型搭建活动中文说明
+share-description: Zomerthon 2026 上海站搭建说明
 image: assembled.png
 layout: vzome
 ---
