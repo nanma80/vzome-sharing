@@ -195,10 +195,10 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
   <p><strong>总零件清单（25 个连接件，5 个底脚，5 个加固件，15 个面模块）</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B0</td><td class="part-blue">55</td><td class="part-blue">B1</td><td class="part-blue">965</td><td class="part-blue">B2</td><td class="part-blue">890</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue">55</td><td class="part-blue">B1</td><td class="part-blue">1010</td><td class="part-blue">B2</td><td class="part-blue">935</td></tr>
       <tr><td class="part-red">R0</td><td class="part-red">20</td><td class="part-red">R1</td><td class="part-red">180</td><td class="part-red">R2</td><td class="part-red">630</td></tr>
       <tr><td class="part-yellow">Y0</td><td class="part-yellow">0</td><td class="part-yellow">Y1</td><td class="part-yellow">310</td><td class="part-yellow">Y2</td><td class="part-yellow">680</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">190</td><td></td><td></td><td>球</td><td>1555</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">100</td><td></td><td></td><td>球</td><td>1555</td></tr>
     </tbody>
   </table>
 </div>
@@ -315,14 +315,14 @@ https://vorth.github.io/vzome-sharing/2026/07/02/SUMaC-2026-Zometool-Build-13-52
 </figure>
 
 <div class="parts-inventory">
-  <p><strong>起步定标：</strong>先用 12 根 B2 搭起始六边形；之后按 3D 图继续。</p>
+  <p><strong>起步定标：</strong>先用 6 根 B1 和 12 根 B2 搭起始的雪花形；之后按 3D 图继续。</p>
   <p><strong>单个面模块零件清单</strong></p>
   <table>
     <tbody>
-      <tr><td class="part-blue">B0</td><td class="part-blue"></td><td class="part-blue">B1</td><td class="part-blue">54</td><td class="part-blue">B2</td><td class="part-blue">51</td></tr>
+      <tr><td class="part-blue">B0</td><td class="part-blue"></td><td class="part-blue">B1</td><td class="part-blue">57</td><td class="part-blue">B2</td><td class="part-blue">54</td></tr>
       <tr><td class="part-red">R0</td><td class="part-red"></td><td class="part-red">R1</td><td class="part-red">9</td><td class="part-red">R2</td><td class="part-red">33</td></tr>
       <tr><td class="part-yellow">Y0</td><td class="part-yellow"></td><td class="part-yellow">Y1</td><td class="part-yellow">12</td><td class="part-yellow">Y2</td><td class="part-yellow">36</td></tr>
-      <tr><td class="part-green">G1</td><td class="part-green">12</td><td></td><td></td><td>球</td><td>79</td></tr>
+      <tr><td class="part-green">G1</td><td class="part-green">6</td><td></td><td></td><td>球</td><td>79</td></tr>
     </tbody>
   </table>
 </div>
