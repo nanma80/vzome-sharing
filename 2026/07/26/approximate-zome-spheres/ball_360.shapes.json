@@ -18,11 +18,11 @@
     "ambientColor" : "#292929"
   },
   "camera" : {
-    "width" : 259.9325,
+    "width" : 220.942625,
     "position" : {
-      "x" : 300.6401,
+      "x" : 255.544085,
       "y" : 0.0,
-      "z" : 486.44592
+      "z" : 413.479032
     },
     "stereo" : false,
     "fieldOfView" : 0.44695318,
@@ -32,7 +32,7 @@
       "z" : -0.16245985,
       "zero" : false
     },
-    "viewDistance" : 571.8515,
+    "viewDistance" : 486.073775,
     "perspective" : true,
     "lookAtPointRV" : {
       "x" : 0.0,
@@ -46,8 +46,8 @@
       "z" : -0.8506508,
       "zero" : false
     },
-    "nearClipDistance" : 1.4296287,
-    "farClipDistance" : 1143.7029,
+    "nearClipDistance" : 1.215184395,
+    "farClipDistance" : 972.147465,
     "lookDirection" : {
       "x" : -0.5257311,
       "y" : 0.0,

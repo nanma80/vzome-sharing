@@ -18,11 +18,11 @@
     "backgroundColor" : "#AFC8DC"
   },
   "camera" : {
-    "width" : 177.75783,
+    "width" : 151.0941555,
     "position" : {
-      "x" : 205.59619,
+      "x" : 174.7567615,
       "y" : 0.0,
-      "z" : 332.66162
+      "z" : 282.762377
     },
     "upDirectionRV" : {
       "x" : 0.688191,
@@ -44,13 +44,13 @@
       "z" : 0.0,
       "zero" : true
     },
-    "viewDistance" : 391.0672,
+    "viewDistance" : 332.40712,
     "lookAtPoint" : {
       "x" : 0.0,
       "y" : 0.0,
       "z" : 0.0
     },
-    "farClipDistance" : 782.1345,
+    "farClipDistance" : 664.814325,
     "lookDirection" : {
       "x" : -0.5257311,
       "y" : 0.0,
@@ -62,7 +62,7 @@
       "z" : -0.4253254
     },
     "stereo" : false,
-    "nearClipDistance" : 0.9776685
+    "nearClipDistance" : 0.831018225
   },
   "embedding" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ],
   "shapes" : [ {

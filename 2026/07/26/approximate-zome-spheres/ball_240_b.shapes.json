@@ -19,9 +19,9 @@
   },
   "camera" : {
     "position" : {
-      "x" : 158.52527,
+      "x" : 134.7464795,
       "y" : 0.0,
-      "z" : 256.49927
+      "z" : 218.0243795
     },
     "perspective" : true,
     "lookDirectionRV" : {
@@ -31,7 +31,7 @@
       "zero" : false
     },
     "fieldOfView" : 0.44695327,
-    "viewDistance" : 301.533,
+    "viewDistance" : 256.30305,
     "upDirectionRV" : {
       "x" : 0.26286557,
       "y" : 0.9510565,
@@ -44,14 +44,14 @@
       "z" : 0.0,
       "zero" : true
     },
-    "nearClipDistance" : 0.7538325,
+    "nearClipDistance" : 0.640757625,
     "stereo" : false,
     "lookAtPoint" : {
       "x" : 0.0,
       "y" : 0.0,
       "z" : 0.0
     },
-    "farClipDistance" : 603.066,
+    "farClipDistance" : 512.6061,
     "upDirection" : {
       "x" : 0.26286557,
       "y" : 0.9510565,
@@ -62,7 +62,7 @@
       "y" : 0.0,
       "z" : -0.8506508
     },
-    "width" : 137.06047
+    "width" : 116.5013995
   },
   "embedding" : [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ],
   "shapes" : [ {
