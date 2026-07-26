@@ -1,0 +1,109 @@
+[
+  {
+    "key": "ball_240_a",
+    "variant": "a",
+    "balls": 240,
+    "struts": 420,
+    "rho": 0.9999999999999998,
+    "radius": 72.752,
+    "diameter_b2": 10.6,
+    "faces": {
+      "4": 150,
+      "6": 20,
+      "10": 12
+    },
+    "parts": "B1 x120, B2 x60, B3 x120, G2 x120",
+    "vzome": "ball_240_a.vZome",
+    "image": "ball_240_a.png"
+  },
+  {
+    "key": "ball_240_b",
+    "variant": "b",
+    "balls": 240,
+    "struts": 420,
+    "rho": 0.9999999999999999,
+    "radius": 63.654,
+    "diameter_b2": 9.3,
+    "faces": {
+      "4": 150,
+      "6": 20,
+      "10": 12
+    },
+    "parts": "B1 x60, B2 x180, B3 x60, G1 x120",
+    "vzome": "ball_240_b.vZome",
+    "image": "ball_240_b.png"
+  },
+  {
+    "key": "ball_240_c",
+    "variant": "c",
+    "balls": 240,
+    "struts": 450,
+    "rho": 0.9999999999999999,
+    "radius": 51.282,
+    "diameter_b2": 7.5,
+    "faces": {
+      "3": 60,
+      "4": 120,
+      "5": 12,
+      "9": 20
+    },
+    "parts": "B0 x30, B1 x120, B2 x60, G1 x240",
+    "vzome": "ball_240_c.vZome",
+    "image": "ball_240_c.png"
+  },
+  {
+    "key": "ball_360",
+    "variant": null,
+    "balls": 360,
+    "struts": 660,
+    "rho": 0.999599753752393,
+    "radius": 72.752,
+    "diameter_b2": 10.6,
+    "faces": {
+      "4": 270,
+      "6": 20,
+      "10": 12
+    },
+    "parts": "B0 x60, B1 x180, B2 x60, B3 x120, G2 x120, Y1 x120",
+    "vzome": "ball_360.vZome",
+    "image": "ball_360.png"
+  },
+  {
+    "key": "ball_960_b",
+    "variant": "b",
+    "balls": 960,
+    "struts": 1500,
+    "rho": 0.9947812841901638,
+    "radius": 113.49,
+    "diameter_b2": 16.6,
+    "faces": {
+      "4": 360,
+      "6": 60,
+      "8": 60,
+      "10": 12,
+      "12": 50
+    },
+    "parts": "B1 x300, B2 x120, G1 x480, R2 x240, Y1 x240, Y2 x120",
+    "vzome": "ball_960_b.vZome",
+    "image": "ball_960_b.png"
+  },
+  {
+    "key": "ball_960_a",
+    "variant": "a",
+    "balls": 960,
+    "struts": 1500,
+    "rho": 0.9947812841901638,
+    "radius": 113.49,
+    "diameter_b2": 16.6,
+    "faces": {
+      "4": 360,
+      "6": 60,
+      "8": 60,
+      "10": 12,
+      "12": 50
+    },
+    "parts": "B1 x240, B2 x180, G1 x480, R2 x240, Y1 x360",
+    "vzome": "ball_960_a.vZome",
+    "image": "ball_960_a.png"
+  }
+]
