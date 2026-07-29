@@ -1,16 +1,16 @@
 ---
 title: triangles_3_levels_collapsed
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.png
+image: https://www.nan.ma/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.png
 layout: design
 ---
 
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/07/29/14-58-03-triangles_3_levels_collapsed/triangles_3_levels_collapsed.png" >
   </vzome-viewer>
 
 
