@@ -1,13 +1,13 @@
 ---
 title: triangles_3_levels_expanded
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.png
+image: https://www.nan.ma/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.png
 published: true
 layout: vzome
 ---
 
 {% comment %}
- - [***web page generated from this source***](<https://nanma80.github.io/vzome-sharing/2026/07/29/triangles_3_levels_expanded-14-58-29.html>)
+ - [***web page generated from this source***](<https://www.nan.ma/vzome-sharing/2026/07/29/triangles_3_levels_expanded-14-58-29.html>)
  - [data assets and more info](<https://github.com/nanma80/vzome-sharing/tree/main/2026/07/29/14-58-29-triangles_3_levels_expanded/>)
  
 {% endcomment %}
@@ -18,9 +18,9 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/07/29/14-58-29-triangles_3_levels_expanded/triangles_3_levels_expanded.png" >
   </vzome-viewer>
 
   <figcaption style="text-align: center; font-style: italic;">
