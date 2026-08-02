@@ -1,16 +1,16 @@
 ---
 title: exact_360
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.png
+image: https://www.nan.ma/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.png
 layout: design
 ---
 
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/08/02/12-10-13-exact_360/exact_360.png" >
   </vzome-viewer>
 
 
