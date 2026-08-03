@@ -1,0 +1,119 @@
+[
+  {
+    "key": "truncated_icosidodecahedron",
+    "title": "Truncated icosidodecahedron",
+    "variant": null,
+    "balls": 120,
+    "struts": 180,
+    "rho": 0.9999999999999999,
+    "exact": true,
+    "distinct_scales": 1,
+    "scale_count": 1,
+    "faces": {
+      "4": 30,
+      "6": 20,
+      "10": 12
+    },
+    "vzome": "truncated_icosidodecahedron.vZome",
+    "image": "truncated_icosidodecahedron.png",
+    "note": "An Archimedean solid. All 120 balls lie in one orbit, so a common radius comes free from the symmetry."
+  },
+  {
+    "key": "ball_240_a",
+    "title": null,
+    "variant": "a",
+    "balls": 240,
+    "struts": 420,
+    "rho": 0.9999999999999998,
+    "exact": true,
+    "distinct_scales": 3,
+    "scale_count": 3,
+    "faces": {
+      "4": 150,
+      "6": 20,
+      "10": 12
+    },
+    "vzome": "ball_240_a.vZome",
+    "image": "ball_240_a.png",
+    "note": "Two orbits at a common radius."
+  },
+  {
+    "key": "ball_240_b",
+    "title": null,
+    "variant": "b",
+    "balls": 240,
+    "struts": 420,
+    "rho": 0.9999999999999999,
+    "exact": true,
+    "distinct_scales": 3,
+    "scale_count": 3,
+    "faces": {
+      "4": 150,
+      "6": 20,
+      "10": 12
+    },
+    "vzome": "ball_240_b.vZome",
+    "image": "ball_240_b.png",
+    "note": "Two orbits at a common radius."
+  },
+  {
+    "key": "ball_240_c",
+    "title": null,
+    "variant": "c",
+    "balls": 240,
+    "struts": 450,
+    "rho": 0.9999999999999999,
+    "exact": true,
+    "distinct_scales": 3,
+    "scale_count": 3,
+    "faces": {
+      "3": 60,
+      "4": 120,
+      "5": 12,
+      "9": 20
+    },
+    "vzome": "ball_240_c.vZome",
+    "image": "ball_240_c.png",
+    "note": "Three orbits at a common radius."
+  },
+  {
+    "key": "exact_360",
+    "title": null,
+    "variant": null,
+    "balls": 360,
+    "struts": 600,
+    "rho": 0.9999999999999998,
+    "exact": true,
+    "distinct_scales": 2,
+    "scale_count": 3,
+    "faces": {
+      "4": 180,
+      "6": 20,
+      "8": 30,
+      "10": 12
+    },
+    "vzome": "exact_360.vZome",
+    "image": "exact_360.png",
+    "note": "Three orbits. Most balls with full icosahedral symmetry, struts of length 0-2."
+  },
+  {
+    "key": "exact_480_span3",
+    "title": null,
+    "variant": null,
+    "balls": 480,
+    "struts": 720,
+    "rho": 0.9999999999999998,
+    "exact": true,
+    "distinct_scales": 4,
+    "scale_count": 4,
+    "faces": {
+      "4": 150,
+      "6": 60,
+      "10": 12,
+      "18": 20
+    },
+    "vzome": "exact_480_span3.vZome",
+    "image": "exact_480_span3.png",
+    "note": "Four orbits. Most balls with full icosahedral symmetry, struts of length 0-3."
+  }
+]
