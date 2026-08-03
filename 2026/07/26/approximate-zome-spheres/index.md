@@ -10,6 +10,10 @@ Each model is a hollow Zometool shell: every ball sits on one thin spherical
 shell centred on the origin, and every edge of the convex hull is a **single**
 standard strut (RGBY, scales 0-3, no concatenation). Drag to rotate any model.
 
+The three 240-ball shells here are exactly round: their radii are equal in
+exact arithmetic, not merely to within a tolerance. More models like them are
+collected in [Perfectly Round Zome Models](../../../08/02/perfectly-round-zome-models/).
+
 <script type='module' src='https://www.vzome.com/modules/vzome-viewer.js'></script>
 
 <style>
