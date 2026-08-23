@@ -1,16 +1,16 @@
 ---
 title: nanochair
 share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://nanma80.github.io/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.png
+image: https://www.nan.ma/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.png
 layout: design
 ---
 
   
   
   <vzome-viewer style="width: 100%; height: 60dvh" 
-        src="https://nanma80.github.io/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.vZome" >
+        src="https://www.nan.ma/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.vZome" >
     <img  style="width: 100%"
-        src="https://nanma80.github.io/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.png" >
+        src="https://www.nan.ma/vzome-sharing/2026/08/22/21-17-01-nanochair/nanochair.png" >
   </vzome-viewer>
 
 
