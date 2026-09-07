@@ -5,6 +5,19 @@
  - [source file for that blog post](<https://github.com/nanma80/vzome-sharing/edit/main/_posts/2026-09-06-elevator-16-35-21.md>); click to customize
  
 
+## Scene Descriptions in This Post
+
+The blog post loads `vzome-scene-descriptions.js` and
+`vzome-scene-descriptions.css` from this folder and opts its viewer in with
+`data-scene-descriptions`. The selected scene's `content` appears in a box
+above the viewer; empty, missing, or whitespace-only content leaves no box.
+Text and line breaks are preserved without interpreting HTML.
+
+This uses the viewer's existing scene metadata and render events, with no
+additional model download or changes to the scene dropdown. Non-indexed
+viewers expose their selection through `select.scene__select` in their open
+shadow root. Other posts and the standalone design page are unchanged.
+
 
 ## How to Use or Share this Design
 
