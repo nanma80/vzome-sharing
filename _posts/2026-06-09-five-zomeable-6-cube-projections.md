@@ -39,6 +39,11 @@ layout: vzome
     color: #555;
     text-align: center;
   }
+  .six-cube-card > img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
 </style>
 
 <div class="six-cube-gallery">
@@ -113,3 +118,35 @@ The same tight-frame analysis also classifies other cube dimensions where same-c
 The five models on this page are exactly the dimension-6 row of this table.
 
 For more detail, see the [supporting tight-frame analysis](https://www.nan.ma/vzome-sharing/2026/06/09/five-zomeable-6-cube-projections/analysis.html).
+
+## Physical constructions
+
+Paulo Freire and I explored these projections with help from AI and vZome.
+Paulo built the red, yellow, and green 2 models below. Joris built the blue model.
+
+These physical builds handle crossings that the virtual models leave unconstrained.
+Additional connectors and subdivided edges are construction adaptations; the
+equal-length property refers to the original projected 6-cube edges.
+
+<div class="six-cube-gallery">
+  <figure class="six-cube-card">
+    <img src="{{ '/2026/06/09/five-zomeable-6-cube-projections/physical-red-paulo-freire.jpg' | relative_url }}" alt="Paulo Freire's red Zometool construction of the icosahedral 6-cube projection" loading="lazy" width="2048" height="2044">
+    <figcaption class="six-cube-meta">Red projection, built and shared by Paulo Freire. <a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/beyond_a.htm">Source: Fig. 10.10 in Paulo's polytope models.</a></figcaption>
+  </figure>
+  <figure class="six-cube-card">
+    <img src="{{ '/2026/06/09/five-zomeable-6-cube-projections/physical-yellow-paulo-freire.jpg' | relative_url }}" alt="Paulo Freire's yellow Zometool construction of the pyritohedral 6-cube projection" loading="lazy" width="1998" height="2048">
+    <figcaption class="six-cube-meta">Yellow projection, built and shared by Paulo Freire. <a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/beyond_a.htm">Source: Fig. 10.15 in Paulo's polytope models.</a></figcaption>
+  </figure>
+  <figure class="six-cube-card">
+    <img src="{{ '/2026/06/09/five-zomeable-6-cube-projections/physical-blue-joris.jpg' | relative_url }}" alt="Joris's blue Zometool construction of the 6-cube projection, with white and blue connectors" loading="lazy" width="1556" height="1468">
+    <figcaption class="six-cube-meta">Blue projection, built and shared by Joris. <a href="https://joris1724.github.io/vzome-sharing/2026/06/13/All-Blue-6-Cube-15-42-48.html">Source: All-Blue projection of the 6-Cube.</a></figcaption>
+  </figure>
+  <figure class="six-cube-card">
+    <img src="{{ '/2026/06/09/five-zomeable-6-cube-projections/physical-green-2-paulo-freire.jpg' | relative_url }}" alt="Paulo Freire's green Zometool construction of the octahedral green 2 projection" loading="lazy" width="2048" height="1990">
+    <figcaption class="six-cube-meta">Green 2 projection, built and shared by Paulo Freire. <a href="https://www3.mpifr-bonn.mpg.de/staff/pfreire/polyhedra/beyond_a.htm">Source: Fig. 10.13 in Paulo's polytope models.</a></figcaption>
+  </figure>
+</div>
+
+In Joris's blue build, blue connectors mark added intersections and white
+connectors mark projected cube vertices. Six 3D-printed pieces handle the
+remaining crossings; his linked page gives the construction details.
