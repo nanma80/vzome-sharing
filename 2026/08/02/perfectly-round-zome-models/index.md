@@ -32,7 +32,7 @@ For shells that are very round but not exactly so, see
     aspect-ratio: 1 / 1;
     height: auto;
   }
-  .approx-model vzome-viewer img {
+  .approx-model img {
     width: 100%;
     height: auto;
   }
@@ -110,4 +110,25 @@ For shells that are very round but not exactly so, see
   <span class="model-title">480 balls 720 struts</span>
   <span class="model-note">Four orbits. Most balls with full icosahedral symmetry, struts of length 0-3.</span>
  </figcaption>
+</figure>
+
+## Physical construction
+
+Scott Vorthmann and I built the **240-ball model, variant A**, shown in the
+interactive gallery above. Its spherical shell has 240 balls and 420 struts.
+The red struts support the model and are not part of the sphere.
+
+<figure class="approx-model">
+ <img src="physical-240-a-builders.jpg" alt="Two builders beside the completed blue-and-green 240-ball Zometool shell" loading="lazy" width="4032" height="3024">
+ <figcaption>The completed 240-ball model, built by Nan Ma and Scott Vorthmann.</figcaption>
+</figure>
+
+<figure class="approx-model">
+ <img src="physical-240-a-shell.jpg" alt="The 240-ball Zometool shell on the floor, with blue and green struts and red support legs" loading="lazy" width="2753" height="2753">
+ <figcaption>A closer view of the shell.</figcaption>
+</figure>
+
+<figure class="approx-model">
+ <img src="physical-240-a-suspended.jpg" alt="The blue-and-green 240-ball Zometool shell suspended from the ceiling" loading="lazy" width="2160" height="2880">
+ <figcaption>The shell suspended from the ceiling.</figcaption>
 </figure>
