@@ -6,7 +6,7 @@ lang: zh-CN
 ---
 
 ## Zometool 是什么？
-- Zometool 是一个球棍模型：专为多面体爱好者设计的球棍模型
+- Zometool 是一个球棍模型：专为多面体爱好者设计的球棍模型。本文向爱好多面体的读者介绍 Zometool 的数学原理
 
 ## Zometool 的几何性质
 
